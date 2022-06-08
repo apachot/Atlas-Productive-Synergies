@@ -1,4 +1,4 @@
-# Atlas-Productive-Synergies
+# Atlas of Productive Synergies
 
 ### What if Artificial Intelligence helped us build a more sustainable industry? #
 
