@@ -14,6 +14,11 @@ You will find in this project several use cases:
 * Assess the level of resilience of each company;
 * to take into account the HR dimension in order to pilot training offers and to recommend the most appropriate territory in which to relocate a company.
 
+### Screenshots : #
+![Product Space](https://github.com/apachot/Atlas-Productive-Synergies/blob/main/screenshots/Product_space_CF_atlas.png?raw=true "Product Space")
+
+![Custumer-supplier relationship](https://github.com/apachot/Atlas-Productive-Synergies/blob/main/screenshots/Recommandation_alternatives.png?raw=true "Custumer-supplier relationship")
+
 ### Papers : #
 
 Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2021a). *Multiobjective Recommendation for Sustainable Production Systems*. In H. Abdollahpouri, M. Elahi, M. Mansoury, S. Sahebi, Z. Nazari, A. Chaney, & B. Loni (Éds.), Proceedings of the 1st Workshop on Multi-Objective Recommender Systems (MORS 2021) co-located with 15th ACM Conference on Recommender Systems (RecSys 2021), Amsterdam, The Netherlands, September 25, 2021 (Vol. 2959). CEUR-WS.org. http://ceur-ws.org/Vol-2959/paper7.pdf
