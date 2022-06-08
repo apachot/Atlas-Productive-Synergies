@@ -30,7 +30,14 @@ Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2021c). *Decision
 
 Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2022, mai). *Identify Potential Diversification to Companies through Collaborative Filtering*. 9th International Multidisciplinary Conference on Economics, Business Engineering and Social Sciences. https://hal.archives-ouvertes.fr/hal-03666906
 
+### Credits : #
+
+The computer developments and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
+
+The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the University of Clermont Ferrand under the direction of Professor Frédéric Chausse.
+
 ### Licence : #
+
 GNU General Public License v3.0
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
