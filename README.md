@@ -32,7 +32,7 @@ Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2022, mai). *Iden
 
 ### Credits : #
 
-The computer developments and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
+The source code and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
 
 The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the University of Clermont Ferrand under the direction of Professor Frédéric Chausse.
 
