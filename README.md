@@ -6,13 +6,14 @@ The recent health and geopolitical crises highlighted the fragility of our Europ
 
 Open data, associated with Artificial Intelligence offers new perspectives for building a twin of the French productive system bringing together both macro-economic data and real observations on companies. This offers a powerful tool to identify industrial know-how and Global Value Chains (GVC). 
 
-The **Atlas of Productive Synergies** (<https://atlas.productive-synergies.com/>) is our experimental platform to develop and evaluate our research on industrial resilience.
+The **Atlas of Productive Synergies** (<https://atlas.productive-synergies.com/>) is our experimental platform to develop and evaluate our research on industrial resilience ([Video presentation](https://www.youtube.com/watch?v=UmKzEqd6fa0 "Video presentation")).
 
 You will find in this project several use cases: 
 * identify alternative local suppliers to replace imports ;
 * propose new diversification opportunities for companies;
 * Assess the level of resilience of each company;
 * to take into account the HR dimension in order to pilot training offers and to recommend the most appropriate territory in which to relocate a company.
+
 
 ### Screenshots : #
 ![Product Space](https://github.com/apachot/Atlas-Productive-Synergies/blob/main/screenshots/Product_space_CF_atlas.png?raw=true "Product Space")
