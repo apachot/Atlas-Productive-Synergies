@@ -28,9 +28,9 @@ The research work was conducted by Arnault Pachot, President of OpenStudio in th
 
 *OpenStudio Team:*
 * Project management: Dr Jean-Luc Marini
-* Lead development: Pascal Richard
-* Datascientist, economist: Nicolas Sauzéat
-* Development: Julien Chanséaume, Taoufik Jarmouni & Cédric Robert
+* Lead development: [Pascal Richard](https://github.com/Pascal-Richard)
+* Datascientist, economist: [Nicolas Sauzéat](https://github.com/NicolasSauzeat)
+* Development: [Julien Chanséaume](https://github.com/bibich), Taoufik Jarmouni & Cédric Robert
 * Graphics: Marion Laurent & Vincent Gauthier
  
 *UCA Team:*
