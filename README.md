@@ -22,9 +22,13 @@ You will find in this project several use cases:
 
 ### Credits : #
 
-The source code and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
+The source code and graphics were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
+* Managment: Dr Jean-Luc Marini, Alexandre Alaimo.
+* Lead development: Pascal Richard
+* Development: Nicolas Sauzéat, Julien Chanséaume, Taoufik Jarmouni and Cédric Robert
+* Graphics: Marion Laurent and Vincent Gauthier
 
-The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the [University of Clermont Ferrand (UCA)](https://uca.fr) under the direction of Professor Frédéric Chausse.
+The research work was conducted by Arnault Pachot, President of OpenStudio in the context of university thesis in computer science at the [University of Clermont Ferrand (UCA)](https://uca.fr) under the direction of Professor Frédéric Chausse.
 
 ### Papers : #
 
