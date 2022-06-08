@@ -20,6 +20,12 @@ You will find in this project several use cases:
 
 ![Custumer-supplier relationship](https://github.com/apachot/Atlas-Productive-Synergies/blob/main/screenshots/Recommandation_alternatives.png?raw=true "Custumer-supplier relationship")
 
+### Credits : #
+
+The source code and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
+
+The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the University of Clermont Ferrand under the direction of Professor Frédéric Chausse.
+
 ### Papers : #
 
 Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2021a). *Multiobjective Recommendation for Sustainable Production Systems*. In H. Abdollahpouri, M. Elahi, M. Mansoury, S. Sahebi, Z. Nazari, A. Chaney, & B. Loni (Éds.), Proceedings of the 1st Workshop on Multi-Objective Recommender Systems (MORS 2021) co-located with 15th ACM Conference on Recommender Systems (RecSys 2021), Amsterdam, The Netherlands, September 25, 2021 (Vol. 2959). CEUR-WS.org. http://ceur-ws.org/Vol-2959/paper7.pdf
@@ -30,11 +36,6 @@ Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2021c). *Decision
 
 Pachot, A., Albouy-Kissi, A., Albouy-Kissi, B., & Chausse, F. (2022, mai). *Identify Potential Diversification to Companies through Collaborative Filtering*. 9th International Multidisciplinary Conference on Economics, Business Engineering and Social Sciences. https://hal.archives-ouvertes.fr/hal-03666906
 
-### Credits : #
-
-The source code and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
-
-The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the University of Clermont Ferrand under the direction of Professor Frédéric Chausse.
 
 ### Licence : #
 
