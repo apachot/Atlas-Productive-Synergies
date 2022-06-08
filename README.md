@@ -13,4 +13,3 @@ You will find in this project several use cases:
 - Assess the level of resilience of each company;
 - to take into account the HR dimension in order to pilot training offers and to recommend the most appropriate territory in which to relocate a company.
 
-Translated with www.DeepL.com/Translator (free version)
