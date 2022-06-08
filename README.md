@@ -24,7 +24,7 @@ You will find in this project several use cases:
 
 The source code and the graphic resources were realized and financed by [OpenStudio](https://open.studio "OpenStudio").
 
-The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the University of Clermont Ferrand under the direction of Professor Frédéric Chausse.
+The research work is conducted by Arnault Pachot, president of OpenStudio and Phd student in computer science at the [University of Clermont Ferrand (UCA)](https://uca.fr) under the direction of Professor Frédéric Chausse.
 
 ### Papers : #
 
