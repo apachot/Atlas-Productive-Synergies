@@ -1,0 +1,52 @@
+@import '../css/util.scss' ;
+
+$tooltipFillColor: rgb(255, 255, 255);
+$tooltipBorderColor: black; // rgb(180, 180, 180);
+
+.Tooltip {
+   --translation-x: 0;
+   --translation-y: 0;
+ 
+   z-index: 501;
+   position: absolute;
+   max-width: 15vw;
+   transform: translateX(calc(-50% + var(--translation-x)))
+     translateY(calc(-100% + var(--translation-y)));
+   opacity: 0.9;
+   color: rgba(0, 0, 0, 1);
+   background-color: $tooltipFillColor;
+   padding: 8px;
+   border-radius: 0.5rem;
+   border-color: $tooltipBorderColor;
+   border-width: 0;
+   will-change: transform;
+   pointer-events: none;
+   font-size: 0.9rem;
+   font-weight: 300;
+   line-height: 1.5;
+ 
+   &::after {
+     content: "";
+     position: absolute;
+     width: 0;
+     height: 0;
+     border-style: solid;
+     border-color: transparent;
+     border-bottom: 0;
+   }
+
+   &::after {
+     bottom: calc(-1vw + 1px);
+     left: 50%;
+     transform: translateX(-50%);
+     border-top-color: $tooltipFillColor;
+     border-width: calc(1vw - 1px);
+   }
+
+   &.hide {
+       display: none;
+   }
+   &.show {
+       display: block;
+   }
+}

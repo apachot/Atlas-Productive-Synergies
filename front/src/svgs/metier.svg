@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.5 31.8">
+    <g id="Calque_2" data-name="Calque 2">
+        <g id="points">
+            <g id="Composant_14_29" data-name="Composant 14 29">
+                <path id="Tracé_811" data-name="Tracé 811" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M18.65,11.58a6.53,6.53,0,0,1-13.06.16v-.16"/>
+                <path id="Tracé_812" data-name="Tracé 812" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M17.52,11.41H19a1.41,1.41,0,1,0,0-2.82h-.8"/>
+                <path id="Tracé_813" data-name="Tracé 813" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M6.16,8.59h-.8a1.41,1.41,0,1,0,0,2.82h1.5"/>
+                <line id="Ligne_8" data-name="Ligne 8" fill="none" stroke="#2f3134" stroke-miterlimit="10" x1="18.22" y1="8.59" x2="6.16" y2="8.59"/>
+                <line id="Ligne_9" data-name="Ligne 9" fill="none" stroke="#2f3134" stroke-miterlimit="10" x1="6.86" y1="11.41" x2="17.52" y2="11.41"/>
+                <g id="Groupe_565" data-name="Groupe 565">
+                    <path id="Tracé_814" data-name="Tracé 814" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M13.88,2.8l-.08-.65a1.61,1.61,0,0,0-3.22-.08v.08l-.08.65"/>
+                    <path id="Tracé_815" data-name="Tracé 815" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M10.5,2.8l-.32,2.57L10.5,2.8A6,6,0,0,0,6.16,8.6H18.22a6,6,0,0,0-4.34-5.8l.32,2.57L13.88,2.8"/>
+                </g>
+                <path id="Tracé_816" data-name="Tracé 816" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M15.94,20.7l-3.69,3.69L8.57,20.7C3.88,21.76.5,25,.5,31.3H24C24,25,20.62,21.76,15.94,20.7Z"/>
+                <path id="Tracé_817" data-name="Tracé 817" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M7.16,31.3H5.07v-9l2.09-1.05Z"/>
+                <path id="Tracé_818" data-name="Tracé 818" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" d="M17.4,31.3h2.08v-9L17.4,21.25Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

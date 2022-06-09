@@ -1,0 +1,47 @@
+@import '../css/util.scss' ;
+
+.Target {
+    position: absolute;
+    @extend %full;
+    .Legend {
+        position: absolute;
+        bottom: 1rem;
+        left:1rem;
+        .Data {
+            @extend %flex-row;
+            margin-top: 0.5rem;
+            align-items: center;
+            @extend %text-sm;
+            svg {
+                width: 25px;
+                height: 25px;
+                flex-shrink: 0;
+                margin-right: 0.5rem;
+                .Losange {
+                    width: 120px;
+                    height: 120px;
+                    fill: $white;
+                    stroke: $gray-700;
+                    stroke-width: 2;
+                }
+                circle {
+                    stroke: $gray-700;
+                    stroke-width: 2;
+                }
+            }
+        }
+    }
+    .CustomSlide {
+        position: absolute;
+        background: $white;
+        width: 15rem;
+        padding: 0.5rem 1rem;
+        @extend %flex-col;
+        align-items: flex-start;
+        justify-content: space-between;
+        border-radius: 1rem;
+        top: 6.5rem;
+        right: 1rem;
+        box-shadow: 8px 9px 9px -1px rgba(0,0,0,0.07);
+      }
+}

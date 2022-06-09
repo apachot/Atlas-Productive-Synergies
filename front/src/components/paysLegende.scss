@@ -1,0 +1,40 @@
+@import '../css/util.scss';
+
+.PaysLegende {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: calc(100% - 15px);
+    @extend %flex-row;
+    text-align: left;
+    .Legende {
+        position: relative; 
+        left: 50%;
+        transform: translate(-50%, 0);
+        .Title {
+            @extend %text-sm;
+        }
+        .Graphs {
+            @extend %flex-row;
+            @extend %text-base;
+            .Graph {
+                margin-right: 0.5rem;
+                .Circle {
+                    margin-right: 0.25rem;
+                    flex-shrink: 0;
+                    margin: auto;
+                    display: inline-block;
+                    width: 30px;
+                    height: 15px;
+                    circle {
+                        stroke: black;
+                        stroke-width: 3px ;
+                    }
+                }
+                .Text {
+                    @extend %text-sm;
+                }
+            }
+        }
+    }
+}

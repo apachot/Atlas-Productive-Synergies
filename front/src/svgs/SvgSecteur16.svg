@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -2204.035)">
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M132.258,2213.108l-2.431,7.843h3.1l-2.168,7.7,7.367-11.031-4.189.074,3-4.59Z"/>
+        <rect stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" width="24.195"
+              height="29.799" transform="translate(121.881 2209.135)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" x2="17.87"
+              transform="translate(125.044 2231.895)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" x2="17.87"
+              transform="translate(125.044 2233.961)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" x2="17.87"
+              transform="translate(125.044 2236.027)"/>
+    </g>
+</svg>

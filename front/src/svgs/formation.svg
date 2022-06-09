@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.37 24.18">
+    <g id="Calque_2" data-name="Calque 2">
+        <g id="Calque_1-2" data-name="Calque 1">
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.04px" d="M18.18,14.61.52,7.42,16.73.79a4,4,0,0,1,2.9,0L35.85,7.42Z"/>
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.04px" d="M8.74,11.14v8.12a22.25,22.25,0,0,0,9.44,2,22.21,22.21,0,0,0,9.44-2V11.14"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.04px" x1="32.02" y1="9.06" x2="32.02" y2="18.62"/>
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.04px" d="M32,18.76h0a1.59,1.59,0,0,1,1.59,1.59v3.31a0,0,0,0,1,0,0H30.43a0,0,0,0,1,0,0V20.35A1.59,1.59,0,0,1,32,18.76Z"/>
+        </g>
+    </g>
+</svg>

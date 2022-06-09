@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.76 6.56">
+    <g id="Calque_2">
+        <g id="Calque_1-2">
+            <g opacity="0.5">
+                <circle fill="currentColor" cx="3.33" cy="3.28" r="2.78"/>
+                <circle fill="currentColor" cx="11.92" cy="3.28" r="2.78"/>
+                <circle fill="currentColor" cx="20.52" cy="3.28" r="2.78"/>
+            </g>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="3.28" cy="3.28" r="2.78"/>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="11.88" cy="3.28" r="2.78"/>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="20.48" cy="3.28" r="2.78"/>
+        </g>
+    </g>
+</svg>

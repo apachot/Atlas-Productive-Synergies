@@ -1,0 +1,84 @@
+@import '../css/util.scss' ;
+
+.SideInfosRegionLoader {
+    flex-grow: 1;
+}
+
+.SideInfosRegion {
+    flex-grow: 1;
+    @extend %flex-col;
+    .TitreEtFiltre{
+        .Titre {
+            font-weight: 800;
+            @extend %text-lg;
+            margin-top: 0.25rem;
+        }
+        .Region {
+            font-weight: 500;
+            @extend %text-base;
+            margin-top: 0.25rem;
+        }
+        @media screen and (max-width: 1050px) {
+            .Region {
+                font-size: 0.75rem;
+            }
+            .Titre {
+                font-size: 1rem;
+            }            
+        }
+        .Indicateur {
+            @extend %flex-row ;
+            justify-content: space-evenly;
+            align-items: center;
+            margin-top: 0.75rem;
+            .IndicateurAdvantage, .IndicateurNumber {
+                @extend %flex-col;
+                align-items: center;
+                .Title {
+                    @extend %text-xs;
+                    color : $primary;
+                    font-weight: 500;
+                }
+                .Value {
+                    font-weight: 700;
+                    @extend %text-base;
+                    border-radius: 0.5rem;
+                    padding: 0.5rem;
+                    padding-left: 0.75rem;
+                    padding-right: 0.75rem;
+                    margin-top: 0.25rem;
+                }
+            }
+            .IndicateurAdvantage {
+                .Value {
+                    background-color: $yellow-400;
+                    color: $gray-700;
+                }
+            }
+            .IndicateurNumber {
+                .Value {
+                    background-color: $gray-700;
+                    color: $white;
+                }
+            }
+        }
+    }
+    .Button {
+        background-color: $blue-400;
+        margin:auto;
+        border-radius: 2rem;
+        color: $white;
+        padding: 0.5rem;
+        @include margin-y(0.5rem);
+        @extend %text-sm;
+        @extend %flex-row;
+        align-items: center;
+        justify-content: center;
+        .Recommandations {
+            width: 20px;
+            height: 20px;
+            margin-right: 0.25rem;
+            color: $white;
+        }
+    }
+}

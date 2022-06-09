@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.15 26.01">
+    <g id="Calque_2">
+        <g id="Calque_1-2">
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M19.53,3.46a14,14,0,0,0-6.07-1.31C6.29,2.2.5,7.38.5,13.83S5.22,25.51,10,25.51c5.06,0,4-6.06,7.23-6.06s0,6.06,1.26,6.06c4,0,8-5,8.16-11.18a11.51,11.51,0,0,0-.23-2.43"/>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="5.44" cy="14.6" r="2.17"/>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="8.22" cy="9.04" r="2.17"/>
+            <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" cx="13.83" cy="6.38" r="2.17"/>
+            <rect fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x="14.86" y="5.76" width="16.93" height="3.01" transform="translate(1.1 17.4) rotate(-41.8)"/>
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M18.14,14.11,16,11.73s-3.75,0-4.12,5.7c0,0,.7-2,3.06-1.09S18.14,14.11,18.14,14.11Z"/>
+        </g>
+    </g>
+</svg>

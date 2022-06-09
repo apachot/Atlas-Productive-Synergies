@@ -1,0 +1,158 @@
+@import '../css/util.scss';
+
+.SideInfosProduit {
+    flex-grow: 1;    
+    @extend %flex-col;    
+    .Product {
+        padding-left: 0.5rem;
+        padding-right: 0.15rem;
+        flex-grow: 1;   
+        @extend %flex-col;
+        .Loader {
+            padding: 1.25rem;
+        }
+    }
+    .ProximityLink {
+        background-color: $blue-400;
+        border-radius: 9999px;
+        color: $white;
+        @include padding-xy(1rem, 0.5rem) ;
+        @include margin-xy (auto, 0.5rem) ;
+        @extend %flex-row;
+        .Wand {
+            width: 20px;
+            height: 20px;
+            margin-right: 0.25rem;
+            color: $white;
+        }
+    }
+}
+
+.LibelleProduit{
+    border-bottom-width: 2px;
+    @include padding-y(0.5rem);
+    .Title {
+        @extend %flex-col ;
+        @include padding-x(0.75rem) ;
+        &.Wait {
+            cursor: wait;
+        }
+        &.Pointer {
+            cursor: pointer;
+        }
+        .Primary {
+            font-weight: 700;
+            color: $primary;
+            @extend %text-base;
+        }
+        .Secondary {
+            @extend %text-sm ;
+            color: $secondary;
+        }
+        .Code {
+            background-color: $gray-700;
+            padding: 0.25rem;
+            @include padding-x(0.5rem) ;
+            color: $white;
+            border-radius: 0.25rem;
+            @extend %text-xs;
+            font-weight: 400;
+            margin: auto;
+            margin-top: 0.25rem;
+        }
+    }
+}
+
+.DetailProximite {
+    @extend %flex-col;
+    flex-grow: 1;
+    .Title {
+        padding-top: 0.5rem;
+        .InfoIcon {
+            @extend %text-sm;
+            margin-left: 0.25rem;
+        }
+        .Text{
+            padding-bottom: 0.25rem;
+            border-bottom-width: 4px ;
+            border-color: $blue-400;
+            font-weight: 600;
+            @extend %text-base;
+        }
+    }
+    .Container {
+        flex-grow: 1;
+        position: relative;
+        .Datas {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            text-align: left;
+            overflow-y: scroll;
+            padding-top: 1rem;
+            @extend %text-sm;
+            .Values {
+                margin-bottom: 0.25rem;
+                @extend %flex-row;
+                &.Wait {
+                    cursor: wait;
+                }
+                &.Pointer {
+                    cursor: pointer;
+                }            
+                .SVG {
+                    height: 15px;
+                    width: 15px;
+                    margin-right: 0.5rem;
+                    flex-shrink: 0;
+                    margin-top: 0.25rem;
+                    .Graph {
+                        stroke-width: 3px;
+                        stroke: $black;
+                    }
+                }    
+                .Display {
+                    @extend %text-xs;
+                    color: $black;
+                    margin-right: 0.5rem;
+                }
+                .Code {
+                    @extend %text-xxs;
+                }
+            }
+            .None {
+                margin-bottom: 0.5rem;
+                @extend %flex-col;
+                vertical-align: middle;
+                justify-content: center;
+            }
+        }
+    }
+
+    .Proximity {
+        padding-top: 0.25rem;
+        .Detail {
+            @extend %flex-row;
+            align-items: center;
+            padding-bottom: 0.5rem;
+            @extend %text-sm;
+            .Left {
+                text-align: left;
+                flex-grow: 2;
+                flex-shrink: 1;
+                font-weight: 700;
+                margin-right: 0.5rem;
+            }
+            .Right {
+                text-align: right;
+                flex-grow: 0;
+                flex-shrink: 1;
+                background-color: $gray-700;
+                color: $white;
+                border-radius: 0.40rem;
+                font-weight: 400;
+                @include padding-xy(0.5rem, 0.30rem);
+            }
+        }
+    }
+}

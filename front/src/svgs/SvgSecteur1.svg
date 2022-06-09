@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -1538.43)">
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="25.82"
+              transform="translate(121.068 1574.542)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M127.169,1568.481a3.618,3.618,0,0,1-4.9-1.343l-.932-1.614a3.617,3.617,0,0,1,4.162.388,6.742,6.742,0,0,0,1.66,2.514l-.02.035Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M133,1565.524l-.93,1.614a3.618,3.618,0,0,1-4.905,1.343l.035-.02-.022-.04a6.716,6.716,0,0,0,1.654-2.5A3.612,3.612,0,0,1,133,1565.524Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M127.182,1568.422l-.016.014-.012-.011-.021.036.036.019.036-.019Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M129.065,1564.64a3.885,3.885,0,0,1-.229,1.279,6.716,6.716,0,0,1-1.654,2.5l-.013-.022-.015.027a6.742,6.742,0,0,1-1.66-2.514,3.9,3.9,0,0,1-.225-1.272,5.92,5.92,0,0,1,1.9-3.8A5.92,5.92,0,0,1,129.065,1564.64Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M127.182,1568.421a.13.13,0,0,0-.015.016l-.013-.011.015-.027Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y2="5.819"
+              transform="translate(127.167 1568.437)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M140.79,1568.481a3.618,3.618,0,0,1-4.9-1.343l-.933-1.614a3.617,3.617,0,0,1,4.162.388,6.768,6.768,0,0,0,1.66,2.514l-.019.035Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M146.625,1565.524l-.93,1.614a3.618,3.618,0,0,1-4.905,1.343l.035-.02-.022-.04a6.718,6.718,0,0,0,1.653-2.5A3.614,3.614,0,0,1,146.625,1565.524Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M140.8,1568.422l-.015.014-.012-.011-.021.036.036.019c.011-.007.024-.012.035-.019Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M142.686,1564.64a3.886,3.886,0,0,1-.23,1.279,6.718,6.718,0,0,1-1.653,2.5l-.013-.022-.016.027a6.768,6.768,0,0,1-1.66-2.514,3.93,3.93,0,0,1-.224-1.272,5.92,5.92,0,0,1,1.9-3.8A5.92,5.92,0,0,1,142.686,1564.64Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M140.8,1568.421a.077.077,0,0,0-.015.016l-.014-.011.016-.027Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y2="5.775"
+              transform="translate(140.79 1568.481)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="3.359" cy="3.359"
+                r="3.359" transform="translate(130.619 1546.917)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y1="2.301"
+              transform="translate(133.978 1542.317)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x1="1.15" y1="1.993"
+              transform="translate(129.999 1543.384)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x1="1.993" y1="1.15"
+              transform="translate(127.086 1546.297)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x1="2.301"
+              transform="translate(126.019 1550.276)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x1="1.993" y2="1.15"
+              transform="translate(127.086 1553.106)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x1="1.15" y2="1.993"
+              transform="translate(129.999 1555.177)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y2="2.301"
+              transform="translate(133.978 1555.935)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="1.15" y2="1.993"
+              transform="translate(136.808 1555.177)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="1.993" y2="1.15"
+              transform="translate(138.879 1553.106)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="2.301"
+              transform="translate(139.637 1550.276)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y1="1.15" x2="1.993"
+              transform="translate(138.879 1546.297)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y1="1.993" x2="1.15"
+              transform="translate(136.808 1543.384)"/>
+    </g>
+</svg>

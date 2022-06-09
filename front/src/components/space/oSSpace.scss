@@ -1,0 +1,48 @@
+@import '../../css/util.scss' ;
+
+.OSSpace {
+    flex-grow: 1;
+    .Loader {
+        display: flex;
+        text-align: center;
+        background-color: $gray-200;
+        color: $black ;
+    }
+}
+.edge-Overred {
+    stroke: rgba(247, 64, 180, 1);
+    stroke-width: 5;
+    stroke-dasharray: 5;
+    vector-effect: "non-scaling-stroke";
+}
+
+.edge-standard {
+    stroke: rgba(136, 136, 153, 0.25);
+    stroke-width: 1;
+    vector-effect: "non-scaling-stroke";
+}
+
+.tooltip-header {
+    background: rgb(74, 85, 104);
+    color: rgb(255, 255, 255);
+    margin: auto;
+    display: inline;
+    border: 3px solid rgb(74, 85, 104);
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.node {
+    cursor: pointer;
+    stroke: rgba(80, 80, 80, 1);
+    stroke-width: 0.75;
+    vector-effect: "non-scaling-stroke";
+}
+
+.node-not-selected {
+    fill: rgba(255, 255, 255, 0.5);
+}
+
+.node-inactive {
+    fill: rgba(215, 215, 218, 0.5);
+}

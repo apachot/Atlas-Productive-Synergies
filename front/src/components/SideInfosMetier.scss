@@ -1,0 +1,60 @@
+@import '../css/util.scss' ;
+
+.SideInfosMetier {
+    .Container {
+        overflow-y: hidden;
+        .Head {
+            @extend %flex-col;
+            margin-top: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid $gray-100;
+            @extend %text-xs;
+            .Title {
+                font-weight: 700; 
+                @extend %text-base;
+            }
+            .Domain {
+                @include margin-y(0.25rem);
+            }
+            .Code {
+                background-color: $gray-700;
+                color: $white;
+                border-radius: 0.25rem;
+                font-weight: 400;
+                margin: auto;
+                @include padding-xy(0.35rem, 0.15rem) ;
+            }
+        }
+        .List {
+            .Description {
+                @include margin-x(1rem) ;
+                @extend %text-sm;
+                text-align: left;
+                div {
+                    margin-top: 1rem;
+                    span:first-child {
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+        .Button {
+            background-color: $blue-400;
+            margin:auto;
+            border-radius: 2rem;
+            color: $white;
+            @include padding-xy(1rem,0.5rem);
+            @include margin-y(0.5rem);
+            @extend %text-sm;
+            @extend %flex-row;
+            align-items: center;
+            justify-content: center;
+            .Recommandations {
+                width: 20px;
+                height: 20px;
+                margin-right: 0.25rem;
+                color: $white;
+            }
+        }        
+    }
+}

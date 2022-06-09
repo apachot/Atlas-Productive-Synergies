@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -1804.672)">
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M146.622,1833.686l-5.252-9.914v-7.483h-7.026v7.483l-5.252,9.914a3.756,3.756,0,0,0,3.4,5.352h10.736a3.756,3.756,0,0,0,3.4-5.352Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="11.944"
+              transform="translate(131.884 1816.289)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="15.833"
+              transform="translate(129.94 1832.367)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M122.339,1812.967h4.975v15.593a2.488,2.488,0,0,1-2.487,2.487h0a2.488,2.488,0,0,1-2.488-2.486h0v-15.593Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="7.707"
+              transform="translate(120.973 1812.967)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="4.668"
+              transform="translate(122.339 1822.099)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.273" cy="1.273"
+                r="1.273" transform="translate(137.367 1826.594)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.273" cy="1.273"
+                r="1.273" transform="translate(131.567 1810.306)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M146.622,1833.686l-5.252-9.914v-7.483h-7.026v7.483l-5.252,9.914a3.756,3.756,0,0,0,3.4,5.352h10.736a3.756,3.756,0,0,0,3.4-5.352Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="11.944"
+              transform="translate(131.884 1816.289)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="15.833"
+              transform="translate(129.94 1832.367)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M122.339,1812.967h4.975v15.593a2.488,2.488,0,0,1-2.487,2.487h0a2.488,2.488,0,0,1-2.488-2.486h0v-15.593Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="7.707"
+              transform="translate(120.973 1812.967)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="4.668"
+              transform="translate(122.339 1822.099)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.273" cy="1.273"
+                r="1.273" transform="translate(137.367 1826.594)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.273" cy="1.273"
+                r="1.273" transform="translate(131.567 1810.306)"/>
+    </g>
+</svg>

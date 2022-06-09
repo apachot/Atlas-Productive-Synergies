@@ -1,0 +1,157 @@
+@import '../css/util.scss' ;
+
+.Metiers {
+    @extend %flex-row;
+    @extend %full;
+
+    &.Wait {
+        cursor: wait !important;
+    }
+    .LeftPart {
+        width: 75%;
+        height: 100%;
+        background-color: $gray-200;
+        text-align: center;
+        color: $gray-700;
+        @extend %flex-col;
+        position: relative;
+        .Loader {
+            height: 100%;
+            @extend %flex-col;            
+        }
+    }
+}
+
+.Metiers.MobileOnly {
+    .LeftPart {
+        .FiltresLink {
+            .filtreButton {
+                right: 0rem;
+                padding: 1.25rem;
+                .filtre{
+                    margin: 0.25rem;
+                }
+            }
+            .yearButton, .year {
+                display: none;
+            }
+        }
+        .Filtres {
+            display: none;
+        }   
+        .OSSpace{
+            .Zoom {
+                bottom:0;
+                right: 0;
+                .In, .Out {
+                    padding: 18px;
+                }
+                .In {
+                    bottom: 60px;
+                }
+            }
+        }
+    }
+    .SideBar {
+        .SideTopFiltresFull {
+            .Title{
+                div:first-child{
+                    display: none;
+                }
+                @include padding-y(0);
+            }
+        }
+        .SideTopFiltres {
+            display: none;
+        }
+        .SideInfosRegion {
+            .TitreEtFiltre {
+                .Titre {
+                    display: none;
+                }
+                .Indicateur {
+                    margin-top: 0;
+                }
+            }
+            .Button {
+                display: none;
+            }           
+        }
+        .SideInfosMetier {
+            .Container{
+                padding-bottom: 1rem;
+                .Button {
+                    display: none;
+                }
+            }
+        }        
+    }
+}
+
+.Metiers.MobileOnly.portrait {
+    flex-direction: column;
+    height: 140vh;
+    .LeftPart {
+        width: 100%;
+        height: 110vh;
+    }
+    .SideBar {
+        width: 100%;
+    }
+}
+
+.Metiers.MobileOnly.landscape {
+    height: calc(100vh - 70px);
+    .LeftPart {
+        width: 50%;
+        height: 100%;
+    }
+    .SideBar {
+        width: 50%;
+        .SideInfosRegion .TitreEtFiltre{ 
+            .Titre {
+                display: none;
+            }
+            .Indicateur {
+                margin-top: 0;
+                .IndicateurAdvantage .Value, .IndicateurNumber .Value {
+                    font-size: 0.8rem;
+                    @include padding-xy(0.5rem, 0.25rem) ;
+                }
+            }
+            .SideFiltres {
+                padding: 0;
+                .react-select-container {
+                    line-height: 0.8rem;
+                }
+            }
+        }        
+        .SideInfosRegion .SideTopMetier{
+            position: absolute;
+            left:-50vw;
+            top:83vh;
+            width: 50vw;
+            height: 80vh;
+            overflow: hidden;
+        }
+        .SideInfosMetier {
+            .Container{
+                .Head{
+                    margin-top: 0;
+                    padding-bottom: 0;
+                    height: 14vh;
+                    .Domain {
+                        align-self: flex-start;
+                        padding-left: 2rem;
+                    }
+                    .Code{
+                        position: relative;
+                        top: -1.4rem;
+                        left: 9rem;
+                        margin: auto;
+                    }
+                }
+            }
+        }
+    }
+}
