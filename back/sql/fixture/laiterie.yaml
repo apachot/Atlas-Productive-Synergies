@@ -1,0 +1,180 @@
+- siret: "11165498712315" # vache laitier
+  establishment_name: Les vache des monts
+  web_site:
+  phone_fix: "0472345673"
+  phone_mobile: "0678898765"
+  description: Lait de vache
+  workforce_group: NN
+  address:
+    way_number: 1
+    way_type: Chemin
+    way_label: de Combeta
+    insee_code: "63345"
+    coordinate:
+      - 45.74350
+      - 2.963277
+  partition_code: 63
+  activity_code: "01.41Z" # Élevage de vaches laitières
+  created_at: 1999a
+  siege: TRUE
+  product:
+    - product_nc8: "0401 50 99" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 45 % (sauf en emballages immédiats d'un contenu net <= 2 l)
+  client:
+    - siret: "21165498712315"     # Je vend le lait à la laiterie
+      product_nc8: "0401 50 99"
+    - siret: "23165498712315" # je vend le lait à la fromagerie
+      product_nc8: "0401 50 99"
+  supplier:
+    - product_nc8: "0401 50 99" # j'achète au moulin des compléments pour faire mon lait
+      siret: "31165498712315"
+      secondary_product_nc8: "2309 90 20"
+
+- siret: "11165498717854" # céréale
+  establishment_name: C'est réal
+  web_site:
+  phone_fix: "0472345673"
+  phone_mobile: "0678898765"
+  description: Céréale en tout genre
+  workforce_group: "01"
+  address:
+    way_number:
+    way_type:
+    way_label:  Les Girots
+    insee_code:  "63257"
+    coordinate:
+      - 45.862821
+      - 2.888872
+  partition_code: "63"
+  activity_code: "01.11Z"
+  created_at: 1999a
+  siege: TRUE
+  product:
+    - product_nc8: "1004 90 00" # Avoine (à l'excl. de l'avoine de semence)
+  client:
+    - siret: "31165498712315"     # Je vend l'avoine au moulin
+      product_nc8: "1004 90 00"
+
+- siret: "21165498712315" # lait
+  establishment_name: Laiterie BonLait
+  web_site: www.bonlait.fr
+  phone_fix: "0472345678"
+  phone_mobile: "0675678956"
+  description: Lait en tous genre
+  workforce_group: "21"
+  address:
+    way_number:
+    way_type: rue
+    way_label: des Colonies Vierge Theix
+    insee_code: "63345"
+    coordinate:
+      - 45.706593
+      - 3.025053
+  partition_code: 63
+  activity_code: 10.51A # Fabrication de lait liquide et de produits frais
+  created_at: 1982
+  siege:
+  product:
+    - product_nc8: "0401 10 10" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses <= 1%, en emballages immédiats d'un contenu net <= 2 l
+    - product_nc8: "0401 20 11" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 1% mais <= 3%, en emballages immédiats d'un contenu net <= 2 l
+    - product_nc8: "0401 20 91" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 3% mais <= 6%, en emballages immédiats d'un contenu net <= 2 l
+    - product_nc8: "0401 50 99" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 45 % (sauf en emballages immédiats d'un contenu net <= 2 l)
+  supplier:
+    - siret: "11165498712315" # j'achète du lait à l'éleveur
+      product_nc8: "0401 50 99"
+  client:
+    - siret: "22165498712315" # je vend du lait à la crémerie
+      product_nc8: "0401 50 99"
+
+- siret: "31165498712315" # complément
+  establishment_name: Moulin Béber
+  web_site: www.moulin_beber.fr
+  phone_fix: "0471456784"
+  phone_mobile: "0786908909"
+  description: Farine bio et complément animalier
+  workforce_group: "11"
+  address:
+    way_number:
+    way_type:
+    way_label: Mazaye Haute
+    insee_code: "63219"
+    coordinate:
+      - 45.784519
+      - 2.863203
+  partition_code: "63"
+  activity_code: 10.61A #Meunerie
+  created_at: 1996
+  siege: TRUE
+  product:
+    - product_nc8: "2309 90 20" # Résidus de l'amidonnerie de maÃ¯s visés à la note complémentaire 5 du présent chapitre, des types utilisés pour l'alimentation des animaux (à l'excl. des aliments pour chiens ou chats conditionnés pour la vente au détail)
+  client:
+    - siret: "11165498712315"   #je vend des complément à l'éleveur
+      product_nc8: "2309 90 20"
+  supplier:
+    - siret: "11165498717854"   #j'achète de l'avoine a l'agriculteur
+      product_nc8: "2309 90 20"
+      secondary_product_nc8: "1004 90 00"
+
+- siret: "22165498712315" # cremerie
+  establishment_name: La crême de la crême
+  web_site:
+  phone_fix: "0471234562"
+  phone_mobile: "0678542785"
+  description: Produit laitier
+  workforce_group: "11"
+  address:
+    way_number:
+    way_type: Avenue
+    way_label: de l'Europe
+    insee_code: "63032"
+    coordinate:
+      - 45.753336
+      - 3.088661
+  partition_code: "63"
+  activity_code: 47.29Z # Autres commerces de détail alimentaires en magasin spécialisé 
+  created_at: 2011
+  siege: TRUE
+  product:
+    - product_nc8: "0401 50 91" # Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 45 %, en emballages immédiats d'un contenu net <= 2 l
+  supplier:
+    - product_nc8: "0401 50 91"
+      siret: "21165498712315" # j'achète le lait à la laiterie
+      secondary_product_nc8: "0401 50 99"
+    - product_nc8: "0401 50 91"
+      siret: "23165498712315" # j'achète le fromage à la fromagerie
+      secondary_product_nc8: "0406 90 81"
+    - product_nc8: "0401 50 91"
+      siret: "23165498712315" # j'achète le fromage à la fromagerie
+      secondary_product_nc8: "0406 90 79"
+
+- siret: "23165498712315" # fromagerie
+  establishment_name: les p'ti frais
+  web_site:
+  phone_fix: "0471243598"
+  phone_mobile: "0754892300"
+  description: Fabricant de fromage depuis une génération
+  workforce_group: "02"
+  address:
+    way_number: 2
+    way_type: Chemin
+    way_label: des cheix et de champ
+    insee_code: 63032
+    coordinate:
+      - 45.743357
+      - 3.088481
+  partition_code: "63"
+  activity_code: 10.51C # Fabrication de fromage
+  created_at: 2005
+  siege: TRUE
+  product:
+    - product_nc8: "0406 90 81" # Cantal, cheshire, wensleydale, lancashire, double gloucester, blarney, colby, monterey, d'une teneur en poids de matières grasses <= 40% et d'une teneur en poids d'eau dans la matière non grasse > 47% mais <= 72% (à l'excl. des fromages rapés ou en poudre et des fromages destinés à la transformation)
+    - product_nc8: "0406 90 79" # Esrom, italico, kernhem, saint-nectaire, saint-paulin, taleggio, d'une teneur en poids de matières grasses <= 40% et d'une teneur en poids d'eau dans la matière non grasse > 47% mais <= 72% (à l'excl. des fromages rapés ou en poudre et des fromages destinés à la transformation)
+  client:
+    - siret: "22165498712315" #je vend le fromage à la crêmerie
+      product_nc8: "0406 90 81"
+    - siret: "22165498712315" #je vend le fromage à la crêmerie
+      product_nc8: "0406 90 79"
+  supplier:
+    - product_nc8: "0406 90 79"
+      siret: "21165498712315" # j'achète du lait à la laiterie
+      secondary_product_nc8: "0401 50 99"
+

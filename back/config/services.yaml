@@ -1,0 +1,124 @@
+# This file is the entry point to configure your own services.
+# Files in the packages/ subdirectory configure your dependencies.
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
+parameters:
+    env(INSEE_API_URL): "https://api.insee.fr"
+    env(IA_API_URL): "http://python"
+    env(APP_CACHE_ENABLE): "true"
+    env(APP_CACHE_TTL): "3600"
+
+    env(POLE_EMPLOI_ID) : "PAR_atlasderesilienceproducti_449981aaf522c93d88db3f50a203cd87adff17c402f0034b03398f1f2cf4be98"
+    env(POLE_EMPLOI_SECRET) : "0fe6383c15fc3030f0c0922ea2f004b90c9eebab86d0ca9d8cbebe00257c43bf"
+    env(POLE_EMPLOI_SCOPE_ROME) : "api_romev1 nomenclatureRome"
+    env(POLE_EMPLOI_REALM) : "partenaire"
+    env(POLE_EMPLOI_GRANT_TYPE) : "client_credentials"
+    env(POLE_EMPLOI_CONNEXION_URL) : "https://entreprise.pole-emploi.fr/connexion/oauth2/access_token"
+    env(POLE_EMPLOI_ENTREPRISE_URL) : "https://api.emploi-store.fr/partenaire/"
+
+services:
+    # default configuration for services in *this* file
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+    _instanceof:
+        App\Command\DatabaseCommand:
+            calls:
+                -   method: setSqlDirectory
+                    arguments:
+                        - '%kernel.project_dir%/sql'
+
+    # makes classes in src/ available to be used as services
+    # this creates a service per class whose id is the fully-qualified class name
+    App\:
+        resource: '../src/*'
+        exclude: '../src/{DependencyInjection,Entity,EntityVue,Migrations,Response,Tests,Kernel.php}'
+
+    # controllers are imported separately to make sure services can be injected
+    # as action arguments even if you don't extend any base controller class
+    App\Controller\:
+        resource: '../src/Controller'
+        tags: ['controller.service_arguments']
+
+    # add more service definitions when explicit configuration is needed
+    # please note that last definitions always *replace* previous ones
+
+    # Database declaration
+    # --------------------
+
+    App\Service\DatabaseService:
+        arguments: ["%env(DB_URI)%"]
+        calls:
+            - method: setEntityDefinition
+              arguments:
+                  - "%entity.definition%"
+            - method: setEstablishmentPartition
+              arguments:
+                  - "%establishmentPartition%"
+
+    # Event Listener declaration
+    # --------------------------
+
+    App\EventListener\ExceptionListener:
+        arguments: ["%kernel.debug%"]
+        tags:
+            - { name: kernel.event_listener, event: kernel.exception }
+
+    App\EventListener\CacheListener:
+        arguments:
+            $enable: "%env(bool:APP_CACHE_ENABLE)%"
+            $debug: "%kernel.debug%"
+            $cacheTtl: "%env(int:APP_CACHE_TTL)%"
+        tags:
+            - { name: kernel.event_listener, event: kernel.request }
+            - { name: kernel.event_listener, event: kernel.response }
+
+    App\EventListener\CorsListener:
+      tags:
+        - { name: kernel.event_subscriber }
+
+    # External Api declaration
+    # ------------------------
+    App\ExternalApi\Service\InseeApiService:
+        calls:
+            - method: setApiURL
+              arguments:
+                  - "%env(INSEE_API_URL)%"
+            - method: setConsumerKey
+              arguments:
+                  - "%env(INSEE_KEY)%"
+            - method: setConsumerSecret
+              arguments:
+                  - "%env(INSEE_SECRET)%"
+
+    App\ExternalApi\Service\IaApiService:
+        calls:
+            - method: setApiURL
+              arguments:
+                - "%env(IA_API_URL)%"
+
+    App\ExternalApi\Service\PoleEmploiApiService:
+        calls:
+            - method: setApiId
+              arguments:
+                - "%env(POLE_EMPLOI_ID)%"
+            - method: setApiSecret
+              arguments:
+                - "%env(POLE_EMPLOI_SECRET)%"
+            - method: setApiScopeRome
+              arguments:
+                - "%env(POLE_EMPLOI_SCOPE_ROME)%"
+            - method: setApiRealm
+              arguments:
+                - "%env(POLE_EMPLOI_REALM)%"
+            - method: setApiGrantType
+              arguments:
+                - "%env(POLE_EMPLOI_GRANT_TYPE)%"
+            - method: setApiConnexionUrl
+              arguments:
+                - "%env(POLE_EMPLOI_CONNEXION_URL)%"
+            - method: setApiEntrepriseUrl
+              arguments:
+                - "%env(POLE_EMPLOI_ENTREPRISE_URL)%"
