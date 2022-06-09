@@ -1,0 +1,1255 @@
+'dep_epci';'siren_epci';'nom_complet';'nj_epci2021';'fisc_epci2021';'nb_com_2021';'ptot_epci_2021';'pmun_epci_2021'
+'01';200029999;'CC Rives de l''Ain - Pays du Cerdon';'CC';'FPU';14;14935;14620
+'01';200040350;'CC Bugey Sud';'CC';'FPU';43;34921;33923
+'01';200042497;'CC Dombes Saône Vallée';'CC';'FPU';19;39678;38587
+'01';200042935;'CA Haut - Bugey Agglomération';'CA';'FPU';42;64922;63099
+'01';200069193;'CC de la Dombes';'CC';'FPU';36;40014;39080
+'01';200070118;'CC Val de Saône Centre';'CC';'FPU';15;21018;20564
+'01';200070555;'CC de la Veyle';'CC';'FPU';18;23171;22652
+'01';200071371;'CC Bresse et Saône';'CC';'FPU';20;25858;25251
+'01';200071751;'CA du Bassin de Bourg-en-Bresse';'CA';'FPU';74;136576;132682
+'01';240100610;'CC de la Côtière à Montluel';'CC';'FPU';9;25117;24747
+'01';240100750;'CA du Pays de Gex';'CA';'FPU';27;98753;96535
+'01';240100800;'CC de Miribel et du Plateau';'CC';'FPU';6;24480;24062
+'01';240100883;'CC de la Plaine de l''Ain';'CC';'FPU';53;80274;78506
+'01';240100891;'CC du Pays Bellegardien (CCPB)';'CC';'FPU';12;22387;21898
+'02';200040426;'CC du Val de l''Oise';'CC';'FA';32;16277;15998
+'02';200043495;'CA du Pays de Laon';'CA';'FPU';38;43696;42622
+'02';200071769;'CC Picardie des Châteaux';'CC';'FPU';36;17664;17279
+'02';200071785;'CA Chauny Tergnier La Fère';'CA';'FPU';48;56615;55359
+'02';200071892;'CA du Saint-Quentinois';'CA';'FPU';39;82522;80689
+'02';200071983;'CC Thiérache Sambre et Oise';'CC';'FA';36;17079;16751
+'02';200071991;'CC Retz en Valois';'CC';'FPU';54;30344;29361
+'02';200072031;'CA de la Région de Château-Thierry';'CA';'FPU';87;55827;54593
+'02';240200444;'CC de la Thiérache du Centre';'CC';'FPU';68;27276;26363
+'02';240200469;'CC du Pays de la Serre';'CC';'FPU';42;14720;14496
+'02';240200477;'CA GrandSoissons Agglomération';'CA';'FPU';28;53472;52415
+'02';240200493;'CC du Pays du Vermandois';'CC';'FPU';54;31768;31173
+'02';240200501;'CC du Val de l''Aisne';'CC';'FA';58;20620;20282
+'02';240200519;'CC du Canton d''Oulchy le Château';'CC';'FA';26;5778;5649
+'02';240200576;'CC de la Champagne Picarde';'CC';'FPU';46;21349;20863
+'02';240200584;'CC du Canton de Charly sur Marne';'CC';'FA';21;16022;15713
+'02';240200592;'CC du Chemin des Dames';'CC';'FA';30;5588;5504
+'02';240200600;'CC des Trois Rivières';'CC';'FPU';26;21583;21171
+'02';240200634;'CC des Portes de la Thiérache';'CC';'FPU';30;7068;6951
+'03';200071082;'CA Montluçon Communauté';'CA';'FPU';21;62769;61151
+'03';200071140;'CA Moulins Communauté';'CA';'FPU';44;67161;64963
+'03';200071363;'CA Vichy Communauté';'CA';'FPU';39;84712;82759
+'03';200071389;'CC Saint-Pourçain Sioule Limagne';'CC';'FPU';60;34886;34033
+'03';200071470;'CC Entr''Allier Besbre et Loire';'CC';'FPU';44;25357;24773
+'03';200071496;'CC du Bocage Bourbonnais';'CC';'FPU';25;14089;13767
+'03';200071512;'CC Commentry Montmarault Néris Communauté';'CC';'FPU';33;26649;25858
+'03';240300491;'CC du Pays de Lapalisse';'CC';'FPU';14;8689;8476
+'03';240300558;'CC du Pays de Tronçais';'CC';'FPU';15;7634;7472
+'03';240300566;'CC du Val de Cher';'CC';'FPU';7;5659;5544
+'03';240300657;'CC du Pays d''Huriel';'CC';'FPU';14;7629;7487
+'04';200034700;'CA Durance-Lubéron-Verdon Agglomération';'CA';'FPU';25;63919;62425
+'04';200067437;'CA Provence-Alpes-Agglomération';'CA';'FPU';46;49003;47382
+'04';200068625;'CC Alpes-Provence-Verdon "Sources de lumière"';'CC';'FPU';41;11677;11443
+'04';200068765;'CC du Sisteronais-Buëch';'CC';'FPU';60;25822;25156
+'04';200071025;'CC Haute-Provence-Pays de Banon';'CC';'FPU';21;9999;9811
+'04';200071033;'CC Jabron-Lure-Vançon-Durance';'CC';'FPU';14;5415;5236
+'04';200072304;'CC Vallée de l''Ubaye - Serre-Ponçon';'CC';'FPU';13;8048;7715
+'04';240400440;'CC Pays Forcalquier et Montagne de Lure';'CC';'FPU';13;10109;9916
+'05';200067320;'CC Serre-Ponçon Val d''Avance';'CC';'FPU';16;7780;7620
+'05';200067445;'CC Buëch-Dévoluy';'CC';'FPU';20;9635;9358
+'05';200067452;'CC du Guillestrois et du Queyras';'CC';'FPU';15;8237;8031
+'05';200067742;'CC Serre-Ponçon';'CC';'FPU';17;17186;16499
+'05';200067825;'CA Gap-Tallard-Durance';'CA';'FPU';17;52116;50302
+'05';200068096;'CC Champsaur-Valgaudemar';'CC';'FA';25;11544;11169
+'05';240500439;'CC du Briançonnais';'CC';'FPU';13;20131;19546
+'05';240500462;'CC du Pays des Ecrins';'CC';'FPU';8;6840;6623
+'06';200030195;'Métropole Nice Côte d''Azur';'METRO';'FPU';49;545730;540281
+'06';200039857;'CA du Pays de Grasse';'CA';'FPU';23;102214;100188
+'06';200039915;'CA Cannes Pays de Lérins';'CA';'FPU';5;160008;158111
+'06';200039931;'CC Alpes d''Azur';'CC';'FPU';34;9833;9677
+'06';240600551;'CA de la Riviera Française';'CA';'FPU';15;75086;73935
+'06';240600585;'CA de Sophia Antipolis';'CA';'FPU';24;180374;177077
+'06';240600593;'CC du Pays des Paillons';'CC';'FPU';13;27199;26950
+'07';200016905;'CC du Pays de Lamastre';'CC';'FPU';11;6825;6682
+'07';200039808;'CC des Gorges de l''Ardèche';'CC';'FPU';20;15589;15245
+'07';200039824;'CC Ardèche des Sources et Volcans';'CC';'FPU';16;9798;9576
+'07';200039832;'CC Pays des Vans en Cévennes';'CC';'FPU';15;9490;9264
+'07';200041366;'CC Rhône Crussol';'CC';'FPU';13;34593;33809
+'07';200041465;'CC Val Eyrieux';'CC';'FPU';29;12982;12534
+'07';200071405;'CC Ardèche Rhône Coiron';'CC';'FPU';15;23337;22808
+'07';200071413;'CA Privas Centre Ardèche';'CA';'FPU';42;44782;43642
+'07';200072007;'CC de la Montagne d''Ardèche';'CC';'FPU';28;4955;4863
+'07';200072015;'CA Annonay Rhône Agglo';'CA';'FPU';29;50010;48568
+'07';200073096;'CA Arche Agglo';'CA';'FPU';41;59390;57777
+'07';200073245;'CC du Bassin d''Aubenas';'CC';'FPU';28;41392;39884
+'07';240700302;'CC du Pays Beaume-Drobie';'CC';'FPU';19;9028;8872
+'07';240700617;'CC Val de Ligne';'CC';'FPU';11;6284;6111
+'07';240700716;'CC du Val d''Ay';'CC';'FPU';8;6064;5947
+'07';240700815;'CC Berg et Coiron';'CC';'FPU';13;7987;7768
+'07';240700864;'CC du Rhône aux Gorges de l''Ardèche';'CC';'FPU';9;19330;18914
+'08';200041622;'CC Ardennes Thiérache';'CC';'FPU';37;9987;9761
+'08';200041630;'CA Ardenne Métropole';'CA';'FPU';58;124519;121469
+'08';200043156;'CC du Pays Réthelois';'CC';'FPU';65;30568;29904
+'08';200067759;'CC Vallées et Plateau d''Ardenne';'CC';'FPU';31;25397;24885
+'08';240800821;'CC Ardenne, Rives de Meuse';'CC';'FA';19;27232;26654
+'08';240800847;'CC des Portes du Luxembourg';'CC';'FPU';50;20442;20072
+'08';240800862;'CC des Crêtes Préardennaises';'CC';'FPU';94;22347;21852
+'08';240800920;'CC de l''Argonne Ardennaise';'CC';'FPU';95;17808;17248
+'09';200044469;'CC du Pays de Mirepoix';'CC';'FPU';33;10833;10522
+'09';200066223;'CC Arize Lèze';'CC';'FPU';27;11017;10850
+'09';200066231;'CC des Portes d''Ariège Pyrénées';'CC';'FA';35;40552;39515
+'09';200066363;'CC de la Haute Ariège';'CC';'FPU';52;7360;7128
+'09';200067791;'CA Pays Foix-Varilhes';'CA';'FPU';42;32740;31816
+'09';200067940;'CC Couserans-Pyrénées';'CC';'FPU';94;30830;29928
+'09';240900431;'CC du Pays de Tarascon';'CC';'FPU';20;8508;8384
+'09';240900464;'CC du Pays d''Olmes';'CC';'FPU';24;15280;14923
+'10';200000545;'CC des Portes de Romilly sur Seine';'CC';'FA';6;18832;18432
+'10';200006716;'CC du Nogentais';'CC';'FA';23;17136;16830
+'10';200040137;'CC des Lacs de Champagne';'CC';'FPU';43;9520;9344
+'10';200066892;'CC de Vendeuvre-Soulaines';'CC';'FPU';38;7861;7674
+'10';200069003;'CC du Barséquanais en Champagne';'CC';'FA';53;19365;18818
+'10';200069250;'CA Troyes Champagne Métropole';'CA';'FPU';81;176397;172329
+'10';200070126;'CC Seine et Aube';'CC';'FA';25;10367;10177
+'10';200071041;'CC du Chaourçois et du Val d''Armance';'CC';'FA';42;10733;10491
+'10';200071777;'CC d''Arcis, Mailly, Ramerupt';'CC';'FA';39;11980;11729
+'10';241000223;'CC Forêts, Lacs, Terres en Champagne';'CC';'FPU';15;6970;6840
+'10';241000405;'CC de la Région de Bar sur Aube';'CC';'FA';27;11399;11085
+'10';241000447;'CC du Pays d''Othe';'CC';'FA';14;7921;7803
+'10';241000488;'CC de l''Orvin et de l''Ardusson';'CC';'FPU';25;8658;8468
+'11';200035707;'CC Piège Lauragais Malepère';'CC';'FPU';38;16339;15786
+'11';200035715;'CA Carcassonne Agglo';'CA';'FPU';83;116352;113464
+'11';200035855;'CC Castelnaudary Lauragais Audois';'CC';'FPU';43;28030;27116
+'11';200035863;'CC Région Lézignanaise, Corbières et Minervois';'CC';'FPU';54;33902;33336
+'11';200042463;'CC de la Montagne Noire';'CC';'FA';22;5995;5838
+'11';200043776;'CC Pyrénées audoises';'CC';'FPU';61;14150;13844
+'11';200071926;'CC du Limouxin';'CC';'FPU';76;28408;27553
+'11';241100593;'CA Le Grand Narbonne';'CA';'FPU';37;132832;130390
+'12';200067064;'CC Decazeville Communauté';'CC';'FPU';12;19332;18735
+'12';200067155;'CC Saint Affricain, Roquefort, Sept Vallons';'CC';'FPU';14;14424;13653
+'12';200067163;'CC Monts, Rance et Rougier';'CC';'FPU';23;6516;6285
+'12';200067171;'CC Aubrac, Carladez et Viadène';'CC';'FPU';21;10369;10147
+'12';200067478;'CC Comtal Lot et Truyère';'CC';'FPU';21;19904;19355
+'12';200068484;'CC des Causses à l''Aubrac';'CC';'FPU';17;14976;14524
+'12';200068831;'CC Pays Ségali Communauté';'CC';'FPU';23;18528;17956
+'12';200069383;'CC Ouest Aveyron Communauté';'CC';'FPU';29;28470;27413
+'12';241200187;'CA Rodez Agglomération';'CA';'FPU';8;58921;55851
+'12';241200542;'CC du Réquistanais';'CC';'FPU';11;5490;5313
+'12';241200567;'CC de Millau Grands Causses';'CC';'FPU';15;30435;29532
+'12';241200625;'CC du Pays Rignacois';'CC';'FA';8;5810;5577
+'12';241200641;'CC Conques-Marcillac';'CC';'FPU';12;12382;11998
+'12';241200658;'CC du Pays de Salars';'CC';'FA';9;8140;7899
+'12';241200674;'CC du Plateau de Montbazens';'CC';'FA';13;6305;6156
+'12';241200765;'CC de Lévézou Pareloup';'CC';'FPU';10;5510;5346
+'12';241200807;'CC Aveyron Bas Ségala Viaur';'CC';'FPU';7;5737;5571
+'12';241200906;'CC Larzac et Vallées';'CC';'FPU';16;6189;6079
+'12';241200914;'CC de la Muse et des Raspes du Tarn';'CC';'FPU';13;5656;5547
+'13';200035087;'CA Terre de Provence';'CA';'FPU';13;60602;59572
+'13';200054807;'Métropole d''Aix-Marseille-Provence';'METRO';'FPU';92;1911657;1889666
+'13';241300375;'CC Vallée des Baux-Alpilles (CC VBA)';'CC';'FPU';10;28384;27840
+'13';241300417;'CA d''Arles-Crau-Camargue-Montagnette';'CA';'FPU';6;84954;83669
+'14';200065563;'CC Normandie-Cabourg-Pays d''Auge';'CC';'FPU';39;31739;31223
+'14';200065589;'CC Val ès Dunes';'CC';'FA';18;18566;18334
+'14';200065597;'CU Caen la Mer';'CU';'FPU';48;273284;268470
+'14';200066710;'CC Cingal-Suisse Normande';'CC';'FPU';42;24771;24381
+'14';200066728;'CC Vallées de l''Orne et de l''Odon';'CC';'FPU';23;25723;25392
+'14';200066801;'CC Isigny-Omaha Intercom';'CC';'FPU';59;27110;26680
+'14';200066827;'CC du Pays de Honfleur-Beuzeville';'CC';'FPU';23;27840;27283
+'14';200068799;'CC Intercom de la Vire au Noireau';'CC';'FPU';17;48458;46853
+'14';200069516;'CC Seulles Terre et Mer';'CC';'FPU';28;17465;17138
+'14';200069524;'CC Pré-Bocage Intercom';'CC';'FPU';27;25140;24748
+'14';200069532;'CA Lisieux Normandie';'CA';'FPU';53;75699;73740
+'14';241400415;'CC Coeur Côte Fleurie';'CC';'FPU';12;21114;20677
+'14';241400514;'CC du Pays de Falaise';'CC';'FPU';58;28486;27858
+'14';241400555;'CC de Bayeux Intercom';'CC';'FPU';36;30548;29880
+'14';241400860;'CC Coeur de Nacre';'CC';'FPU';12;24321;23771
+'14';241400878;'CC Terre d''Auge';'CC';'FPU';44;19618;19119
+'15';200066637;'CC Hautes Terres';'CC';'FPU';35;11874;11555
+'15';200066660;'CC de Saint-Flour';'CC';'FPU';53;24413;23447
+'15';200066678;'CC de la Châtaigneraie Cantalienne';'CC';'FPU';50;21851;21207
+'15';241500230;'CA du Bassin d''Aurillac';'CA';'FPU';25;55305;53247
+'15';241500255;'CC du Pays Gentiane';'CC';'FPU';17;6963;6765
+'15';241500271;'CC du Pays de Mauriac';'CC';'FPU';11;6997;6689
+'15';241501055;'CC Sumène - Artense';'CC';'FPU';16;8590;8390
+'15';241501089;'CC Cère et Goul en Carladès';'CC';'FPU';11;5009;4908
+'15';241501139;'CC du Pays de Salers';'CC';'FPU';27;8711;8512
+'16';200029734;'CC des 4B Sud Charente';'CC';'FPU';40;20471;19917
+'16';200043016;'CC Val de Charente';'CC';'FPU';32;14198;13841
+'16';200068914;'CC La Rochefoucauld - Porte du Périgord';'CC';'FPU';27;22209;21778
+'16';200070282;'CC Lavalette Tude Dronne';'CC';'FPU';50;18188;17807
+'16';200070514;'CA du Grand Cognac';'CA';'FPU';56;71009;69283
+'16';200071827;'CA du Grand Angoulême';'CA';'FPU';38;145970;141776
+'16';200072023;'CC Coeur de Charente';'CC';'FA';51;22336;21979
+'16';200072049;'CC de Charente Limousine';'CC';'FA';58;36401;35378
+'16';241600303;'CC du Rouillacais';'CC';'FPU';13;10188;10019
+'17';200036473;'CA de Saintes';'CA';'FPU';36;62180;59760
+'17';200041499;'CC Aunis Atlantique';'CC';'FPU';20;30601;30188
+'17';200041523;'CC de la Haute Saintonge';'CC';'FA';129;69941;68107
+'17';200041614;'CC Aunis Sud';'CC';'FPU';24;32590;31958
+'17';200041689;'CC Vals de Saintonge Communauté';'CC';'FPU';110;53574;52173
+'17';200041762;'CA Rochefort Océan';'CA';'FPU';25;64608;63220
+'17';241700434;'CA de La Rochelle';'CA';'FPU';28;176010;171811
+'17';241700459;'CC de l''Ile de Ré';'CC';'FPU';10;17655;17336
+'17';241700517;'CC Coeur de Saintonge';'CC';'FPU';18;17799;17279
+'17';241700624;'CC de l''Ile d''Oléron';'CC';'FPU';8;22448;22092
+'17';241700632;'CC de Gémozac et de la Saintonge Viticole';'CC';'FPU';16;14691;14401
+'17';241700640;'CA Royan Atlantique';'CA';'FPU';33;84950;83171
+'17';241700699;'CC du Bassin de Marennes';'CC';'FPU';6;15752;15436
+'18';200000933;'CC Sauldre et Sologne';'CC';'FA';14;14895;14597
+'18';200007177;'CC Pays de Nérondes';'CC';'FPU';12;5012;4879
+'18';200011781;'CC Portes du Berry entre Loire et Val d''Aubois';'CC';'FPU';12;9841;9663
+'18';200027076;'CC Arnon Boischaut Cher';'CC';'FA';18;8276;8109
+'18';200032514;'CC Berry-Loire-Vauvise';'CC';'FA';14;5608;5508
+'18';200036135;'CC Coeur de France';'CC';'FA';19;18793;18315
+'18';200049484;'CC Berry Grand Sud';'CC';'FPU';32;11936;11721
+'18';200066330;'CC Terres du Haut Berry';'CC';'FPU';30;26522;26017
+'18';200069227;'CC Pays Fort Sancerrois Val de Loire';'CC';'FA';36;18908;18476
+'18';200070571;'CC Coeur de Berry';'CC';'FA';11;7046;6912
+'18';200090561;'CC Vierzon-Sologne-Berry';'CC';'FPU';16;39697;38952
+'18';241800374;'CC la Septaine';'CC';'FPU';15;11010;10774
+'18';241800424;'CC le Dunois';'CC';'FA';17;7647;7507
+'18';241800432;'CC les Trois Provinces';'CC';'FA';11;5218;5146
+'18';241800457;'CC Fercher Pays Florentais';'CC';'FA';9;11702;11527
+'18';241800507;'CA Bourges Plus';'CA';'FPU';17;105860;102679
+'19';200043172;'CA du Bassin de Brive';'CA';'FPU';48;110303;107507
+'19';200066603;'CC du Pays de Lubersac-Pompadour';'CC';'FPU';12;7673;7536
+'19';200066645;'CC Vézère-Monédières-Millesources';'CC';'FPU';19;5177;5007
+'19';200066744;'CC Haute-Corrèze Communauté';'CC';'FPU';71;34626;33330
+'19';200066751;'CC Xaintrie Val''Dordogne';'CC';'FPU';30;11706;11396
+'19';200066769;'CC Midi Corrézien';'CC';'FPU';34;13333;12997
+'19';241900133;'CC de Ventadour - Egletons - Monédières';'CC';'FPU';20;11102;10170
+'19';241927201;'CA Tulle Agglo';'CA';'FPU';43;46148;44544
+'19';241927243;'CC du Pays d''Uzerche';'CC';'FPU';12;10004;9808
+'21';200000925;'CC de la Plaine Dijonnaise';'CC';'FPU';22;22425;22004
+'21';200006682;'CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay';'CA';'FPU';53;52958;51395
+'21';200039055;'CC Ouche et Montagne';'CC';'FPU';32;11007;10812
+'21';200039063;'CC Forêts, Seine et Suzon';'CC';'FPU';25;7107;6997
+'21';200069540;'CC Norge et Tille';'CC';'FPU';14;16266;15968
+'21';200070894;'CC de Gevrey-Chambertin et de Nuits-Saint-Georges';'CC';'FPU';55;30484;29743
+'21';200070902;'CC Auxonne Pontailler Val de Saône';'CC';'FPU';35;23703;23383
+'21';200070910;'CC Tille et Venelle';'CC';'FPU';18;5054;4962
+'21';200071017;'CC des Terres d''Auxois';'CC';'FPU';76;16458;15815
+'21';200071173;'CC du Pays Arnay Liernais';'CC';'FA';34;7266;7129
+'21';200071207;'CC de Pouilly en Auxois/Bligny sur Ouche';'CC';'FA';47;8886;8569
+'21';200072825;'CC Mirebellois et Fontenois';'CC';'FPU';32;12828;12604
+'21';242100154;'CC des Vallées de la Tille et de l''Ignon';'CC';'FPU';23;13820;13631
+'21';242100410;'Dijon Métropole';'METRO';'FPU';23;259087;253859
+'21';242101434;'CC du Pays Châtillonnais';'CC';'FA';107;20518;19790
+'21';242101442;'CC de Saulieu';'CC';'FA';12;5464;5301
+'21';242101459;'CC du Pays d''Alésia et de la Seine';'CC';'FPU';24;7644;7496
+'21';242101491;'CC du Montbardois';'CC';'FPU';33;10837;10583
+'21';242101509;'CC Rives de Saône';'CC';'FPU';38;20935;20532
+'22';200065928;'CA Lannion-Trégor Communauté';'CA';'FPU';57;103329;99520
+'22';200067460;'CC Loudéac Communauté - Bretagne Centre';'CC';'FPU';41;52766;51230
+'22';200067981;'CA Guingamp-Paimpol Agglomération de l''Armor à l''Argoat';'CA';'FPU';57;75871;73464
+'22';200068989;'CA Dinan Agglomération';'CA';'FPU';64;100240;97589
+'22';200069086;'CC Leff Armor Communauté';'CC';'FPU';27;31882;31277
+'22';200069391;'CA Lamballe Terre et Mer';'CA';'FPU';38;69404;67695
+'22';200069409;'CA Saint-Brieuc Armor Agglomération';'CA';'FPU';32;156540;151937
+'22';242200715;'CC du Kreiz-Breizh (CCKB)';'CC';'FPU';23;19130;18327
+'23';200034825;'CA du Grand Guéret';'CA';'FPU';25;29785;28734
+'23';200041556;'CC Portes de la Creuse en Marche';'CC';'FPU';16;6743;6635
+'23';200044014;'CC Creuse Grand Sud';'CC';'FPU';26;12415;11915
+'23';200067189;'CC Creuse Sud Ouest';'CC';'FPU';43;14210;13563
+'23';200067544;'CC Creuse Confluence';'CC';'FPU';42;16853;16589
+'23';200067593;'CC Marche et Combraille en Aquitaine';'CC';'FPU';50;13703;13476
+'23';242300135;'CC du Pays Sostranien';'CC';'FPU';10;11020;10654
+'23';242320000;'CC de Bénévent Grand Bourg';'CC';'FPU';16;7074;6924
+'23';242320109;'CC du Pays Dunois';'CC';'FPU';17;7185;7014
+'24';200027217;'CC Sarlat-Périgord Noir';'CC';'FPU';13;16588;16023
+'24';200034197;'CC de Montaigne Montravel et Gurson';'CC';'FA';18;12218;12020
+'24';200034833;'CC des Bastides Dordogne-Périgord';'CC';'FPU';47;19072;18694
+'24';200040095;'CC Isle Vern Salembre en Périgord';'CC';'FPU';16;19219;18927
+'24';200040384;'CC Isle Double Landais';'CC';'FPU';9;12252;12106
+'24';200040392;'CA Le Grand Périgueux';'CA';'FPU';43;107128;103757
+'24';200040400;'CC du Périgord Ribéracois';'CC';'FPU';44;20133;19607
+'24';200040830;'CC du Pays de Fénelon';'CC';'FPU';19;9892;9630
+'24';200040889;'CC de Portes Sud Périgord';'CC';'FA';25;8550;8416
+'24';200041051;'CC Vallée de la Dordogne et Forêt Bessède';'CC';'FA';20;9232;9030
+'24';200041150;'CC du Terrassonnais en Périgord Noir Thenon Hautefort';'CC';'FPU';37;22788;22357
+'24';200041168;'CC de la Vallée de l''Homme';'CC';'FPU';26;16000;15629
+'24';200041440;'CC de Domme- Villefranche du Périgord';'CC';'FPU';23;8777;8561
+'24';200041572;'CC Dronne et Belle';'CC';'FPU';16;11449;11253
+'24';200069094;'CC Isle et Crempse en Périgord';'CC';'FPU';25;14625;14366
+'24';200070647;'CA Bergeracoise';'CA';'FPU';38;62293;60581
+'24';200071819;'CC du Périgord Nontronnais';'CC';'FPU';28;15461;15143
+'24';242400752;'CC Périgord-Limousin';'CC';'FPU';22;14555;14154
+'24';242400935;'CC du Pays de Saint Aulaye';'CC';'FA';6;6773;6665
+'24';242401024;'CC Isle-Loue-Auvézère en Périgord';'CC';'FPU';28;13993;13680
+'25';200023075;'CC du Pays de Maîche';'CC';'FPU';43;19040;18604
+'25';200065647;'CA Pays de Montbéliard Agglomération';'CA';'FPU';72;142754;140002
+'25';200068070;'CC Loue-Lison';'CC';'FPU';74;25930;25335
+'25';200068294;'CC des Deux Vallées Vertes';'CC';'FPU';54;16339;15958
+'25';200069565;'CC des Lacs et Montagnes du Haut-Doubs';'CC';'FA';32;16526;16099
+'25';242500320;'CC de Montbenoit';'CC';'FA';16;8007;7833
+'25';242500338;'CC du Grand Pontarlier';'CC';'FPU';10;28625;27449
+'25';242500361;'CU Grand Besançon Métropole';'CU';'FPU';68;199349;194382
+'25';242504116;'CC du Val de Morteau';'CC';'FPU';8;21497;20756
+'25';242504181;'CC des Portes du Haut-Doubs';'CC';'FPU';47;26818;26166
+'25';242504355;'CC du Plateau de Russey';'CC';'FPU';17;6963;6688
+'25';242504371;'CC du Pays de Sancey-Belleherbe';'CC';'FPU';27;5632;5515
+'25';242504447;'CC du Doubs Baumois';'CC';'FPU';58;16401;15991
+'25';242504488;'CC Altitude 800';'CC';'FPU';11;6749;6390
+'25';242504496;'CC du Plateau de Frasne et du Val de Drugeon (CFD)';'CC';'FPU';10;6172;6040
+'26';200040459;'CA Montélimar Agglomération';'CA';'FPU';27;68883;66944
+'26';200040491;'CC Porte de Dromardèche';'CC';'FPU';35;48792;47239
+'26';200040509;'CC du Crestois et de Pays de Saillans Coeur de Drôme';'CC';'FPU';15;16070;15673
+'26';200042901;'CC Drôme Sud Provence';'CC';'FA';14;43590;42442
+'26';200067767;'CC du Royans-Vercors';'CC';'FPU';18;9945;9600
+'26';200068229;'CC des Baronnies en Drôme Provençale';'CC';'FA';67;21673;21127
+'26';200068781;'CA Valence Romans Agglo';'CA';'FPU';54;228472;223349
+'26';242600252;'CC du Val de Drôme en Biovallée';'CC';'FPU';29;30960;30313
+'26';242600492;'CC Dieulefit-Bourdeaux';'CC';'FPU';21;9776;9461
+'26';242600534;'CC du Diois';'CC';'FPU';50;12079;11688
+'27';200065787;'CC de Pont-Audemer / Val de Risle';'CC';'FPU';32;33791;32961
+'27';200066017;'CC Lieuvin Pays d''Auge';'CC';'FA';51;20801;20493
+'27';200066405;'CC Roumois Seine';'CC';'FPU';40;41480;40774
+'27';200066413;'CC Intercom Bernay Terres de Normandie';'CC';'FPU';75;56434;55048
+'27';200066462;'CC Interco Normandie Sud Eure';'CC';'FPU';41;39764;38516
+'27';200070142;'CC Lyons Andelle';'CC';'FPU';30;21078;20778
+'27';200071454;'CA Evreux Portes de Normandie';'CA';'FPU';74;112679;110023
+'27';200071843;'CC du Vexin Normand';'CC';'FPU';39;32838;32298
+'27';200072312;'CA Seine Normandie Agglomération';'CA';'FPU';61;84683;82564
+'27';200089456;'CA Seine-Eure';'CA';'FPU';60;105353;103330
+'27';242700276;'CC du Pays de Conches';'CC';'FA';25;18972;18595
+'27';242700607;'CC du Pays du Neubourg';'CC';'FA';41;23050;22495
+'28';200006971;'CC du Perche';'CC';'FPU';20;19002;18261
+'28';200033181;'CA Chartres Métropole';'CA';'FPU';66;139891;136243
+'28';200040277;'CA Agglo du Pays de Dreux';'CA';'FPU';81;116924;114862
+'28';200058360;'CC entre Beauce et Perche';'CC';'FPU';33;21944;21199
+'28';200069912;'CC des Forêts du Perche';'CC';'FPU';15;7976;7837
+'28';200069953;'CC des Portes Euréliennes d''Ile de France';'CC';'FPU';39;49496;48574
+'28';200069961;'CC du Grand Châteaudun';'CC';'FPU';23;41497;40452
+'28';200070159;'CC Coeur de Beauce';'CC';'FPU';48;24959;24522
+'28';200070167;'CC Terres de Perche';'CC';'FPU';22;14628;14261
+'28';242852465;'CC du Bonnevalais';'CC';'FPU';19;12699;12367
+'29';200066868;'CC Presqu''île de Crozon-Aulne maritime';'CC';'FPU';10;23277;22616
+'29';200067072;'CC Haut-Léon Communauté';'CC';'FPU';14;32547;31610
+'29';200067197;'CC Monts d''Arrée Communauté';'CC';'FPU';12;7934;7652
+'29';200067247;'CC Pleyben-Châteaulin-Porzay';'CC';'FPU';17;23976;22927
+'29';200068120;'CA Quimper Bretagne Occidentale';'CA';'FPU';14;104002;100620
+'29';242900074;'CC du Pays d''Iroise';'CC';'FPU';19;49512;48396
+'29';242900314;'Brest Métropole';'METRO';'FPU';8;214290;210047
+'29';242900553;'CC du Pays des Abers';'CC';'FPU';13;42097;41207
+'29';242900561;'CC de Haute Cornouaille';'CC';'FPU';11;15215;14890
+'29';242900629;'CC Cap Sizun - Pointe du Raz';'CC';'FPU';10;15684;15333
+'29';242900645;'CC Douarnenez Communauté';'CC';'FPU';5;18776;18245
+'29';242900660;'CC du Pays Fouesnantais';'CC';'FPU';7;29080;28102
+'29';242900694;'CA Quimperlé Communauté';'CA';'FPU';16;57291;55831
+'29';242900702;'CC du Pays Bigouden Sud';'CC';'FPU';12;38497;37372
+'29';242900710;'CC du Haut Pays Bigouden';'CC';'FPU';10;18675;18210
+'29';242900744;'CC Poher Communauté';'CC';'FPU';11;16186;15394
+'29';242900751;'CC du Pays de Landivisiau';'CC';'FPU';19;33924;33053
+'29';242900769;'CA Concarneau Cornouaille Agglomération';'CA';'FPU';9;52207;50575
+'29';242900793;'CC Communauté Lesneven Côte des Légendes';'CC';'FPU';14;28147;27444
+'29';242900801;'CC du Pays de Landerneau-Daoulas';'CC';'FPU';22;50108;48743
+'29';242900835;'CA Morlaix Communauté';'CA';'FPU';26;66532;64438
+'30';200034379;'CC Pays d''Uzès';'CC';'FPU';33;29266;28454
+'30';200034411;'CC du Piémont Cévenol';'CC';'FPU';34;22313;21879
+'30';200034601;'CC Causses Aigoual Cévennes';'CC';'FA';15;5514;5396
+'30';200034692;'CA du Gard Rhodanien';'CA';'FPU';44;76009;74411
+'30';200035129;'CC de Cèze Cévennes';'CC';'FPU';23;19457;19164
+'30';200066918;'CA Alès Agglomération';'CA';'FPU';72;132469;129931
+'30';243000270;'CC du Pays Viganais';'CC';'FPU';21;10291;10014
+'30';243000296;'CC du Pays de Sommières';'CC';'FPU';18;24054;23669
+'30';243000569;'CC Rhony, Vistre, Vidourle';'CC';'FPU';10;27536;27069
+'30';243000585;'CC Beaucaire Terre d''Argence';'CC';'FPU';5;31366;31027
+'30';243000593;'CC de Petite Camargue';'CC';'FPU';5;27293;26997
+'30';243000643;'CA de Nîmes Métropole';'CA';'FPU';39;262108;257987
+'30';243000650;'CC Terre de Camargue';'CC';'FPU';3;20609;20414
+'30';243000684;'CC du Pont du Gard';'CC';'FPU';17;26449;25834
+'31';200034957;'CC du Frontonnais';'CC';'FPU';10;27196;26724
+'31';200066819;'CC du Volvestre';'CC';'FA';32;30769;30182
+'31';200068641;'CA Le Muretain Agglo';'CA';'FPU';26;124160;121914
+'31';200068807;'CC du Bassin Auterivain Haut-Garonnais';'CC';'FPU';19;32836;32314
+'31';200068815;'CC Coeur de Garonne';'CC';'FPU';48;35448;34793
+'31';200071298;'CC des Terres du Lauragais';'CC';'FPU';58;40876;40145
+'31';200071314;'CC des Hauts-Tolosans';'CC';'FPU';29;34723;33977
+'31';200072635;'CC Pyrénées Haut Garonnaises';'CC';'FPU';76;16161;15555
+'31';200072643;'CC Coeur et Coteaux du Comminges';'CC';'FPU';104;45412;44164
+'31';200073146;'CC Cagire Garonne Salat';'CC';'FPU';55;18255;17716
+'31';243100518;'Toulouse Métropole';'METRO';'FPU';37;793243;783353
+'31';243100567;'CC Lauragais Revel Sorezois';'CC';'FPU';28;22132;21523
+'31';243100633;'CA du Sicoval';'CA';'FPU';36;81470;79426
+'31';243100732;'CC des Coteaux du Girou';'CC';'FPU';18;21946;21474
+'31';243100773;'CC Val''Aïgo';'CC';'FPU';9;17946;17638
+'31';243100781;'CC de la Save au Touch';'CC';'FPU';7;41944;40998
+'31';243100815;'CC des Coteaux Bellevue';'CC';'FPU';7;20707;20286
+'32';200023620;'CC de la Gascogne Toulousaine';'CC';'FPU';14;22639;22069
+'32';200034726;'CC Bastides de Lomagne';'CC';'FPU';41;11600;11209
+'32';200035632;'CC Armagnac Adour';'CC';'FPU';24;7071;6806
+'32';200035756;'CC Astarac Arros en Gascogne';'CC';'FPU';37;7474;7235
+'32';200042372;'CC des Coteaux Arrats Gimone';'CC';'FPU';30;10926;10687
+'32';200066926;'CA Grand Auch Coeur de Gascogne';'CA';'FPU';34;40580;38936
+'32';200072320;'CC Val de Gers';'CC';'FPU';45;10697;10084
+'32';243200391;'CC de la Lomagne Gersoise';'CC';'FPU';43;19921;19185
+'32';243200409;'CC du Bas Armagnac';'CC';'FA';26;8922;8568
+'32';243200417;'CC de la Tenarèze';'CC';'FPU';26;14949;14550
+'32';243200425;'CC Coeur d''Astarac en Gascogne';'CC';'FPU';19;8125;7698
+'32';243200458;'CC du Grand Armagnac';'CC';'FA';25;13509;13250
+'32';243200508;'CC Bastides et Vallons du Gers';'CC';'FPU';30;7377;7116
+'32';243200599;'CC du Saves';'CC';'FPU';32;9883;9583
+'32';243200607;'CC Artagnan de Fezensac';'CC';'FPU';25;7159;7019
+'33';200023794;'CC de Blaye';'CC';'FPU';20;20512;20052
+'33';200035533;'CC du Grand Saint Emilionnais';'CC';'FPU';22;14933;14518
+'33';200043974;'CC du Sud Gironde';'CC';'FPU';37;39502;38723
+'33';200043982;'CC du Bazadais';'CC';'FPU';31;16299;15722
+'33';200044394;'CC du Réolais en Sud Gironde';'CC';'FPU';41;24331;23860
+'33';200069581;'CC Convergence Garonne';'CC';'FPU';27;33010;32553
+'33';200069599;'CC rurales de l''Entre-Deux-Mers';'CC';'FPU';50;16804;16543
+'33';200069995;'CC Médoc Coeur de Presqu''île';'CC';'FPU';18;30743;30210
+'33';200070092;'CA du Libournais';'CA';'FPU';45;92731;91150
+'33';200070720;'CC Médoc Atlantique';'CC';'FPU';14;27045;26670
+'33';243300316;'Bordeaux Métropole';'METRO';'FPU';28;811377;801041
+'33';243300563;'CA Bassin d''Arcachon Sud-Pôle Atlantique (COBAS)';'CA';'FPU';4;68820;67563
+'33';243300811;'CC de l''Estuaire';'CC';'FPU';14;16012;15778
+'33';243301165;'CC Jalle-Eau-Bourde';'CC';'FPU';3;31978;31474
+'33';243301181;'CC Latitude Nord Gironde';'CC';'FPU';12;20745;20496
+'33';243301215;'CC du Créonnais';'CC';'FPU';15;17803;17446
+'33';243301223;'CC du Grand Cubzaguais';'CC';'FPU';16;36106;35610
+'33';243301249;'CC du Secteur de Saint-Loubès';'CC';'FPU';6;27867;27520
+'33';243301264;'CC de Montesquieu';'CC';'FPU';13;45311;44283
+'33';243301355;'CC des Coteaux Bordelais';'CC';'FPU';8;20329;20074
+'33';243301371;'CC du Pays Foyen';'CC';'FPU';20;16969;16654
+'33';243301389;'CC Médullienne';'CC';'FPU';10;21806;21512
+'33';243301397;'CC du Fronsadais';'CC';'FPU';18;17395;17099
+'33';243301405;'CC du Val de l''Eyre';'CC';'FPU';5;20713;20363
+'33';243301439;'CC des Portes de l''Entre-Deux-Mers';'CC';'FPU';11;21828;21347
+'33';243301447;'CC Médoc Estuaire';'CC';'FPU';10;29249;28899
+'33';243301454;'CC Castillon/Pujols';'CC';'FPU';31;19361;19072
+'33';243301504;'CA du Bassin d''Arcachon Nord';'CA';'FPU';8;69578;68432
+'34';200017341;'CC Lodévois et Larzac';'CC';'FPU';28;15112;14702
+'34';200022986;'CC du Grand Pic Saint-Loup';'CC';'FPU';36;50006;48811
+'34';200042646;'CC Grand Orb communauté de communes en Languedoc';'CC';'FPU';24;20671;20176
+'34';200042653;'CC Sud-Hérault';'CC';'FPU';17;18138;17810
+'34';200066348;'CC du Minervois au Caroux';'CC';'FPU';36;15074;14630
+'34';200066355;'CA Sète Agglopôle Méditerranée';'CA';'FPU';14;126970;125325
+'34';200071058;'CC Les Avant-Monts';'CC';'FPU';25;27610;27144
+'34';243400017;'Montpellier Méditerranée Métropole';'METRO';'FPU';31;487519;481276
+'34';243400355;'CC du Clermontais';'CC';'FPU';21;28429;27932
+'34';243400470;'CA du Pays de l''Or';'CA';'FPU';8;45038;44542
+'34';243400488;'CC la Domitienne';'CC';'FPU';8;28768;28235
+'34';243400520;'CC du Pays de Lunel';'CC';'FPU';14;51123;50496
+'34';243400694;'CC Vallée de l''Hérault';'CC';'FPU';28;40201;39499
+'34';243400736;'CC des Cévennes Gangeoises et Suménoises';'CC';'FPU';13;13477;13160
+'34';243400769;'CA de Béziers-Méditerranée';'CA';'FPU';17;127755;125648
+'34';243400819;'CA Hérault-Méditerranée';'CA';'FPU';20;81117;79636
+'35';200038990;'CC de Saint-Méen Montauban';'CC';'FPU';17;27177;26473
+'35';200039022;'CA Vitré Communauté';'CA';'FPU';46;83336;81205
+'35';200043990;'CC Vallons de Haute-Bretagne Communauté';'CC';'FPU';18;44804;43861
+'35';200070662;'CC Bretagne Porte de Loire Communauté';'CC';'FPU';20;32760;32157
+'35';200070670;'CC du Pays de Dol et de la Baie du Mont Saint-Michel';'CC';'FPU';19;24140;23533
+'35';200070688;'CC Couesnon Marches de Bretagne';'CC';'FPU';15;22415;21997
+'35';200072452;'CA Fougères Agglomération';'CA';'FPU';29;57137;55740
+'35';243500139;'Rennes Métropole';'METRO';'FPU';43;461166;451762
+'35';243500550;'CC Montfort Communauté';'CC';'FPU';8;26355;25830
+'35';243500618;'CC de Brocéliande';'CC';'FPU';8;18930;18588
+'35';243500634;'CC Roche aux Fées Communauté';'CC';'FPU';16;27022;26460
+'35';243500659;'CC Pays de Châteaugiron Communauté';'CC';'FPU';5;27118;26507
+'35';243500667;'CC Val d''Ille-Aubigné';'CC';'FPU';19;37562;36885
+'35';243500725;'CC Côte d''Emeraude';'CC';'FPU';9;32338;31274
+'35';243500733;'CC Bretagne Romantique';'CC';'FPU';25;36192;35366
+'35';243500741;'CA Redon Agglomération';'CA';'FPU';31;68712;66478
+'35';243500774;'CC Liffré-Cormier Communauté';'CC';'FPU';9;26826;26236
+'35';243500782;'CA du Pays de Saint Malo Agglomération';'CA';'FPU';18;86158;83853
+'36';200007052;'CC de la Marche Berrichonne';'CC';'FA';9;5760;5663
+'36';200018521;'CC du Val de Bouzanne';'CC';'FA';12;6106;5996
+'36';200035137;'CC Marche Occitane - Val d''Anglin';'CC';'FPU';17;6821;6677
+'36';200035848;'CC du Châtillonnais en Berry';'CC';'FPU';10;6082;5821
+'36';200040558;'CC Ecueillé-Valençay';'CC';'FPU';18;11366;11078
+'36';200068872;'CC Eguzon - Argenton - Vallée de la Creuse';'CC';'FPU';21;20161;19684
+'36';200068880;'CC Champagne Boischauts';'CC';'FPU';30;10066;9870
+'36';243600202;'CC Chabris - Pays de Bazelle';'CC';'FPU';10;6320;6223
+'36';243600236;'CC du Pays d''Issoudun';'CC';'FA';12;20287;19822
+'36';243600293;'CC de la Région de Levroux';'CC';'FA';10;6433;6345
+'36';243600301;'CC Val de l''Indre - Brenne';'CC';'FPU';12;13830;13590
+'36';243600319;'CC Brenne - Val de Creuse';'CC';'FPU';28;18394;17918
+'36';243600327;'CA Châteauroux Métropole';'CA';'FPU';14;75357;72983
+'36';243600343;'CC Coeur de Brenne';'CC';'FPU';11;4817;4715
+'36';243600350;'CC de la Châtre et Sainte-Sévère';'CC';'FPU';30;16744;16365
+'37';200043065;'CC du Val d Amboise';'CC';'FPU';14;28524;27851
+'37';200043081;'CC Chinon, Vienne et Loire';'CC';'FPU';19;24139;23447
+'37';200071587;'CC Loches Sud Touraine';'CC';'FPU';67;52815;51376
+'37';200072650;'CC Touraine Vallée de l''Indre';'CC';'FPU';22;53925;52983
+'37';200072668;'CC Touraine Val de Vienne';'CC';'FPU';40;25497;25101
+'37';200072981;'CC Touraine Ouest Val de Loire';'CC';'FPU';28;33815;33294
+'37';200073161;'CC Touraine-Est Vallées';'CC';'FPU';10;40391;39771
+'37';200073237;'CC de Gâtine et Choisilles - Pays de Racan';'CC';'FPU';19;21996;21596
+'37';243700499;'CC du Castelrenaudais';'CC';'FPU';16;17006;16665
+'37';243700754;'Tours Métropole Val de Loire';'METRO';'FPU';22;300045;294220
+'37';243700820;'CC de Bléré Val de Cher';'CC';'FPU';15;21861;21456
+'38';200018166;'CC Le Grésivaudan';'CC';'FPU';43;104924;101729
+'38';200030658;'CC du Trièves';'CC';'FPU';27;10373;10103
+'38';200040111;'CC Coeur de Chartreuse';'CC';'FPU';17;17397;17045
+'38';200040657;'CC de la Matheysine';'CC';'FPU';43;19485;18956
+'38';200040715;'Grenoble-Alpes-Métropole';'METRO';'FPU';49;451107;445059
+'38';200059392;'CC Bièvre Isère';'CC';'FPU';50;56029;54727
+'38';200068542;'CC Les Balcons du Dauphiné';'CC';'FPU';47;78322;76630
+'38';200068567;'CC Les Vals du Dauphiné';'CC';'FPU';36;64466;62888
+'38';200070431;'CC Saint-Marcellin Vercors Isère Communauté';'CC';'FPU';47;45414;44327
+'38';200077014;'CA Vienne Condrieu';'CA';'FPU';30;91896;90357
+'38';200085751;'CC Entre Bièvre et Rhône';'CC';'FPU';37;69138;67971
+'38';243800604;'CA Porte de l''Isère (CAPI)';'CA';'FPU';22;109455;107395
+'38';243800745;'CC de l''Oisans';'CC';'FA';19;10893;10662
+'38';243800935;'CC Lyon-Saint-Exupéry en Dauphiné';'CC';'FA';6;28919;28608
+'38';243800984;'CA du Pays Voironnais';'CA';'FPU';31;96149;93573
+'38';243801024;'CC du Massif du Vercors';'CC';'FPU';6;12357;11839
+'38';243801073;'CC de Bièvre Est';'CC';'FPU';14;22706;22261
+'38';243801255;'CC des Collines du Nord Dauphiné';'CC';'FPU';10;25138;24695
+'39';200010650;'CA du Grand Dole';'CA';'FPU';47;56276;54595
+'39';200026573;'CC Haut-Jura Saint-Claude';'CC';'FPU';22;20917;20262
+'39';200069615;'CC Bresse Haute Seille';'CC';'FPU';54;19452;19010
+'39';200069623;'CC Champagnole Nozeroy Jura';'CC';'FPU';66;23562;22675
+'39';200071116;'CA ECLA  (Espace Communautaire Lons Agglomération)';'CA';'FPU';32;35998;34317
+'39';200071595;'CC Arbois, Poligny, Salins, Coeur du Jura';'CC';'FPU';66;22889;21840
+'39';200072056;'CC Porte du Jura';'CC';'FPU';22;10838;10556
+'39';200090579;'CC Terre d?Emeraude Communauté';'CC';'FPU';92;25666;24791
+'39';243900354;'CC de la Station des Rousses-Haut Jura';'CC';'FA';4;7286;7115
+'39';243900420;'CC du Val d''Amour';'CC';'FPU';24;9563;9084
+'39';243900479;'CC du Haut-Jura (ARCADE)';'CC';'FPU';4;9690;9276
+'39';243900560;'CC Jura Nord';'CC';'FPU';32;11875;11659
+'39';243900610;'CC la Grandvallière';'CC';'FA';8;5534;5385
+'39';243901089;'CC de la Plaine Jurassienne';'CC';'FPU';21;9328;9181
+'40';200030435;'CC d''Aire-sur-l''Adour';'CC';'FPU';22;13595;12846
+'40';200035541;'CC des Landes d''Armagnac';'CC';'FPU';27;11205;10804
+'40';200069417;'CC Pays d''Orthe et Arrigans';'CC';'FPU';24;24443;23776
+'40';200069631;'CC Terres de Chalosse';'CC';'FPU';34;18646;18130
+'40';200069649;'CC Chalosse Tursan';'CC';'FPU';50;26648;26045
+'40';200069656;'CC Coeur Haute Lande';'CC';'FA';26;16074;15679
+'40';244000543;'CC de Mimizan';'CC';'FPU';6;12654;12390
+'40';244000659;'CC du Seignanx';'CC';'FPU';8;28239;27605
+'40';244000675;'CA du Grand Dax';'CA';'FPU';20;57554;55332
+'40';244000691;'CC du Pays Morcenais';'CC';'FPU';6;9597;9379
+'40';244000766;'CC du Pays Tarusate';'CC';'FPU';17;18023;17688
+'40';244000774;'CC du Pays de Villeneuve en Armagnac Landais';'CC';'FPU';12;6411;6277
+'40';244000808;'CA Mont de Marsan Agglomération';'CA';'FPU';18;55659;53516
+'40';244000824;'CC du Pays Grenadois';'CC';'FPU';11;7884;7659
+'40';244000857;'CC Côte Landes Nature';'CC';'FPU';10;12196;11946
+'40';244000865;'CC Maremne Adour Côte Sud';'CC';'FPU';23;68642;66974
+'40';244000873;'CC des Grands Lacs';'CC';'FPU';7;30428;29709
+'40';244000881;'CC Coteaux et Vallées des Luys';'CC';'FPU';16;7795;7610
+'41';200000800;'CC Coeur de Sologne';'CC';'FPU';6;10719;10548
+'41';200018406;'CC du Romorantinais et du Monestois';'CC';'FPU';16;34312;33569
+'41';200030385;'CA de Blois ''''Agglopolys''''';'CA';'FPU';43;108453;105286
+'41';200040772;'CC du Perche et Haut Vendômois';'CC';'FPU';23;9371;9220
+'41';200055481;'CC Beauce Val de Loire';'CC';'FPU';30;20145;19756
+'41';200072064;'CC Val-de-Cher-Controis';'CC';'FPU';33;48636;47582
+'41';200072072;'CA Territoires Vendômois';'CA';'FPU';65;55237;53337
+'41';244100293;'CC des Collines du Perche';'CC';'FPU';12;6190;6042
+'41';244100780;'CC de la Sologne des Etangs';'CC';'FPU';12;8819;8680
+'41';244100798;'CC du Grand Chambord';'CC';'FPU';16;21110;20692
+'41';244100806;'CC de la Sologne des Rivières';'CC';'FPU';7;10892;10681
+'42';200035202;'CC Charlieu-Belmont';'CC';'FPU';25;24240;23382
+'42';200035731;'CA Roannais Agglomération';'CA';'FPU';40;102881;100288
+'42';200065886;'CA Loire Forez Agglomération (LFA)';'CA';'FPU';87;112757;109787
+'42';200065894;'CC de Forez-Est';'CC';'FPU';42;65006;63673
+'42';244200614;'CC des Vals d''Aix et Isable';'CC';'FPU';12;6101;5946
+'42';244200622;'CC des Monts du Pilat';'CC';'FPU';16;15636;15237
+'42';244200630;'CC du Pays Entre Loire et Rhône';'CC';'FPU';16;14189;13916
+'42';244200770;'Saint-Etienne Métropole';'METRO';'FPU';53;409771;404607
+'42';244200820;'CC du Pays d''Urfé';'CC';'FA';11;5331;5209
+'42';244200895;'CC du Pilat Rhodanien';'CC';'FPU';14;17256;16792
+'43';200073393;'CC des Rives du Haut Allier';'CC';'FPU';60;17340;16837
+'43';200073401;'CC Mézenc-Loire-Meygal';'CC';'FPU';22;11443;11171
+'43';200073419;'CA du Puy-en-Velay';'CA';'FPU';72;85419;82673
+'43';200073427;'CC Marches du Velay-Rochebaron';'CC';'FPU';14;31588;30704
+'43';200085728;'CC Brioude Sud Auvergne';'CC';'FPU';27;17678;16866
+'43';244300307;'CC du Pays de Montfaucon';'CC';'FPU';8;8281;8112
+'43';244301016;'CC des Sucs';'CC';'FPU';9;18751;18043
+'43';244301099;'CC Auzon Communauté';'CC';'FPU';12;9543;9338
+'43';244301107;'CC du Haut Lignon';'CC';'FPU';6;8260;8106
+'43';244301123;'CC des Pays de Cayres et de Pradelles';'CC';'FPU';20;5332;5196
+'43';244301131;'CC Loire et Semène';'CC';'FPU';7;20799;20506
+'44';200000438;'CC du Pays de Pontchâteau St-Gildas-des-Bois';'CC';'FPU';9;36062;35445
+'44';200067346;'CA Pornic Agglo Pays de Retz';'CA';'FPU';15;64757;63534
+'44';200067635;'CA Clisson Sèvre et Maine Agglo';'CA';'FPU';16;57125;55455
+'44';200067866;'CC Sèvre et Loire';'CC';'FPU';11;48841;47805
+'44';200071546;'CC Sud Retz Atlantique';'CC';'FPU';8;25290;24771
+'44';200072726;'CC Châteaubriant-Derval';'CC';'FPU';26;45963;44421
+'44';200072734;'CC Estuaire et Sillon';'CC';'FPU';11;39770;39055
+'44';244400404;'Nantes Métropole';'METRO';'FPU';24;668162;656275
+'44';244400438;'CC de Grand Lieu';'CC';'FPU';9;40214;39540
+'44';244400453;'CC de la Région de Blain';'CC';'FPU';4;16596;16319
+'44';244400503;'CC d''Erdre et Gesvres';'CC';'FPU';12;64539;63280
+'44';244400537;'CC de Nozay';'CC';'FPU';7;16222;15967
+'44';244400552;'CC du Pays d''Ancenis';'CC';'FPU';20;68998;67534
+'44';244400586;'CC du Sud Estuaire';'CC';'FPU';6;30907;30177
+'44';244400610;'CA de la Presqu''île de Guérande Atlantique (CAP ATLANTIQUE)';'CA';'FPU';15;76618;74669
+'44';244400644;'CA de la Région Nazairienne et de l''Estuaire (CARENE)';'CA';'FPU';10;128585;125883
+'45';200005932;'CC des Portes de Sologne';'CC';'FPU';7;15742;15402
+'45';200035764;'CC de la Beauce Loirétaine';'CC';'FPU';23;17085;16797
+'45';200066280;'CC du Pithiverais';'CC';'FPU';31;29830;29209
+'45';200067668;'CC de la Cléry, du Betz et de l''Ouanne';'CC';'FPU';23;20511;20191
+'45';200067676;'CC Canaux et Forêts en Gâtinais';'CC';'FPU';38;28128;27555
+'45';200068278;'CC Berry Loire Puisaye';'CC';'FPU';20;18347;18040
+'45';200070100;'CC du Val de Sully';'CC';'FPU';19;25112;24609
+'45';200070183;'CC des Terres du Val de Loire';'CC';'FPU';25;49786;48768
+'45';200071850;'CC du Pithiverais-Gâtinais';'CC';'FPU';32;26641;26044
+'45';244500203;'CA Montargoise et Rives du Loing (AME)';'CA';'FPU';15;64316;62240
+'45';244500211;'CC Giennoises';'CC';'FPU';11;25131;24472
+'45';244500419;'CC des Quatre Vallées';'CC';'FPU';19;17594;17282
+'45';244500427;'CC des Loges';'CC';'FPU';20;43217;42425
+'45';244500468;'Orléans Métropole';'METRO';'FPU';22;292874;287019
+'45';244500484;'CC de la Forêt';'CC';'FPU';10;17347;17014
+'45';244500542;'CC de la Plaine du Nord Loiret';'CC';'FPU';15;7027;6890
+'46';200023737;'CA du Grand Cahors';'CA';'FPU';36;43145;41607
+'46';200035327;'CC Cazals-Salviac';'CC';'FA';15;5469;5357
+'46';200039519;'CC du Quercy Blanc';'CC';'FA';10;7919;7733
+'46';200066371;'CC Causses et Vallée de la Dordogne';'CC';'FPU';77;46713;45207
+'46';200067361;'CC Grand-Figeac';'CC';'FPU';92;45177;43563
+'46';244600433;'CC de la Vallée du Lot et du Vignoble';'CC';'FPU';27;14829;14520
+'46';244600482;'CC Quercy - Bouriane';'CC';'FPU';20;10375;10085
+'46';244600532;'CC du Pays de Lalbenque-Limogne';'CC';'FA';23;8618;8414
+'46';244600573;'CC du Causse de Labastide Murat';'CC';'FA';17;3987;3912
+'47';200023307;'CA du Grand Villeneuvois';'CA';'FPU';19;49014;47719
+'47';200030674;'CA Val de Garonne Agglomération';'CA';'FPU';43;61876;60213
+'47';200035459;'CA d''Agen';'CA';'FPU';31;98661;96339
+'47';200036523;'CC des Bastides en Haut Agenais Périgord';'CC';'FPU';43;17413;17048
+'47';200036572;'CC Porte d''Aquitaine en Pays de Serres';'CC';'FA';13;5324;5244
+'47';200068922;'CC du Confluent et des Coteaux de Prayssas';'CC';'FA';29;18810;18341
+'47';200068930;'CC Fumel Vallée du Lot';'CC';'FPU';27;25011;24477
+'47';200068948;'CC Albret Communauté';'CC';'FPU';33;27153;26189
+'47';244700449;'CC du Pays de Duras';'CC';'FA';17;5833;5731
+'47';244700464;'CC du Pays de Lauzun';'CC';'FA';20;10707;10412
+'47';244701355;'CC des Coteaux et Landes de Gascogne';'CC';'FPU';27;12600;12415
+'47';244701405;'CC Lot et Tolzac';'CC';'FA';15;7419;7318
+'48';200006930;'CC du Haut Allier';'CC';'FPU';10;5440;5186
+'48';200069102;'CC Randon - Margeride';'CC';'FPU';15;5457;5312
+'48';200069128;'CC Mont Lozère';'CC';'FPU';21;5719;5507
+'48';200069136;'CC des Cévennes au Mont Lozère';'CC';'FPU';19;5261;5044
+'48';200069144;'CC des Hautes Terres de l''Aubrac';'CC';'FPU';17;5272;5086
+'48';200069151;'CC Gorges Causses Cévennes';'CC';'FPU';17;7270;6968
+'48';200069185;'CC des Terres d''Apcher-Margeride-Aubrac';'CC';'FPU';20;11419;10644
+'48';200069268;'CC Aubrac Lot Causses Tarn';'CC';'FA';15;8233;7968
+'48';244800405;'CC Coeur de Lozère';'CC';'FPU';7;16443;15511
+'48';244800470;'CC du Gévaudan';'CC';'FPU';12;10071;9653
+'49';200060010;'CA Mauges Communauté';'CA';'FPU';6;122820;119881
+'49';200068955;'CC Anjou Loir et Sarthe';'CC';'FPU';17;28323;27873
+'49';200071553;'CC Loire Layon Aubance';'CC';'FPU';19;57598;56389
+'49';200071678;'CA Agglomération du Choletais';'CA';'FPU';26;107483;104382
+'49';200071868;'CC des Vallées du Haut-Anjou';'CC';'FPU';16;36972;36259
+'49';200071876;'CA Saumur Val de Loire';'CA';'FPU';45;101902;99236
+'49';244900015;'CU Angers Loire Métropole';'CU';'FPU';29;306258;299476
+'49';244900809;'CC Anjou Bleu Communauté';'CC';'FPU';11;35780;34506
+'49';244900882;'CC Baugeois Vallée';'CC';'FPU';7;36018;35237
+'50';200042604;'CC de Granville, Terre et Mer';'CC';'FPU';32;45855;44276
+'50';200042729;'CC de la Baie du Cotentin';'CC';'FPU';23;23444;23039
+'50';200043354;'CC de Villedieu Intercom';'CC';'FPU';27;16005;15669
+'50';200066389;'CA Saint-Lô Agglo';'CA';'FPU';61;78784;75972
+'50';200067023;'CC Coutances Mer et Bocage';'CC';'FPU';49;50047;47841
+'50';200067031;'CC Côte Ouest Centre Manche';'CC';'FPU';30;22375;21929
+'50';200067205;'CA du Cotentin';'CA';'FPU';129;184477;179484
+'50';200069425;'CA Mont-Saint-Michel-Normandie';'CA';'FPU';95;90996;87773
+'51';200034718;'CC de Vitry, Champagne et Der';'CC';'FPU';35;24583;24070
+'51';200042620;'CC de la Région de Suippes';'CC';'FPU';16;7990;7712
+'51';200042703;'CC de l''Argonne Champenoise';'CC';'FPU';60;12291;11969
+'51';200042992;'CC Perthois-Bocage et Der';'CC';'FA';25;5745;5663
+'51';200043438;'CC de la Moivre à la Coole';'CC';'FA';28;10030;9499
+'51';200066835;'CC de Sézanne-Sud Ouest Marnais';'CC';'FA';62;21808;21360
+'51';200066850;'CC des Paysages de la Champagne';'CC';'FA';53;21578;21104
+'51';200066876;'CA de Châlons-en-Champagne';'CA';'FPU';46;81498;79518
+'51';200067213;'CU du Grand Reims';'CU';'FPU';143;300906;295926
+'51';200067379;'CC Côtes de Champagne et Val de Saulx';'CC';'FPU';40;11933;11716
+'51';200067684;'CA Epernay, Coteaux et Plaine de Champagne';'CA';'FPU';47;48646;47446
+'51';245100615;'CC de la Grande Vallée de la Marne';'CC';'FPU';14;15000;14696
+'51';245100888;'CC de la Brie Champenoise';'CC';'FA';20;7704;7569
+'51';245100979;'CC du Sud Marnais';'CC';'FA';14;6024;5885
+'52';200027308;'CC d''Auberive Vingeanne et Montsaugeonnais';'CC';'FA';51;8497;8330
+'52';200044253;'CC du Bassin de Joinville en Champagne';'CC';'FPU';59;12811;12523
+'52';200068658;'CA de Chaumont';'CA';'FPU';63;46597;44753
+'52';200068666;'CA de Saint-Dizier Der et Blaise';'CA';'FPU';60;58350;57096
+'52';200069664;'CC Meuse Rognon';'CC';'FA';59;11090;10832
+'52';200070332;'CC des Savoir-Faire';'CC';'FPU';63;15707;15309
+'52';200072999;'CC du Grand Langres';'CC';'FPU';54;21628;20920
+'52';245200597;'CC des Trois Forêts';'CC';'FA';29;7662;7529
+'53';200033298;'CC des Coëvrons';'CC';'FPU';29;27784;27189
+'53';200042182;'CC du Mont des Avaloirs';'CC';'FPU';26;16409;16022
+'53';200048551;'CC du Pays de Craon';'CC';'FPU';37;29504;28752
+'53';200055887;'CC Mayenne Communauté';'CC';'FPU';33;38003;36727
+'53';200083392;'CA Laval Agglomération';'CA';'FPU';34;118245;113854
+'53';245300223;'CC du Pays de Meslay-Grez';'CC';'FPU';22;14179;13880
+'53';245300355;'CC de l''Ernée';'CC';'FPU';15;21285;20880
+'53';245300389;'CC du Bocage Mayennais';'CC';'FPU';27;19212;18792
+'53';245300447;'CC du Pays de Château-Gontier';'CC';'FPU';16;31229;30256
+'54';200035772;'CC du Pays du Saintois';'CC';'FA';55;14592;14370
+'54';200041515;'CC du Bassin de Pont-à-Mousson';'CC';'FPU';31;40998;40477
+'54';200043693;'CC Terre Lorraine du Longuyonnais';'CC';'FA';27;15648;15397
+'54';200067643;'CC Meurthe Mortagne Moselle';'CC';'FA';37;17012;16769
+'54';200069433;'CC de Vezouze en Piémont';'CC';'FA';51;11967;11743
+'54';200070290;'CC Coeur du Pays Haut';'CC';'FPU';25;23704;23259
+'54';200070324;'CC du Territoire de Lunéville à Baccarat';'CC';'FPU';43;41890;41143
+'54';200070563;'CC Terres Touloises';'CC';'FPU';41;45067;44276
+'54';200070589;'CC de Seille et Grand Couronné';'CC';'FPU';42;19002;18746
+'54';200070738;'CC Mad et Moselle';'CC';'FPU';48;20306;20000
+'54';200070845;'CC Orne Lorraine Confluences';'CC';'FPU';41;53988;53076
+'54';245400171;'CC Moselle et Madon';'CC';'FPU';19;28966;28560
+'54';245400189;'CC des Pays du Sel et du Vermois';'CC';'FA';16;29473;29058
+'54';245400262;'CA de Longwy';'CA';'FPU';21;63191;62095
+'54';245400510;'CC du Pays de Colombey et du Sud Toulois';'CC';'FPU';38;11583;11392
+'54';245400601;'CC du Bassin de Pompey';'CC';'FPU';13;40819;40353
+'54';245400676;'Métropole du Grand Nancy';'METRO';'FPU';20;261638;257431
+'54';245400759;'CC du Pays du Sanon';'CC';'FA';28;6010;5926
+'55';200033025;'CA de Bar-le-Duc - Sud Meuse';'CA';'FPU';33;35607;34458
+'55';200034874;'CC Côtes de Meuse Woëvre';'CC';'FA';25;6166;5986
+'55';200049187;'CA du Grand Verdun';'CA';'FPU';25;28978;27727
+'55';200066108;'CC des Portes de Meuse';'CC';'FPU';51;16972;16555
+'55';200066116;'CC Argonne-Meuse';'CC';'FA';38;7258;7106
+'55';200066132;'CC du Pays de Stenay et du Val Dunois';'CC';'FPU';41;9991;9663
+'55';200066140;'CC de l''Aire à l''Argonne';'CC';'FA';47;6661;6496
+'55';200066157;'CC de Commercy - Void - Vaucouleurs';'CC';'FA';54;22874;22271
+'55';200066165;'CC Val de Meuse - Voie Sacrée';'CC';'FPU';25;9294;9121
+'55';200066173;'CC de Damvillers Spincourt';'CC';'FPU';41;8444;8242
+'55';245500327;'CC du Sammiellois';'CC';'FA';19;8723;8555
+'55';245501176;'CC du Territoire de Fresnes en Woëvre';'CC';'FA';32;4907;4797
+'55';245501184;'CC du Pays de Revigny sur Ornain';'CC';'FPU';16;7374;7206
+'55';245501242;'CC du Pays d''Etain';'CC';'FA';26;7767;7625
+'55';245501259;'CC du Pays de Montmédy';'CC';'FA';25;7236;7036
+'56';200027027;'CC Arc Sud Bretagne';'CC';'FPU';12;28299;27767
+'56';200042174;'CA Lorient Agglomération';'CA';'FPU';25;209360;204107
+'56';200043123;'CC Auray Quiberon Terre Atlantique';'CC';'FPU';24;89923;87546
+'56';200066777;'CC Ploërmel Communauté';'CC';'FPU';30;43513;42001
+'56';200066785;'CC de l''Oust à Brocéliande';'CC';'FPU';26;40024;38981
+'56';200067221;'CC Centre Morbihan Communauté';'CC';'FPU';18;44057;42823
+'56';200067932;'CA Golfe du Morbihan - Vannes Agglomération';'CA';'FPU';34;174638;169785
+'56';245600440;'CC de Blavet Bellevue Océan';'CC';'FA';5;18489;18022
+'56';245600465;'CC de Belle Ile en Mer';'CC';'FPU';4;5569;5443
+'56';245614383;'CC Questembert Communauté';'CC';'FPU';13;24242;23677
+'56';245614417;'CC Roi Morvan Communauté';'CC';'FPU';21;25475;24577
+'56';245614433;'CC Pontivy Communauté';'CC';'FPU';25;48101;46307
+'57';200039865;'Metz Métropole';'METRO';'FPU';44;225374;221484
+'57';200039907;'CC du Sud Messin';'CC';'FPU';34;16726;16331
+'57';200039949;'CC Rives de Moselle';'CC';'FPU';20;52737;51925
+'57';200067486;'CC Bouzonvillois-Trois Frontières';'CC';'FPU';42;25682;25187
+'57';200067502;'CA Saint-Avold Synergie';'CA';'FPU';41;53998;52934
+'57';200067650;'CC Houve-Pays Boulageois';'CC';'FPU';37;23476;23116
+'57';200067957;'CC Haut Chemin-Pays de Pange';'CC';'FPU';28;19803;19225
+'57';200068146;'CC Sarrebourg Moselle Sud';'CC';'FPU';76;46624;45555
+'57';200069441;'CC du Pays de Bitche';'CC';'FPU';46;34921;34069
+'57';200070746;'CA Sarreguemines Confluences';'CA';'FPU';38;66121;64748
+'57';245700133;'CC du District Urbain de Faulquemont (DUF)';'CC';'FPU';33;24780;24358
+'57';245700372;'CA de Forbach Porte de France';'CA';'FPU';21;78293;77140
+'57';245700398;'CC de Freyming-Merlebach';'CC';'FPU';11;32109;31709
+'57';245700695;'CC de Cattenom et Environs';'CC';'FPU';20;26510;25985
+'57';245700950;'CC du Pays de Phalsbourg';'CC';'FPU';26;18020;17490
+'57';245701164;'CC du Warndt';'CC';'FPU';5;18268;17959
+'57';245701206;'CC du Saulnois';'CC';'FPU';128;29858;28853
+'57';245701222;'CA du Val de Fensch';'CA';'FPU';10;71176;70402
+'57';245701271;'CC du Pays Orne Moselle';'CC';'FPU';13;54448;53941
+'57';245701354;'CC de l''Arc Mosellan';'CC';'FPU';26;35286;34689
+'57';245701362;'CA Portes de France-Thionville';'CA';'FPU';13;81413;80039
+'57';245701404;'CC du Pays Haut Val d''Alzette';'CC';'FPU';8;29232;28875
+'58';200067429;'CC Haut Nivernais-Val d''Yonne';'CC';'FA';30;12693;12187
+'58';200067692;'CC Tannay-Brinon-Corbigny';'CC';'FPU';58;10031;9718
+'58';200067700;'CC Sud Nivernais';'CC';'FPU';20;21150;20717
+'58';200067882;'CC Bazois Loire Morvan';'CC';'FPU';46;15688;15432
+'58';200067890;'CC Morvan Sommets et Grands Lacs';'CC';'FA';34;12887;12304
+'58';200067908;'CC Amognes Coeur du Nivernais';'CC';'FPU';28;8811;8580
+'58';200067916;'CC Coeur de Loire';'CC';'FPU';30;25726;25182
+'58';200068088;'CC Les Bertranges';'CC';'FA';32;20342;20033
+'58';245801063;'CC Loire et Allier';'CC';'FPU';6;7346;7186
+'58';245804406;'CA de Nevers';'CA';'FPU';13;67649;65707
+'58';245804497;'CC du Nivernais Bourbonnais';'CC';'FPU';9;5526;5437
+'59';200030633;'CA du Caudrésis et du Catésis';'CA';'FPU';46;65380;64565
+'59';200040947;'CC de Flandre Intérieure';'CC';'FPU';50;104309;102391
+'59';200040954;'CC des Hauts de Flandre';'CC';'FPU';40;54680;53584
+'59';200041960;'CC Pévèle-Carembault';'CC';'FPU';38;97859;95816
+'59';200042190;'CA de la Porte du Hainaut';'CA';'FPU';47;160096;158837
+'59';200043263;'CC Coeur de l''Avesnois';'CC';'FPU';43;30306;29788
+'59';200043321;'CC du Pays de Mormal';'CC';'FPU';53;49257;48392
+'59';200043396;'CA Maubeuge Val de Sambre';'CA';'FPU';43;126518;125160
+'59';200043404;'CC du Sud Avesnois';'CC';'FPU';12;25461;25055
+'59';200044618;'CA Douaisis Agglo';'CA';'FPU';35;150959;148983
+'59';200068500;'CA de Cambrai';'CA';'FPU';55;83119;81739
+'59';200093201;'Métropole Européenne de Lille';'METRO';'FPU';95;1185377;1174273
+'59';245900428;'CU de Dunkerque';'CU';'FPU';17;198713;195917
+'59';245900758;'CC Flandre Lys';'CC';'FPU';8;39933;39349
+'59';245901038;'CC du Pays Solesmois';'CC';'FPU';15;15069;14807
+'59';245901152;'CC Coeur d''Ostrevent (CCCO)';'CC';'FPU';20;71916;71066
+'59';245901160;'CA Valenciennes Métropole';'CA';'FPU';35;194489;192787
+'60';200066975;'CC Senlis Sud Oise';'CC';'FPU';17;25346;24345
+'60';200067965;'CA de la Région de Compiègne et de la Basse Automne';'CA';'FPU';22;84879;82870
+'60';200067973;'CC Thelloise';'CC';'FPU';40;61725;60670
+'60';200067999;'CA du Beauvaisis';'CA';'FPU';53;105753;103191
+'60';200068005;'CC de l''Oise Picarde';'CC';'FPU';52;21454;21028
+'60';200068047;'CA Creil Sud Oise';'CA';'FPU';11;88141;87036
+'60';246000129;'CC du Liancourtois';'CC';'FPU';10;24066;23745
+'60';246000376;'CC du Clermontois';'CC';'FPU';19;38319;37491
+'60';246000566;'CC du Plateau Picard';'CC';'FPU';52;30708;30161
+'60';246000582;'CC des Sablons';'CC';'FPU';20;39064;38511
+'60';246000707;'CC du Vexin-Thelle';'CC';'FPU';37;20790;20380
+'60';246000749;'CC des Lisières de l''Oise';'CC';'FPU';20;16864;16255
+'60';246000756;'CC du Pays Noyonnais';'CC';'FPU';42;33355;32668
+'60';246000764;'CC de l''Aire Cantilienne';'CC';'FA';11;46345;44964
+'60';246000772;'CC des Deux Vallées';'CC';'FA';16;23459;22878
+'60';246000848;'CC de la Picardie Verte';'CC';'FA';88;33319;32705
+'60';246000855;'CC du Pays des Sources';'CC';'FA';48;22633;22074
+'60';246000871;'CC du Pays de Valois';'CC';'FPU';62;56849;55673
+'60';246000897;'CC de la Plaine d''Estrées';'CC';'FPU';19;18344;17966
+'60';246000913;'CC du Pays de Bray';'CC';'FPU';23;18649;18302
+'60';246000921;'CC des Pays d''Oise et d''Halatte';'CC';'FPU';17;34843;34240
+'61';200035103;'CC de la Vallée de la Haute Sarthe';'CC';'FA';31;7797;7630
+'61';200035111;'CC des Sources de l''Orne';'CC';'FPU';23;12589;11971
+'61';200035814;'CA Flers Agglo';'CA';'FPU';42;55462;53786
+'61';200036069;'CC du Pays de Mortagne au Perche';'CC';'FA';33;14232;13670
+'61';200068435;'CC Coeur du Perche';'CC';'FPU';12;11633;11372
+'61';200068443;'CC Andaine - Passais';'CC';'FPU';12;13517;13200
+'61';200068450;'CC Argentan Intercom';'CC';'FPU';49;34642;33773
+'61';200068468;'CC des Pays de L''Aigle';'CC';'FPU';32;26522;25823
+'61';200068856;'CC des Hauts du Perche';'CC';'FPU';10;8378;8220
+'61';200069458;'CC des Vallées d''Auge et du Merlerault';'CC';'FPU';46;14938;14554
+'61';200071504;'CC des Collines du Perche Normand';'CC';'FPU';16;12601;12317
+'61';200071520;'CC Domfront Tinchebray Interco';'CC';'FPU';15;16288;15914
+'61';200071652;'CC du Pays Fertois et du Bocage Carrougien';'CC';'FA';19;5063;4964
+'61';246100390;'CC du Val d''Orne';'CC';'FA';17;6018;5684
+'61';246100663;'CU d''Alençon';'CU';'FPU';31;57774;55924
+'62';200018083;'CC de Desvres-Samer';'CC';'FPU';31;23827;23225
+'62';200033579;'CU d''Arras';'CU';'FPU';46;110371;108347
+'62';200035442;'CC du Sud-Artois';'CC';'FPU';64;28050;27349
+'62';200044030;'CC des 7 Vallées';'CC';'FPU';69;30182;29653
+'62';200044048;'CC Osartis Marquion';'CC';'FPU';49;42831;42277
+'62';200069029;'CA des Deux Baies en Montreuillois';'CA';'FPU';46;67702;66119
+'62';200069037;'CA du Pays de Saint-Omer';'CA';'FPU';53;107895;105169
+'62';200069235;'CC du Haut Pays du Montreuillois';'CC';'FPU';49;16489;15747
+'62';200069482;'CC des Campagnes de l''Artois';'CC';'FPU';96;34241;33193
+'62';200069672;'CC du Ternois';'CC';'FPU';103;38872;38158
+'62';200072460;'CA de Béthune-Bruay, Artois-Lys Romane';'CA';'FPU';100;279917;276759
+'62';200072478;'CC Pays d''Opale';'CC';'FPU';23;25523;25188
+'62';200090751;'CA Grand Calais Terres et Mers';'CA';'FPU';14;105609;104367
+'62';246200299;'CA d''Hénin-Carvin';'CA';'FPU';14;127470;126509
+'62';246200364;'CA de Lens - Liévin';'CA';'FPU';36;243731;241703
+'62';246200380;'CC de la Terre des Deux Caps';'CC';'FA';21;22534;22197
+'62';246200729;'CA du Boulonnais';'CA';'FPU';22;114493;112836
+'62';246200844;'CC de la Région d''Audruicq';'CC';'FA';15;28022;27630
+'62';246201016;'CC du Pays de Lumbres';'CC';'FPU';36;24634;24170
+'63';200067627;'CC Billom Communauté';'CC';'FPU';25;26242;25734
+'63';200069169;'CC Dômes Sancy Artense';'CC';'FPU';27;13040;12594
+'63';200069177;'CC Mond''Arverne Communauté';'CC';'FPU';27;41216;40415
+'63';200070407;'CA Agglo Pays d''Issoire';'CA';'FPU';88;58023;56671
+'63';200070712;'CC Thiers Dore et Montagne';'CC';'FPU';30;38126;37193
+'63';200070753;'CA Riom Limagne et Volcans';'CA';'FPU';31;68807;67153
+'63';200070761;'CC Ambert Livradois Forez';'CC';'FPU';58;28350;27563
+'63';200071199;'CC Plaine Limagne';'CC';'FPU';25;21550;21194
+'63';200071215;'CC Chavanon Combrailles et Volcans';'CC';'FPU';36;13123;12711
+'63';200072080;'CC du Pays de Saint-Eloy';'CC';'FPU';34;16337;15841
+'63';200072098;'CC Combrailles Sioule et Morge';'CC';'FPU';29;19515;19162
+'63';246300701;'Clermont Auvergne Métropole';'METRO';'FPU';21;300131;294127
+'63';246300966;'CC du Massif du Sancy';'CC';'FPU';20;9864;9646
+'63';246301097;'CC Entre Dore et Allier';'CC';'FPU';14;19392;19089
+'64';200039204;'CC de Lacq-Orthez';'CC';'FPU';61;55001;53184
+'64';200067106;'CA du Pays Basque';'CA';'FPU';158;320763;312278
+'64';200067239;'CC des Luys en Béarn';'CC';'FPU';66;29361;28481
+'64';200067254;'CA Pau Béarn Pyrénées';'CA';'FPU';31;165637;161871
+'64';200067262;'CC du Haut Béarn';'CC';'FPU';48;33333;32154
+'64';200067288;'CC du Béarn des Gaves';'CC';'FPU';53;17976;17445
+'64';200067296;'CC du Nord Est Béarn';'CC';'FPU';73;35185;34273
+'64';246400337;'CC de la Vallée d''Ossau';'CC';'FPU';18;9874;9675
+'64';246401756;'CC Pays de Nay';'CC';'FPU';29;29819;28715
+'65';200069300;'CA Tarbes-Lourdes-Pyrénées';'CA';'FPU';86;127734;124774
+'65';200070787;'CC du Plateau de Lannemezan';'CC';'FA';57;18213;17755
+'65';200070795;'CC du Pays de Trie et du Magnoac';'CC';'FA';50;7296;6915
+'65';200070803;'CC des Coteaux du Val d''Arros';'CC';'FA';53;11358;11103
+'65';200070811;'CC Pyrénées Vallées des Gaves';'CC';'FPU';46;15852;15327
+'65';200070829;'CC Neste Barousse';'CC';'FA';43;7427;7255
+'65';200072106;'CC Adour Madiran';'CC';'FPU';72;24926;24238
+'65';246500482;'CC de la Haute-Bigorre';'CC';'FPU';25;17189;16640
+'65';246500573;'CC Aure Louron';'CC';'FA';46;7088;6918
+'66';200027183;'CU Perpignan Méditerranée Métropole';'CU';'FPU';36;272294;268445
+'66';200043602;'CC des Albères, de la Côte Vermeille et de l''Illibéris';'CC';'FPU';15;56549;55610
+'66';200049211;'CC Conflent-Canigó';'CC';'FPU';45;21075;20466
+'66';200070365;'CC Corbières Salanque Méditerranée';'CC';'FPU';21;22430;22196
+'66';246600282;'CC Sud-Roussillon';'CC';'FPU';6;23991;23575
+'66';246600373;'CC du Vallespir';'CC';'FPU';10;20882;20468
+'66';246600399;'CC Pyrénées Cerdagne';'CC';'FPU';19;8965;8635
+'66';246600415;'CC Roussillon-Conflent';'CC';'FPU';16;18687;18398
+'66';246600423;'CC Agly Fenouillèdes';'CC';'FPU';24;6486;6412
+'66';246600449;'CC des Aspres';'CC';'FPU';19;22049;21708
+'66';246600464;'CC Pyrénées Catalanes';'CC';'FPU';19;6272;5974
+'66';246600548;'CC du Haut Vallespir';'CC';'FPU';14;9822;9677
+'67';200013050;'CC Sauer-Pechelbronn';'CC';'FPU';24;17927;17388
+'67';200030526;'CC du Ried de Marckolsheim';'CC';'FA';18;20547;20254
+'67';200034270;'CC du Pays de Barr';'CC';'FPU';20;24857;24254
+'67';200034635;'CC du Kochersberg';'CC';'FPU';23;26147;25709
+'67';200040178;'CC de l''Outre-Forêt';'CC';'FPU';13;16444;16214
+'67';200041283;'CC de la Plaine du Rhin';'CC';'FA';19;18657;18402
+'67';200041325;'CC du Pays Rhénan';'CC';'FPU';17;37137;36688
+'67';200067783;'CC de Hanau-La Petite Pierre';'CC';'FPU';38;27028;26627
+'67';200067841;'CC de l''Alsace Bossue';'CC';'FA';45;24991;24509
+'67';200067874;'CA de Haguenau';'CA';'FPU';36;98018;96736
+'67';200067924;'CC du Canton d''Erstein';'CC';'FPU';28;48683;47915
+'67';200068112;'CC du Pays de Saverne';'CC';'FPU';35;36491;35772
+'67';200068864;'CC de la Mossig et du Vignoble';'CC';'FPU';24;24995;24606
+'67';246700306;'CC de la Vallée de la Bruche';'CC';'FPU';26;21302;20883
+'67';246700488;'Eurométropole de Strasbourg';'METRO';'FPU';33;505916;500510
+'67';246700744;'CC des Portes de Rosheim';'CC';'FPU';9;18400;18028
+'67';246700777;'CC de la Vallée de Villé';'CC';'FPU';18;11065;10789
+'67';246700843;'CC de la Basse-Zorn';'CC';'FA';7;17594;17393
+'67';246700926;'CC du Pays de Wissembourg';'CC';'FA';12;16289;15888
+'67';246700959;'CC du Pays de la Zorn';'CC';'FPU';20;16256;16064
+'67';246700967;'CC de Sélestat';'CC';'FA';12;37443;36854
+'67';246701064;'CC de la Région de Molsheim-Mutzig';'CC';'FA';18;40935;40422
+'67';246701080;'CC du Pays de Sainte-Odile';'CC';'FPU';6;19019;18452
+'67';246701098;'CC du Pays de Niederbronn-les-Bains';'CC';'FPU';13;23730;23387
+'68';200036465;'CC de Thann-Cernay';'CC';'FPU';16;38072;37251
+'68';200066009;'CA Mulhouse Alsace Agglomération';'CA';'FPU';39;278129;274066
+'68';200066025;'CC Pays Rhin - Brisach';'CC';'FPU';29;33911;33336
+'68';200066033;'CC Sud Alsace Largue';'CC';'FPU';44;22719;22297
+'68';200066041;'CC Sundgau';'CC';'FPU';64;48683;47562
+'68';200066058;'CA Saint-Louis Agglomération';'CA';'FPU';40;81783;80298
+'68';246800205;'CC de la Vallée de Saint-Amarin';'CC';'FPU';15;12530;12336
+'68';246800395;'CC du Val d''Argent';'CC';'FPU';4;9672;9458
+'68';246800445;'CC du Centre du Haut-Rhin';'CC';'FPU';9;15965;15767
+'68';246800494;'CC du Pays de Rouffach, Vignobles et Châteaux';'CC';'FA';11;13601;13121
+'68';246800551;'CC de la Vallée de Kaysersberg';'CC';'FPU';8;16787;16377
+'68';246800569;'CC de la Région de Guebwiller';'CC';'FPU';19;38888;38067
+'68';246800577;'CC du Pays de Ribeauvillé';'CC';'FPU';16;18721;18286
+'68';246800585;'CC de la Vallée de Munster';'CC';'FPU';16;16566;16237
+'68';246800676;'CC de la Vallée de la Doller et du Soultzbach';'CC';'FPU';15;16451;16083
+'68';246800726;'CA Colmar Agglomération';'CA';'FPU';20;115976;113621
+'69';200040566;'CA de l''Ouest Rhodanien';'CA';'FPU';31;51822;50616
+'69';200040574;'CC Beaujolais Pierres Dorées';'CC';'FPU';32;54398;53136
+'69';200040590;'CA Villefranche Beaujolais Saône';'CA';'FPU';18;74054;72677
+'69';200046977;'Métropole de Lyon';'MET69';'FPU';59;1415357;1398892
+'69';200066587;'CC des Monts du Lyonnais';'CC';'FPU';32;36177;35088
+'69';200067817;'CC Saône-Beaujolais';'CC';'FPU';35;45312;44277
+'69';246900575;'CC de l''Est Lyonnais (CCEL)';'CC';'FPU';8;41846;41259
+'69';246900625;'CC du Pays de l''Arbresle (CCPA)';'CC';'FPU';17;39055;38057
+'69';246900724;'CC des Vallons du Lyonnais (CCVL)';'CC';'FPU';8;30866;30231
+'69';246900740;'CC du Pays Mornantais (COPAMO)';'CC';'FPU';11;29587;28915
+'69';246900757;'CC de la Vallée du Garon (CCVG)';'CC';'FPU';5;31835;31267
+'69';246900765;'CC du Pays de l''Ozon';'CC';'FPU';7;26528;26182
+'70';200036150;'CC des Hauts du Val de Saône';'CC';'FPU';48;8721;8517
+'70';200036549;'CC Val de Gray';'CC';'FPU';48;21283;20494
+'70';200041721;'CC de la Haute Comté';'CC';'FPU';38;18264;17760
+'70';200041853;'CC du Pays de Montbozon et du Chanois';'CC';'FPU';27;6815;6580
+'70';200041861;'CC du Triangle Vert';'CC';'FPU';42;11249;11053
+'70';200041879;'CC Terres de Saône';'CC';'FPU';38;13426;13180
+'70';200041887;'CC du Val Marnaysien';'CC';'FPU';45;14576;14340
+'70';247000011;'CA de Vesoul';'CA';'FPU';20;33402;32203
+'70';247000367;'CC des Combes';'CC';'FPU';27;7768;7631
+'70';247000623;'CC des Quatre Rivières';'CC';'FPU';41;9762;9527
+'70';247000664;'CC du Pays de Lure';'CC';'FPU';24;20035;19616
+'70';247000698;'CC des Monts de Gy';'CC';'FA';25;6303;6148
+'70';247000706;'CC du Pays Riolais';'CC';'FPU';33;13066;12818
+'70';247000714;'CC du Pays de Villersexel';'CC';'FPU';34;8095;7856
+'70';247000722;'CC du Pays d''Héricourt';'CC';'FPU';23;21579;21051
+'70';247000755;'CC du Pays de Luxeuil';'CC';'FPU';15;15399;14950
+'70';247000821;'CC Rahin et Chérimont';'CC';'FPU';9;12073;11856
+'70';247000854;'CC des 1000 étangs';'CC';'FPU';25;8637;8472
+'71';200040038;'CC Saône Doubs Bresse';'CC';'FPU';27;12379;12111
+'71';200040293;'CC du Clunisois';'CC';'FPU';42;14452;13915
+'71';200042414;'CC Bresse Revermont 71';'CC';'FA';17;10047;9875
+'71';200069698;'CC Mâconnais - Tournugeois';'CC';'FPU';24;16380;15731
+'71';200070308;'CA Mâconnais Beaujolais Agglomération';'CA';'FPU';39;80052;77947
+'71';200070316;'CC Entre Arroux, Loire et Somme';'CC';'FPU';30;22952;22458
+'71';200070530;'CC du Grand Autunois Morvan';'CC';'FPU';55;37258;35592
+'71';200070548;'CC La Clayette Chauffailles en Brionnais';'CC';'FPU';29;15487;15116
+'71';200071538;'CC Terres de Bresse';'CC';'FPU';25;22735;22278
+'71';200071579;'CC Bresse Louhannaise Intercom''';'CC';'FPU';30;28952;28338
+'71';200071645;'CC Saint Cyr Mère Boitier entre Charolais et Mâconnais';'CC';'FPU';16;8254;8020
+'71';200071884;'CC Le Grand Charolais';'CC';'FPU';44;41806;40136
+'71';247100290;'CU Le Creusot Montceau-les-Mines';'CU';'FPU';34;94764;93072
+'71';247100589;'CA Le Grand Chalon';'CA';'FPU';51;117710;113869
+'71';247100639;'CC de Marcigny';'CC';'FA';12;6357;6140
+'71';247100647;'CC Bresse Nord Intercom''';'CC';'FA';16;6645;6539
+'71';247103765;'CC Entre Saône et Grosne';'CC';'FPU';23;11490;11224
+'71';247103864;'CC de Semur en Brionnais';'CC';'FA';14;5298;5164
+'71';247104094;'CC Sud Côte Chalonnaise';'CC';'FPU';36;11804;11480
+'72';200040475;'CC Loué - Brûlon - Noyen';'CC';'FPU';29;18710;18323
+'72';200068963;'CC Maine Coeur de Sarthe';'CC';'FPU';13;21654;21296
+'72';200070373;'CC Loir-Lucé-Bercé';'CC';'FPU';24;24558;23861
+'72';200072676;'CC Maine Saosnois';'CC';'FPU';51;28533;27952
+'72';200072684;'CC Le Gesnois Bilurien';'CC';'FPU';23;31453;30968
+'72';200072692;'CC des Vallées de la Braye et de l''Anille';'CC';'FPU';19;15814;15380
+'72';200072700;'CC Haute Sarthe Alpes Mancelles';'CC';'FPU';38;23378;22929
+'72';200072718;'CC de la Champagne Conlinoise et du Pays de Sillé';'CC';'FPU';24;18731;18306
+'72';200073112;'CC Sud Sarthe';'CC';'FPU';19;23336;22938
+'72';247200090;'CC de Sablé-sur-Sarthe';'CC';'FPU';17;29486;28611
+'72';247200132;'CU Le Mans Métropole';'CU';'FA';19;210139;205811
+'72';247200348;'CC du Pays Fléchois';'CC';'FPU';14;28266;27002
+'72';247200421;'CC du Sud Est du Pays Manceau';'CC';'FPU';5;17964;17508
+'72';247200447;'CC Orée de Bercé - Belinois';'CC';'FPU';8;19827;19509
+'72';247200629;'CC du Val de Sarthe';'CC';'FPU';16;30928;30433
+'72';247200686;'CC du Pays de l''Huisne Sarthoise';'CC';'FPU';33;29381;28659
+'73';200023299;'CC Coeur de Tarentaise';'CC';'FA';6;9799;9185
+'73';200040798;'CC Val Vanoise';'CC';'FA';9;9396;9134
+'73';200041010;'CC Coeur de Savoie';'CC';'FPU';41;37987;37100
+'73';200068674;'CA Grand Lac';'CA';'FPU';28;77513;75876
+'73';200068997;'CA Arlysère';'CA';'FPU';39;62774;60956
+'73';200069110;'CA du Grand Chambéry';'CA';'FPU';38;139572;135290
+'73';200070340;'CC Haute Maurienne Vanoise';'CC';'FA';10;8860;8601
+'73';200070464;'CC Coeur de Maurienne Arvan';'CC';'FPU';14;15144;14599
+'73';247300015;'CC des Vallées d''Aigueblanche';'CC';'FA';3;7422;7233
+'73';247300254;'CC de Haute-Tarentaise';'CC';'FA';8;16194;15576
+'73';247300262;'CC de Yenne';'CC';'FPU';13;7341;7226
+'73';247300361;'CC du Canton de La Chambre';'CC';'FPU';12;7554;7408
+'73';247300452;'CC Maurienne Galibier';'CC';'FA';6;5773;5426
+'73';247300528;'CC Val Guiers';'CC';'FPU';11;12484;12251
+'73';247300668;'CC du Lac d''Aiguebelette (CCLA)';'CC';'FPU';10;6145;5977
+'73';247300676;'CC Porte de Maurienne';'CC';'FPU';11;6958;6856
+'73';247300817;'CC Les Versants d''Aime';'CC';'FA';4;9936;9655
+'74';200000172;'CC Faucigny-Glières';'CC';'FPU';7;28032;27163
+'74';200011773;'CA Annemasse-Les Voirons-Agglomération';'CA';'FPU';12;91852;90378
+'74';200023372;'CC de la Vallée de Chamonix-Mont-Blanc';'CC';'FPU';4;13580;13069
+'74';200033116;'CC Cluses-Arve et Montagnes';'CC';'FPU';10;47145;46089
+'74';200034098;'CC des Montagnes du Giffre';'CC';'FPU';8;12444;12145
+'74';200034882;'CC Pays du Mont-Blanc';'CC';'FA';10;46359;44857
+'74';200066793;'CA du Grand Annecy';'CA';'FPU';34;209719;203784
+'74';200067551;'CA Thonon Agglomération';'CA';'FPU';25;90994;88701
+'74';200070852;'CC Usses et Rhône';'CC';'FA';26;21180;20710
+'74';200071967;'CC Pays d''Evian Vallée d''Abondance';'CC';'FPU';22;42326;41145
+'74';247400047;'CC de la Vallée Verte';'CC';'FPU';8;8210;8012
+'74';247400112;'CC du Pays de Cruseilles';'CC';'FPU';13;16467;15921
+'74';247400567;'CC Fier et Usses';'CC';'FPU';7;15918;15490
+'74';247400583;'CC Arve et Salève';'CC';'FPU';8;20374;19917
+'74';247400617;'CC des Vallées de Thônes';'CC';'FPU';12;19213;18548
+'74';247400666;'CC des Quatre Rivières';'CC';'FPU';11;19885;19416
+'74';247400682;'CC du Haut-Chablais';'CC';'FPU';15;13092;12803
+'74';247400690;'CC du Genevois';'CC';'FPU';17;48064;47231
+'74';247400724;'CC du Pays Rochois';'CC';'FPU';9;28782;28038
+'74';247400740;'CC Rumilly Terre de Savoie';'CC';'FPU';17;32285;31499
+'74';247400773;'CC des sources du lac d''Annecy';'CC';'FPU';7;15573;15166
+'75';200054781;'Métropole du Grand Paris';'METRO';'FPU';131;7125433;7075028
+'76';200010700;'CA Caux Seine Agglo';'CA';'FPU';50;79245;77906
+'76';200023414;'Métropole Rouen Normandie';'METRO';'FPU';71;499830;492681
+'76';200068534;'CC Terroir de Caux';'CC';'FPU';79;38646;37901
+'76';200069722;'CC interrégionale Aumale - Blangy-sur-Bresle';'CC';'FA';44;21891;21523
+'76';200069730;'CC des 4 rivières';'CC';'FA';53;30136;29354
+'76';200069821;'CA Fécamp Caux Littoral Agglomération';'CA';'FPU';33;39307;38635
+'76';200069839;'CC de la Côte d''Albâtre';'CC';'FA';63;28442;27799
+'76';200069847;'CC Plateau de Caux-Doudeville-Yerville';'CC';'FA';40;21321;21005
+'76';200070068;'CC Communauté Bray-Eawy';'CC';'FA';46;25914;25133
+'76';200070449;'CC inter-Caux-Vexin';'CC';'FPU';64;55897;55020
+'76';200084952;'CU Le Havre Seine Métropole';'CU';'FPU';54;272533;268912
+'76';247600505;'CC Campagne-de-Caux';'CC';'FPU';22;15299;15059
+'76';247600588;'CC des Villes Soeurs';'CC';'FPU';28;37781;36979
+'76';247600604;'CC de Londinières';'CC';'FA';16;5327;5255
+'76';247600620;'CC Yvetot Normandie';'CC';'FPU';19;27260;26418
+'76';247600646;'CC Caux - Austreberthe';'CC';'FA';9;25576;25183
+'76';247600729;'CC Falaises du Talou';'CC';'FPU';24;24150;23598
+'76';247600786;'CA de la Région Dieppoise';'CA';'FPU';16;47384;46223
+'77';200023125;'CC Les Portes Briardes Entre Villes et Forêts';'CC';'FPU';5;46308;45787
+'77';200023240;'CC Pays de Nemours';'CC';'FPU';21;30215;29749
+'77';200023919;'CC Gâtinais Val de Loing';'CC';'FPU';20;19035;18716
+'77';200033090;'CC Plaines et Monts de France';'CC';'FPU';20;25048;24840
+'77';200037133;'CC du Provinois';'CC';'FPU';39;35668;34587
+'77';200040251;'CC Bassée-Montois';'CC';'FA';42;23659;23292
+'77';200057958;'CA Paris - Vallée de la Marne';'CA';'FPU';12;229194;227943
+'77';200070779;'CC Brie des Rivières et Châteaux';'CC';'FPU';31;39906;39446
+'77';200072130;'CA du Pays de Meaux';'CA';'FPU';26;107428;106448
+'77';200072346;'CA du Pays de Fontainebleau';'CA';'FPU';26;70128;68480
+'77';200072544;'CC des Deux Morin';'CC';'FPU';31;26902;26563
+'77';200072874;'CC Val Briard';'CC';'FPU';21;28439;28112
+'77';200090504;'CA Coulommiers Pays de Brie';'CA';'FPU';54;93514;92149
+'77';247700032;'CC Moret Seine et Loing';'CC';'FPU';18;39771;38818
+'77';247700057;'CA Melun Val de Seine';'CA';'FPU';20;133185;131924
+'77';247700065;'CC du Pays de l''Ourcq';'CC';'FPU';22;17918;17546
+'77';247700107;'CC Pays de Montereau';'CC';'FPU';21;44088;43461
+'77';247700339;'CA Val d''Europe Agglomération';'CA';'FPU';10;51459;50922
+'77';247700594;'CA Marne et Gondoire';'CA';'FPU';20;107974;106750
+'77';247700644;'CC l''Orée de la Brie';'CC';'FPU';4;28188;27752
+'77';247700701;'CC Brie Nangissienne';'CC';'FPU';20;28054;27809
+'78';200033173;'CC de la Haute Vallée de Chevreuse';'CC';'FA';10;25750;25178
+'78';200034130;'CC Gally Mauldre';'CC';'FPU';11;22839;22004
+'78';200058519;'CA Saint Germain Boucles de Seine';'CA';'FPU';19;342017;335109
+'78';200058782;'CA de Saint Quentin en Yvelines';'CA';'FPU';12;231275;228312
+'78';200059889;'CU Grand Paris Seine et Oise';'CU';'FPU';73;422041;417556
+'78';200071074;'CC Les Portes de l''Ile de France';'CC';'FPU';18;22855;22562
+'78';200073344;'CA Rambouillet Territoires';'CA';'FPU';36;80801;79020
+'78';247800550;'CC du Pays Houdanais (CCPH)';'CC';'FPU';36;30152;29583
+'78';247800584;'CA Versailles Grand Parc (CAVGP)';'CA';'FPU';18;272736;267033
+'78';247800618;'CC Coeur d''Yvelines';'CC';'FPU';31;51185;49962
+'79';200040244;'CA du Bocage Bressuirais';'CA';'FPU';33;75965;73739
+'79';200041317;'CA du Niortais';'CA';'FPU';40;124655;121220
+'79';200041333;'CC de Parthenay-Gâtine';'CC';'FPU';38;38510;37381
+'79';200041416;'CC Airvaudais-Val du Thouet';'CC';'FPU';9;7042;6897
+'79';200041994;'CC Haut Val de Sèvre';'CC';'FPU';19;31527;30803
+'79';200069748;'CC Val de Gâtine';'CC';'FPU';31;21903;21480
+'79';200069755;'CC Mellois en Poitou';'CC';'FPU';62;48915;47614
+'79';247900798;'CC du Thouarsais';'CC';'FPU';24;36512;35665
+'80';200037059;'CC de la Haute Somme (Combles - Péronne - Roisel)';'CC';'FPU';60;27799;27253
+'80';200070928;'CC Terre de Picardie';'CC';'FA';43;18504;18269
+'80';200070936;'CC Ponthieu-Marquenterre';'CC';'FPU';71;33745;33085
+'80';200070944;'CC du Vimeu';'CC';'FA';25;23072;22641
+'80';200070951;'CC du Territoire Nord Picardie';'CC';'FPU';65;31896;31249
+'80';200070969;'CC Avre Luce Noye';'CC';'FA';47;22250;21843
+'80';200070977;'CC du Grand Roye';'CC';'FA';62;25994;25626
+'80';200070985;'CC de l''Est de la Somme';'CC';'FA';41;20641;20301
+'80';200070993;'CA de la Baie de Somme';'CA';'FPU';43;49807;48903
+'80';200071181;'CC Somme Sud-Ouest';'CC';'FA';119;39369;38689
+'80';200071223;'CC Nièvre et Somme';'CC';'FPU';36;28498;28118
+'80';248000499;'CC du Val de Somme';'CC';'FPU';33;26987;26646
+'80';248000531;'CA Amiens Métropole';'CA';'FPU';39;184228;180905
+'80';248000747;'CC du Pays du Coquelicot';'CC';'FPU';65;28733;28302
+'81';200034023;'CC Tarn-Agout';'CC';'FPU';21;29662;28727
+'81';200034031;'CC des Monts d''Alban et du Villefranchois';'CC';'FPU';14;6545;6415
+'81';200034049;'CC Centre Tarn';'CC';'FPU';11;11289;11098
+'81';200034056;'CC du Lautrécois et du Pays d''Agout';'CC';'FA';28;14807;14424
+'81';200034064;'CC du Cordais et du Causse (4 C)';'CC';'FPU';19;4648;4522
+'81';200040905;'CC Carmausin-Ségala';'CC';'FPU';32;30436;29773
+'81';200066124;'CA Gaillac-Graulhet';'CA';'FPU';61;75803;74203
+'81';200066553;'CC des Monts de Lacaune et de la Montagne du Haut Languedoc';'CC';'FPU';20;8204;8007
+'81';200066561;'CC Sidobre Vals et Plateaux';'CC';'FPU';16;12857;12588
+'81';248100158;'CC du Sor et de l''Agout';'CC';'FPU';26;23544;22863
+'81';248100430;'CA de Castres Mazamet';'CA';'FPU';14;80646;78101
+'81';248100497;'CC Val 81';'CC';'FA';19;5658;5564
+'81';248100737;'CA de l''Albigeois (C2A)';'CA';'FPU';16;84692;82218
+'81';248100745;'CC Thoré Montagne Noire';'CC';'FPU';9;5127;5052
+'82';200040418;'CC du Pays de Serres en Quercy';'CC';'FA';22;8591;8440
+'82';200066322;'CC Terres des Confluences';'CC';'FPU';22;42360;41411
+'82';200066652;'CC Grand Sud Tarn et Garonne';'CC';'FPU';25;42694;42008
+'82';200066884;'CC Quercy Vert-Aveyron';'CC';'FA';13;22608;22227
+'82';200067122;'CC Coteaux et Plaines du Pays Lafrançaisain';'CC';'FPU';11;11222;11008
+'82';248200016;'CC des Deux Rives';'CC';'FA';28;19199;18750
+'82';248200057;'CC du Quercy Caussadais';'CC';'FA';19;20870;20279
+'82';248200065;'CC de la Lomagne Tarn-et-Garonnaise';'CC';'FPU';31;10304;10021
+'82';248200099;'CA Grand Montauban';'CA';'FPU';11;79982;78048
+'82';248200107;'CC du Quercy Rouergue et des Gorges de l''Aveyron';'CC';'FPU';17;7846;7683
+'83';200004802;'CC du Pays de Fayence';'CC';'FPU';9;28595;28088
+'83';200027100;'CC Méditerranée Porte des Maures';'CC';'FPU';6;44752;44109
+'83';200035319;'CA Var Esterel Méditerranée (CAVEM)';'CA';'FPU';5;116680;114875
+'83';200036077;'CC du Golfe de Saint-Tropez';'CC';'FPU';12;58345;57333
+'83';200040202;'CC Provence Verdon';'CC';'FPU';15;22561;22218
+'83';200040210;'CC Lacs et Gorges du Verdon';'CC';'FPU';16;9305;9165
+'83';200068104;'CA de la Provence Verte';'CA';'FPU';28;101210;99179
+'83';248300394;'CA Sud Sainte Baume';'CA';'FPU';9;62348;61283
+'83';248300410;'CC de la Vallée du Gapeau';'CC';'FPU';5;31932;31456
+'83';248300493;'CA Dracénie Provence Verdon Agglomération';'CA';'FPU';23;109673;107253
+'83';248300543;'Métropole Toulon-Provence-Méditerranée';'METRO';'FPU';12;444828;438985
+'83';248300550;'CC Coeur du Var';'CC';'FPU';11;44076;43518
+'84';200000628;'CC Rhône Lez Provence';'CC';'FPU';5;24316;23896
+'84';200035723;'CC Ventoux Sud';'CC';'FPU';11;9567;9392
+'84';200040442;'CA Luberon Monts de Vaucluse';'CA';'FPU';16;55844;54879
+'84';200040624;'CC Pays d''Apt-Luberon';'CC';'FPU';25;29720;29137
+'84';200040681;'CC Enclave des Papes-Pays de Grignan';'CC';'FPU';19;23424;22800
+'84';248400053;'CA Ventoux-Comtat-Venaissin (COVE)';'CA';'FPU';25;71437;69812
+'84';248400160;'CC Aygues-Ouvèze en Provence (CCAOP)';'CC';'FPU';8;20013;19568
+'84';248400236;'CC du Pays Réuni d''Orange';'CC';'FPU';5;45681;44804
+'84';248400251;'CA du Grand Avignon (COGA)';'CA';'FPU';16;196599;192785
+'84';248400285;'CC Territoriale Sud-Luberon';'CC';'FPU';16;25758;25106
+'84';248400293;'CC des Sorgues du Comtat';'CC';'FPU';5;50613;49756
+'84';248400319;'CC du Pays des Sorgues et des Monts de Vaucluse';'CC';'FPU';5;34321;33564
+'84';248400335;'CC Vaison Ventoux';'CC';'FPU';19;17077;16684
+'85';200023778;'CC du Pays de Saint-Gilles-Croix-de-Vie';'CC';'FPU';14;50542;49545
+'85';200070233;'CC Terres de Montaigu, CC Montaigu-Rocheservière';'CC';'FPU';10;50017;48828
+'85';200071165;'CA Les Sables d''Olonne Agglomération';'CA';'FPU';5;55016;53430
+'85';200071629;'CC Challans-Gois Communauté';'CC';'FPU';11;48474;47258
+'85';200071900;'CC Vendée Grand Littoral';'CC';'FPU';20;34660;34115
+'85';200071918;'CC du Pays de Saint-Fulgent - Les Essarts';'CC';'FPU';10;28513;27946
+'85';200071934;'CC du Pays de Fontenay-Vendée';'CC';'FPU';25;36343;35052
+'85';200072882;'CC de Vie et Boulogne';'CC';'FPU';15;45120;44292
+'85';200073260;'CC Sud Vendée Littoral';'CC';'FPU';44;56375;54862
+'85';248500191;'CC de l''Ile de Noirmoutier';'CC';'FA';4;9539;9305
+'85';248500258;'CC Océan Marais de Monts';'CC';'FPU';5;19724;19280
+'85';248500340;'CC Pays de Chantonnay';'CC';'FPU';10;23529;22705
+'85';248500415;'CC du Pays de la Châtaigneraie';'CC';'FPU';18;15974;15604
+'85';248500464;'CC du Pays de Pouzauges';'CC';'FPU';10;23872;23197
+'85';248500530;'CC du Pays des Achards';'CC';'FPU';9;19224;18959
+'85';248500563;'CC Vendée, Sèvre, Autise';'CC';'FPU';15;16525;16191
+'85';248500589;'CA La Roche sur Yon - Agglomération';'CA';'FPU';13;101017;97028
+'85';248500621;'CC du Pays des Herbiers';'CC';'FPU';8;30602;29869
+'85';248500662;'CC du Pays de Mortagne';'CC';'FPU';11;28698;27696
+'86';200043628;'CC des Vallées du Clain';'CC';'FPU';16;27112;26673
+'86';200069763;'CC du Haut-Poitou';'CC';'FPU';27;42382;41645
+'86';200069854;'CU du Grand Poitiers';'CU';'FPU';40;198658;194068
+'86';200070035;'CC du Civraisien en Poitou';'CC';'FPU';36;28186;27407
+'86';200070043;'CC Vienne et Gartempe';'CC';'FPU';55;40397;39261
+'86';248600413;'CA Grand Châtellerault';'CA';'FPU';47;85982;84098
+'86';248600447;'CC du Pays Loudunais';'CC';'FPU';45;25178;24434
+'87';200040814;'CC Briance Sud Haute Vienne';'CC';'FPU';11;9249;9110
+'87';200059400;'CC Porte Océane du Limousin';'CC';'FPU';13;26158;25692
+'87';200066512;'CC Elan Limousin Avenir Nature';'CC';'FPU';24;28232;27811
+'87';200066520;'CC Ouest Limousin';'CC';'FPU';16;11542;11387
+'87';200070506;'CC Pays de Nexon Monts de Chalus';'CC';'FPU';15;13263;13049
+'87';200071942;'CC Haut Limousin en Marche';'CC';'FPU';40;23422;22793
+'87';248700189;'CC du Pays de Saint Yrieix';'CC';'FPU';9;12580;12046
+'87';248719262;'CC Gartempe - Saint Pardoux';'CC';'FPU';6;5222;5166
+'87';248719288;'CC du Val de Vienne';'CC';'FPU';9;16447;16175
+'87';248719312;'CU Limoges Métropole';'CU';'FPU';20;211002;207385
+'87';248719338;'CC Briance-Combade';'CC';'FPU';10;5457;5374
+'87';248719353;'CC des Portes de Vassivière';'CC';'FPU';12;5708;5632
+'87';248719361;'CC de Noblat';'CC';'FPU';12;12098;11866
+'88';200005957;'CC de la Région de Rambervillers';'CC';'FPU';30;13495;13052
+'88';200033868;'CC des Ballons des Hautes-Vosges';'CC';'FA';8;15523;15114
+'88';200042000;'CC Bruyères-Vallons des Vosges';'CC';'FPU';34;15509;15159
+'88';200068369;'CC de Mirecourt Dompaire';'CC';'FPU';76;19900;19026
+'88';200068377;'CC de la Porte des Vosges Méridionales';'CC';'FPU';10;30309;29357
+'88';200068559;'CC de l''Ouest Vosgien';'CC';'FPU';70;24006;23320
+'88';200068682;'CC Terre d''Eau';'CC';'FA';45;18457;17692
+'88';200068757;'CA d''Epinal';'CA';'FPU';78;114654;111259
+'88';200068773;'CC des Vosges côté Sud Ouest';'CC';'FPU';60;12377;11987
+'88';200071066;'CA de Saint-Dié-des-Vosges';'CA';'FPU';77;76764;74926
+'88';200071157;'CC des Hautes Vosges';'CC';'FA';22;36945;35583
+'89';200039642;'CC Le Tonnerrois en Bourgogne';'CC';'FPU';52;16325;15835
+'89';200039709;'CC du Serein';'CC';'FPU';35;7420;7247
+'89';200039758;'CC Avallon, Vézelay, Morvan';'CC';'FPU';48;19321;18786
+'89';200067080;'CC Chablis Villages et Terroirs';'CC';'FPU';36;15246;14934
+'89';200067114;'CA de l''Auxerrois';'CA';'FPU';29;70296;68050
+'89';200067130;'CC de Puisaye-Forterre';'CC';'FPU';57;34990;34228
+'89';200067304;'CC Serein et Armance';'CC';'FA';29;24638;24133
+'89';248900334;'CA du Grand Sénonais';'CA';'FPU';27;60624;59228
+'89';248900383;'CC de l''Agglomération Migennoise';'CC';'FPU';8;15316;15054
+'89';248900524;'CC de l''Aillantais';'CC';'FPU';13;10627;10386
+'89';248900664;'CC de la Vanne et du Pays d''Othe';'CC';'FA';22;8770;8610
+'89';248900748;'CC du Gâtinais en Bourgogne';'CC';'FPU';26;17804;17470
+'89';248900896;'CC Yonne Nord';'CC';'FPU';23;24918;24468
+'89';248900938;'CC du Jovinien';'CC';'FPU';19;21697;21038
+'90';200069052;'CA Grand Belfort';'CA';'FPU';52;105338;103016
+'90';200069060;'CC des Vosges du Sud';'CC';'FPU';22;15698;15257
+'90';249000241;'CC du Sud Territoire';'CC';'FPU';27;23956;23579
+'91';200017846;'CA Etampois Sud Essonne';'CA';'FPU';37;55074;54337
+'91';200056232;'CA Communauté Paris-Saclay';'CA';'FPU';27;318408;314169
+'91';200057859;'CA Coeur d''Essonne Agglomération';'CA';'FPU';21;203696;201873
+'91';200058477;'CA Val d''Yerres Val de Seine';'CA';'FPU';9;178653;177020
+'91';200059228;'CA Grand Paris Sud Seine Essonne Sénart';'CA';'FPU';23;354964;352123
+'91';249100074;'CC du Pays de Limours (CCPL)';'CC';'FPU';14;27226;26739
+'91';249100157;'CC des 2 Vallées';'CC';'FPU';15;18893;18553
+'91';249100546;'CC du Val d''Essonne (CCVE)';'CC';'FPU';21;61163;60076
+'91';249100553;'CC Entre Juine et Renarde (CCEJR)';'CC';'FPU';16;27935;27504
+'91';249100595;'CC le Dourdannais en Hurepoix (CCDH)';'CC';'FPU';11;26669;26202
+'95';200035970;'CC Vexin Centre';'CC';'FPU';34;25199;24859
+'95';200055655;'CA Roissy Pays de France';'CA';'FPU';42;356355;354451
+'95';200056380;'CA Plaine Vallée';'CA';'FPU';18;184367;182585
+'95';200058485;'CA Val Parisis';'CA';'FPU';15;280473;278166
+'95';200073013;'CC Carnelle Pays-de-France';'CC';'FA';19;32449;32065
+'95';249500109;'CA de Cergy-Pontoise';'CA';'FPU';13;212801;210633
+'95';249500430;'CC Sausseron Impressionnistes';'CC';'FPU';15;19572;19285
+'95';249500455;'CC de la Vallée de l''Oise et des Trois Forêts';'CC';'FA';9;39331;38783
+'95';249500489;'CC du Haut Val d''Oise';'CC';'FPU';9;39273;38986
+'95';249500513;'CC du Vexin-Val de Seine';'CC';'FPU';26;16984;16699
+'971';200018653;'CA CAP Excellence';'CA';'FPU';3;100801;99685
+'971';200041507;'CA La Riviéra du Levant';'CA';'FPU';4;65058;64239
+'971';200044691;'CA du Nord Grande Terre';'CA';'FPU';5;57904;57173
+'971';249710047;'CC de Marie-Galante';'CC';'FPU';3;10886;10655
+'971';249710062;'CA du Nord Basse-Terre';'CA';'FPU';6;78751;77398
+'971';249710070;'CA Grand Sud Caraïbe';'CA';'FPU';11;80001;78479
+'972';200041788;'CA du Pays Nord Martinique';'CA';'FPU';18;100230;99009
+'972';249720053;'CA de l''Espace Sud de la Martinique';'CA';'FPU';12;116803;115068
+'972';249720061;'CA du Centre de la Martinique';'CA';'FPU';4;156729;154706
+'973';200027548;'CC des Savanes';'CC';'FPU';4;30159;29843
+'973';249730037;'CC de l''Ouest Guyanais';'CC';'FPU';8;95341;94677
+'973';249730045;'CA du Centre Littoral';'CA';'FPU';6;145726;144501
+'973';249730052;'CC de l''Est Guyanais';'CC';'FPU';4;7246;7107
+'974';249740077;'CA CIVIS (Communauté Intercommunale des Villes Solidaires)';'CA';'FPU';6;183790;181704
+'974';249740085;'CA du Sud';'CA';'FPU';4;130598;128965
+'974';249740093;'CA Intercommunale de la Réunion Est (CIREST)';'CA';'FPU';6;128032;126877
+'974';249740101;'CA Territoire de la Côte Ouest (TCO)';'CA';'FPU';5;213494;210928
+'974';249740119;'CA Intercommunale du Nord de la Réunion (CINOR)';'CA';'FPU';3;209593;207487
+'976';200050532;'CC de Petite-Terre';'CC';'FPU';2;30039;29273
+'976';200059871;'CC du Centre-Ouest';'CC';'FPU';5;51449;50020
+'976';200060457;'CA de Dembeni / Mamoudzou';'CA';'FPU';2;89090;87285
+'976';200060465;'CA du Grand Nord de Mayotte';'CA';'FPU';4;60372;59042
+'976';200060473;'CC du Sud';'CC';'FPU';4;31945;30898
+'2A';200038958;'CC de la Pieve de l''Ornano et du Taravo';'CC';'FA';28;12921;12721
+'2A';200040764;'CC du Sud Corse';'CC';'FPU';7;21346;21003
+'2A';200067049;'CC Spelunca-Liamone';'CC';'FA';33;7752;7617
+'2A';242000495;'CC de l''Alta Rocca';'CC';'FPU';18;8605;8460
+'2A';242000503;'CC Celavu-Prunelli';'CC';'FPU';10;9018;8828
+'2A';242010056;'CA du Pays Ajaccien';'CA';'FPU';10;88893;87726
+'2A';242010130;'CC du Sartenais Valinco Taravo';'CC';'FPU';18;11759;11498
+'2B';200015162;'CC de l''Oriente';'CC';'FA';22;6078;6011
+'2B';200033827;'CC de Fium''Orbu Castellu';'CC';'FA';13;13143;12971
+'2B';200034205;'CC de la Costa Verde';'CC';'FA';23;10805;10666
+'2B';200036499;'CC de Marana-Golo';'CC';'FA';10;24224;23897
+'2B';200042943;'CC du Cap Corse';'CC';'FA';18;6869;6766
+'2B';200073104;'CC de l''Ile-Rousse - Balagne';'CC';'FPU';22;10739;10522
+'2B';200073120;'CC Nebbiu - Conca d''Oro';'CC';'FA';15;7527;7434
+'2B';200073138;'CC Pasquale Paoli';'CC';'FA';42;6180;6117
+'2B';200073252;'CC de la Castagniccia-Casinca';'CC';'FA';42;12616;12472
+'2B';242000354;'CA de Bastia';'CA';'FPU';5;62717;61691
+'2B';242020071;'CC du Centre Corse';'CC';'FA';10;9989;9820
+'2B';242020105;'CC de Calvi Balagne';'CC';'FPU';14;12545;12334

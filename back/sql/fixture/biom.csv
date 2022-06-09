@@ -1,0 +1,10 @@
+"id","department_code","it_code","workforce_group","sector_id","meta","usual_name","enabled","administrative_status","biom","q1","q2","q3","q4","q5","q6","q7","q8","q9","q10","q11","q12","q13"
+,"83",,"03",19,"""activity""=>""47.64Z""","TENOR FIT PARK",True,True,0.5400,5,0,2,0,0,,200,0.7400,True,0.0000,False,False,
+,"29",,"32",19,"""activity""=>""88.10C""","ATELIERS FOUESNANTAIS",True,True,0.9000,332,7,156,242,135,86,0,0.8500,True,0.5000,True,False,
+22706,"03","TI8407","21",17,"""activity""=>""38.12Z""","RECYCLEA",True,True,0.8200,60,4,14,44,60,,3609,0.8500,True,0.0000,True,False,
+301572,"34","TI7603","11",17,"""activity""=>""38.21Z""","SETOISE DE TRAITEMENT DES ORDURES MENAGERES SETOM",True,True,0.6400,17,0,0,1,15,,28020,0.6600,False,0.0000,True,False,
+225512,"29",,"31",17,"""activity""=>""38.21Z""","ECOTRI",True,True,0.8500,236,3,115,183,89,,0,0.8900,True,0.5000,True,False,
+,"29",,"12",19,"""activity""=>""96.01A""","KANNTI",True,True,0.8700,29,0,12,25,15,,0,0.9400,True,0.5000,True,False,
+,"29",,"21",19,"""activity""=>""81.30Z""","ATELIER PAYSAGE",True,True,0.8300,40,1,20,34,17,,0,0.9700,True,0.5000,True,False,
+,"35",,"12",19,"""activity""=>""68.20B""","LHG CARRIERE JANZE",True,True,0.5600,16,1,4,0,16,,0,0.7800,False,0.0000,True,False,
+688040,"73",,"12",5,"""activity""=>""16.23Z""","CHARPENTE ET OUVRAGE BOIS DE SAVOIE",True,True,0.6800,33,2,7,4,33,,0,0.7800,False,0.0000,False,False,
