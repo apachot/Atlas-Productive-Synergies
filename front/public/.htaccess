@@ -1,0 +1,5 @@
+#AuthType Basic
+#AuthName "Authentication Required"
+#AuthUserFile "/srv/httpd/iat/.htpasswd"
+#Require valid-user
+

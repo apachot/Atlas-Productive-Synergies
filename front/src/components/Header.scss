@@ -1,0 +1,96 @@
+@import '../css/util.scss' ;
+
+.Header {
+    @extend %flex-row ;
+    background-color: #fff;
+    font-size: 18px;
+    color: #000;
+    height: 60px;
+    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    justify-content: space-between;
+    align-items: center;
+    .Logo {
+        @extend %flex-row ;
+        align-items: center;
+        .Link {
+            .LogoSVG {
+                height:45px;
+            }
+        }
+        .Version {
+            font-size: 0.75rem;
+            line-height: 1rem;
+            color: $red-600;  
+            text-transform: uppercase;
+            margin-left: 0.5rem;         
+        }
+    }   
+    .Title {
+        @extend %flex-row;
+        align-items: center;
+        justify-content: center;
+        flex-grow: 1;
+        .Text{
+            text-align: center;
+            align-items: center;
+            @extend %text-base;
+            font-weight: 700;
+            color: $gray-900
+        }        
+    } 
+    .Button {
+        margin-left: 0.5rem;
+        margin-right: 1.5rem;
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        button{
+            background-color: $blue-400;
+            border-radius: 9999px;
+            color: $white;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+        }        
+    }
+    &.Mobile {
+        height: 70px;
+        z-index: 10;
+        .Logo {
+            @extend %flex-col ;
+            .Link {
+                .LogoSVG {
+                    height: 54px;
+                    margin-left: 20px;
+                }
+            }
+            .Version {
+                @extend %text-xxs;
+                margin-left: 5rem;
+                align-self: flex-start;
+            }
+        }
+    }
+    &.Mobile.portrait{
+        height: 80px;
+        .Title {
+            display: none;
+        }
+    }
+    &.Mobile.portrait.first {
+        z-index: 20;
+        .Title {
+            display: block;
+            position: absolute;
+            top:9rem;
+            @include margin-x(1.5rem);
+            .Text{
+                @extend %text-xxl;
+                font-weight: 700;
+                @include padding-x(2rem);
+            }
+        }
+    }
+}
+

@@ -1,0 +1,106 @@
+@import '../css/util.scss' ;
+
+.Etablissements {
+    @extend %flex-row;
+    @extend %full;
+
+    &.Wait {
+        cursor: wait !important;
+    }
+    .LeftPart {
+        width: 75%;
+        height: 100%;
+        background-color: $gray-200;
+        text-align: center;
+        color: $gray-700;
+        @extend %flex-col;
+        position: relative;
+        .Loader {
+            height: 100%;
+            @extend %flex-col;            
+        }
+    }
+}
+
+.Etablissements.MobileOnly {
+    .LeftPart {
+        .FiltresLink {
+            .filtreButton {
+                right: 0rem;
+                padding: 1.25rem;
+                .filtre{
+                    margin: 0.25rem;
+                }
+            }
+            .yearButton, .year {
+                display: none;
+            }
+        }
+        .Filtres {
+            display: none;
+        }   
+        .leaflet-control-zoom {
+            .leaflet-control-zoom-in, .leaflet-control-zoom-out {
+                padding: 20px;
+                border-radius: 10px !important;
+            }        
+        }
+    }
+    .SideBar {
+        .SideTopFiltres {
+            display: none;
+        }
+        .SideInfosRegion {
+            .TitreEtFiltre {
+                .Titre {
+                    display: none;
+                }
+                .Indicateur {
+                    margin-top: 0;
+                }
+            }
+        }
+    }
+}
+
+.Etablissements.MobileOnly.portrait {
+    flex-direction: column;
+    height: 140vh;
+    .LeftPart {
+        width: 100%;
+        height: 110vh;
+    }
+    .SideBar {
+        width: 100%;
+    }
+}
+
+.Etablissements.MobileOnly.landscape {
+    height: calc(100vh - 70px);
+    .LeftPart {
+        width: 50%;
+        height: 100%;
+    }
+    .SideBar {
+        width: 50%;
+        .SideInfosRegion {
+            .SideTopEtablishment {
+                position: absolute;
+                height: 80vh;
+                left: -50vw;
+                width: 50vw;
+                top: 85vh;
+            }
+            .Button{
+                margin-top: 1vh;
+            }
+            .TitreEtFiltre {
+                .SideFiltres {
+                    height: 57vh;
+                    justify-content: space-between;
+                    @include padding-y(1rem);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.29 27.15">
+    <g id="Calque_2">
+        <g id="Calque_1-2">
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="6.17" y1="22.54" x2="27.12" y2="22.54"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="3.33" y1="24.59" x2="29.96" y2="24.59"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="0.5" y1="26.65" x2="32.79" y2="26.65"/>
+            <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" points="32.01 9.21 1.28 9.21 16.64 0.5 32.01 9.21"/>
+            <rect fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x="5.37" y="9.6" width="22" height="13"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="8.37" y1="9.6" x2="8.37" y2="22.6"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="25.37" y1="9.6" x2="25.37" y2="22.6"/>
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M19.89,12a5,5,0,0,0-1.29-.17A4.39,4.39,0,0,0,14,16a4.4,4.4,0,0,0,4.58,4.18A5,5,0,0,0,19.89,20"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="13.37" y1="14.6" x2="19.37" y2="14.6"/>
+            <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" x1="13.37" y1="16.6" x2="19.37" y2="16.6"/>
+        </g>
+    </g>
+</svg>

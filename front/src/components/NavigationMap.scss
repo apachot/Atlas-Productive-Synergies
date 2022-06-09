@@ -1,0 +1,23 @@
+@import '../css/util.scss' ;
+
+.NavigationMap {
+    @extend %flex-col;
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    z-index: 500;
+    align-items: flex-start;
+
+    > button {
+        color: $gray-900;
+        border-bottom-width: 4px;
+        border-style: solid;
+        border-color: $blue-400;
+    }
+
+    > .Link {
+        > button {
+            color: $gray-500;
+        }
+    }
+}

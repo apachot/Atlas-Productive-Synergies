@@ -1,0 +1,48 @@
+@import '../css/util.scss' ;
+
+.Filtres.Jobs {
+    justify-content: start;
+    padding-left: 1rem;
+    .Block {
+        @extend %flex-col ;
+        .FilterHeader {
+            @extend %flex-row ;
+            justify-content: space-between;
+            .Description {
+                font-weight: 700;
+            }
+            .Selection {
+                @extend %text-xs;
+                color: $blue-500;
+                font-weight: 400;
+                text-decoration: underline;
+                cursor: pointer;
+                &.Wait {
+                    cursor: wait;
+                }
+            }
+        }
+        .Icons {
+            padding-bottom: 0.75rem;
+            @extend %flex-row;
+            .Icon {
+                height: 30px;
+                width: 30px;
+                margin-left: 0.5rem;
+                cursor: pointer;
+                &:first-of-type {
+                    margin-left: 0;
+                }
+                &.disabled {
+                    opacity: 0.2;
+                }
+                &.Wait {
+                    cursor: wait;
+                }
+                &.NotAllowed {
+                    cursor: not-allowed;
+                }                                
+            }
+        }
+    }
+}

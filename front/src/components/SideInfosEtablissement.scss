@@ -1,0 +1,113 @@
+@import '../css/util.scss' ;
+
+.SideInfosEtablissement {
+    position: relative;
+    flex-grow: 1;
+    .Container {
+        position: absolute;
+        @extend %full;
+        overflow-y: scroll;
+        @extend %flex-col;
+        .Title {
+            text-align: left;
+            @include padding-xy(0.5rem, 0.25rem) ;
+            @extend %text-sm;
+            .Etablishment {
+                font-weight: 700;
+            }
+            .Siret {
+                color: $gray-600;
+            }
+        }
+        .API {
+            @extend %flex-col;
+            overflow: hidden;
+            border-radius: 0.375rem;
+            .ImageUrl{
+                @extend %flex-col;
+                width: 100%;
+                @extend %flex-col;
+                height: 200px;
+                background-color: $gray-900;
+                img {
+                    width: 100%;
+                    max-height: 200px;
+                }
+            }
+            .Google {
+                width: 100%;
+                height: 200px;
+            }
+            .NR {
+                @include padding-y(0.5rem) ;
+            }
+        }
+        .Datas {
+            @extend %flex-col;
+            text-align: left;
+            align-items: flex-start;
+            @include margin-y(0.5rem) ;
+            position: relative;
+            .Menu {
+                width: 100%;
+                justify-content: space-evenly;
+                margin: 0;
+                padding-top: 0.5rem;
+            }
+            .Title {
+                @extend %text-base;
+            }
+            .Data {
+                width: 100%;
+                @extend %flex-col;
+                margin-top: 0.5rem;
+                .Menu0-Info {
+                    background-color: $gray-100;
+                    border-radius: 0.5rem;
+                    @include margin-x(0.5rem);
+                    padding-bottom: 0.25rem;
+                    margin-bottom: 0.5rem;
+                    .Info {
+                        @extend %flex-row;
+                        align-items: center;
+                        .Title {
+                            font-weight: 700;
+                            width: 35%;
+                        }
+                        .Value, .ValueLink, .ValueShedule {
+                            flex-grow: 1;
+                            @extend %text-xs;
+                            padding-top: 0.12rem;
+                        }
+                        .ValueLink {
+                            color : $indigo-400 ;
+                            font-weight: 700;
+                        }
+                        .OpenClose {
+                            margin-left: 0.5rem;
+                            @include padding-xy(0.4rem, 0.1rem) ;
+                            font-weight: 700;
+                            border-radius: 0.375rem;
+                            text-align: center;
+                            color: $white;
+                            &.Open {
+                                background-color: $green-600;
+                            }
+                            &.Close {
+                                background-color: $red-600;
+                            }
+                        }
+                        .ValueShedule {
+                            @extend %flex-col;
+                        }
+                    }
+                }
+                .ListBiom {
+                    justify-content: center;
+                    text-align: center;
+                    padding-top: 1rem;
+                }
+            }
+        }
+    }
+}

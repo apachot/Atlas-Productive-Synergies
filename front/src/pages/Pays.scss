@@ -1,0 +1,130 @@
+@import '../css/util.scss';
+
+.Pays {
+    position: relative;
+    @extend %full;
+}
+
+.Alt-Pays {
+    height: 100%;
+    &.portrait {
+        position: absolute;
+        top:0;
+        z-index: 10;
+    }
+    .Fond {
+        background-color: $gray-100;
+        background-image: url('../svgs/Atlas@2x.jpg');
+        background-size: 100% 100%;
+        background-blend-mode: darken;
+        height: 100%;
+
+        .SideTopFiltres {
+            padding-top: 28rem;
+            background-color: transparent;
+            border: 0;
+            @include padding-x(1rem);
+
+            .react-select-container {
+                @extend %text-base;
+                margin-bottom: 0.75rem;
+
+                .react-select__control {
+                    @include padding-y(0.25rem);
+                    border-radius: 2rem;
+                    background-color: $white;
+                    z-index: 0;
+                }
+
+                .react-select__menu {
+                    z-index: 100;
+
+                    .react-select__menu-list {
+                        z-index: 100;
+                    }
+                }
+            }
+        }
+
+        .Explore {
+            background-color: $blue-300;
+            font-weight: 700;
+            color: $white;
+            border-radius: 20rem;
+            width: 80%;
+            @include padding-y(0.75rem) ;
+        }
+
+        .Credits {
+            position: initial;
+            padding-top: 1rem;
+            @extend %flex-col ;
+            .Images {
+                @extend %flex-row ;
+                width: 100%;
+                justify-content: space-evenly;
+            }
+            .Text {
+                @include padding-x(0.4rem);
+                padding-top: 1rem;
+                @extend %flex-row;
+                @extend %text-sm;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                p:last-child {
+                    color:$blue-500;
+                    margin: auto;
+                    padding-top: 0.35rem;
+                }
+            }
+        }
+    }
+
+    .Fond.landscape {
+        position: absolute;
+        background-size: 33% 100%;
+        background-position: 12%;
+        background-repeat: no-repeat;      
+        height: 100vh;
+        width: 100vw;
+        top:0;
+        left:0;
+        @extend %flex-row;  
+        .SideTopFiltres {
+            display : none;
+        }
+        .Explore {
+            display: none;
+        }        
+        .Credits {
+            position: absolute;
+            bottom: 0;
+            width: 50%;
+            flex-shrink: 0;
+            .Text {
+                padding-top: 0;
+            }
+        }
+        .NavigationMap{
+            top: 105px;
+            @extend %text-xs;
+            left: calc(50% + 1.5rem);
+        }
+        .Pays {
+            position: absolute;
+            left:50%;
+            width: 50%;
+            top: 100px;
+            height: calc(100vh - 100px);
+            .Legende {
+                display:none;
+            }
+        }
+    }
+    .Fond.portrait{
+        .Pays {
+            display: none;
+        }
+    }
+}
+

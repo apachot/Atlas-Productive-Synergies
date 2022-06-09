@@ -1,0 +1,121 @@
+@import '../css/util.scss' ;
+
+.EtablissementCustomSlide {
+    position: absolute;
+    @include padding-xy(1rem, 0.25rem) ;
+    @extend %flex-col;
+    align-items: flex-start;
+    justify-content: space-between;
+    box-shadow: 8px 9px 9px -1px rgba(0,0,0,0.07);
+    @extend %text-sm;
+    top: 7rem;
+    height: 15.0rem;
+    width: 16rem;
+    right: 1rem;
+    z-index: 501;
+    background-color: $white;
+    border-radius: 1rem;
+    .ProviderTitle {
+        margin-top: 0.5rem;
+        @extend %text-xs;
+        font-weight: 700;
+    }
+    .CustomerProvider {
+        padding-top: 0.25rem;
+        font-weight: 700;
+    }
+    .CustomerProvider,
+    .AltProvider {
+        padding-left: 1rem;
+        @extend %text-xs;
+    }
+    .PropositionNote {
+        @extend %text-xxxs;
+    }
+    .AltProvider {
+        @extend %flex-row;
+        justify-content: space-between;
+        padding-top: 0.05rem;
+        width: 100%;
+        padding-bottom: 0.25rem;
+    }
+    
+
+}
+
+.EtablishmentMap {
+    height: 100%;
+}
+
+.Etablissement.MobileOnly {
+    .EtablissementCustomSlide {
+        @extend %text-xs;
+        z-index: 905;
+        justify-content: start;
+        line-height: 0.15rem;
+        .MuiSlider-root {
+            @include padding-y(0.7rem);
+        }
+    }
+}
+
+.Etablissement.portrait.MobileOnly {
+    .EtablishmentMap {
+        height: calc(100% - 6.5rem) ;
+        .leaflet-control-container {
+            .leaflet-bottom {
+                .legend:first-of-type {
+                    display: none;
+                }
+            }
+        }
+    }
+    .EtablissementCustomSlide {
+        top: auto;
+        left: 1rem;
+        width: calc(100% - 2rem);
+        bottom: 0rem;
+        height: 6.5rem;
+        .CustomerProvider,
+        .AltProvider {
+            padding-left: 3rem;
+        }
+    
+        .CustomerProvider {
+            padding-top: 0.10rem;
+            
+        }
+        .AltProvider {
+            padding-bottom: 0.70rem;
+        }
+    }
+}
+
+.Etablissement.landscape.MobileOnly {
+    .EtablissementCustomSlide {
+        top: 0.25rem;
+        right:0.25rem;
+        width: 12rem;
+        height: 10rem;
+        .AltProvider {
+            padding-left: 1rem;
+            .custom-switch {
+                padding-left: 0;
+            }
+        }
+
+        .CustomerProvider {
+            padding-left: 1rem;
+            flex-direction: column;
+            justify-items: left;
+            align-items: flex-start;
+            .custom-switch {
+                padding-left: 0;
+                padding-bottom: 0.25rem;
+                &:first-child {
+                    width: 4.0rem;
+                }
+            }
+        }
+    }
+}

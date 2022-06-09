@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -2026.54)">
+        <rect stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" width="15.262"
+              height="15.262" transform="translate(126.347 2038.909)"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M129.219,2033.05h.676a.817.817,0,0,1,.817.817v2.663H128.4v-2.663a.817.817,0,0,1,.817-.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M133.64,2033.05h.676a.817.817,0,0,1,.817.817v2.663h-2.31v-2.663a.817.817,0,0,1,.817-.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M138.061,2033.05h.676a.817.817,0,0,1,.817.817v2.663h-2.31v-2.663a.817.817,0,0,1,.817-.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M138.737,2060.03h-.676a.817.817,0,0,1-.817-.817v-2.663h2.31v2.663a.817.817,0,0,1-.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M134.316,2060.03h-.676a.817.817,0,0,1-.817-.817v-2.663h2.31v2.663a.817.817,0,0,1-.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M129.9,2060.03h-.676a.817.817,0,0,1-.817-.817v-2.663h2.31v2.663a.817.817,0,0,1-.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M147.468,2041.781v.676a.817.817,0,0,1-.817.817h-2.663v-2.31h2.663a.817.817,0,0,1,.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M147.468,2046.2v.676a.817.817,0,0,1-.817.817h-2.663v-2.31h2.663a.817.817,0,0,1,.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M147.468,2050.623v.676a.817.817,0,0,1-.817.817h-2.663v-2.31h2.663a.817.817,0,0,1,.817.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M120.488,2051.3v-.676a.817.817,0,0,1,.817-.817h2.663v2.31h-2.663a.817.817,0,0,1-.817-.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M120.488,2046.878v-.676a.817.817,0,0,1,.817-.817h2.663v2.31h-2.663a.817.817,0,0,1-.817-.817Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M120.488,2042.457v-.676a.817.817,0,0,1,.817-.817h2.663v2.31h-2.663a.817.817,0,0,1-.817-.817Z"/>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+    <g>
+        <rect
+            x="0"
+            y="0"
+            width="80"
+            height="80"
+            transform="rotate(45, 40, 40) translate(30,3)"
+        />
+    </g>
+</svg>

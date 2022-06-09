@@ -1,0 +1,145 @@
+.App-header {
+  background-color: #fff;
+  font-size: 18px;
+  color: #000;
+  height: 60px;
+}
+.App-header .bandeau {
+  height: 68px;
+}
+
+.App-header .logo {
+  padding-left: 15px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.Select-value-label,
+.Select-option {
+  white-space: pre-wrap;
+}
+.rfs-option {
+  /*height: 70px!important;*/
+  font-size: 12px;
+}
+div.disabled > div[role="combobox"] {
+  cursor: not-allowed;
+}
+
+.svgpanzoom > svg > g > rect {
+  opacity: 0;
+}
+.proximityLine {
+  stroke-width: 2px;
+}
+
+.relatedToSelectedTarget {
+  stroke: rgba(247, 64, 180, 1);
+  opacity: 0.2;
+}
+
+.relatedToHoveredTarget {
+  stroke: black;
+  opacity: 0.2;
+}
+
+.customLegend {
+  background: #fff;
+  width: 280px;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-content: center;
+  border-radius: 10px;
+  left: 10px;
+  box-shadow: 0 0px 2.2px -10px rgba(0, 0, 0, 0.028),
+    0 0px 7.4px -10px rgba(0, 0, 0, 0.042), 0 0px 33px -10px rgba(0, 0, 0, 0.07);
+  bottom: 140px;
+}
+
+.filtersTooltip {
+  max-width: 200px;
+}
+
+.sideProduitTooltip {
+  max-width: 300px;
+}
+
+.sideProximityTooltip {
+  overflow: visible;
+  visibility: visible;
+  max-width: 300px;
+}
+.dropdownHoraires {
+  padding: 10px;
+  background-color: #4f5156;
+  color: white;
+}
+.cursorWait {
+  cursor: wait !important;
+}
+
+/*
+.topRightButton {
+  background-color: #fff;
+  color: #000;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  font-weight: bold;
+  right: 5px;
+
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+
+  border: 0 solid rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: right;
+  padding: 25px;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+.topRightButton--selected {
+  background-color: #63b3ed;
+  color: white;
+}
+*/
+
+.debug-red {
+  border: 1px solid red;
+}
+
+.debug-green {
+  border: 1px solid green;
+}
+
+.box-comp {
+  flex: 1 0 30px;
+  height: 30px;
+  //margin-left: 5px;
+}
+
+@media screen and (max-width: 1820px) {
+   .box-comp { flex: 1 0 calc(8.8% ); } 
+}
+
+@media screen and (max-width: 1300px) {
+   .box-comp { flex: 1 0 calc(13% ); } 
+}
+
+@media screen and (max-width: 1240px) {
+   .box-comp { flex: 1 0 calc(18% ); } 
+}
+

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -1760.298)">
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M138.555,1770.13H129.4l-2.268,23.092h13.688Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="24.473"
+              transform="translate(121.742 1793.222)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="11.162"
+              transform="translate(128.323 1781.606)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="10.083" y2="11.476"
+              transform="translate(129.402 1770.13)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="12.499" y2="11.616"
+              transform="translate(128.323 1781.606)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y1="11.616" x2="12.351"
+              transform="translate(127.134 1781.606)"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" y1="11.476" x2="10.232"
+              transform="translate(128.323 1770.13)"/>
+        <rect stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" width="13.688"
+              height="2.755" transform="translate(127.134 1767.374)"/>
+    </g>
+</svg>

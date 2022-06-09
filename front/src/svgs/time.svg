@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.02 26.04">
+    <g id="Calque_2">
+        <g id="Calque_1-2">
+            <g id="Groupe_2201">
+                <line id="Ligne_5" fill="none" stroke="#242528" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" x1="17.01" y1="5.54" x2="17.01" y2="13.01"/>
+                <line id="Ligne_6" fill="none" stroke="#242528" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" x1="24.48" y1="13.01" x2="17" y2="13.01"/>
+                <g id="Groupe_2200">
+                    <path id="Ellipse_57" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M5,13a12,12,0,1,1,6.18,10.52"/>
+                    <path id="Tracé_2720" fill="#2f3134" d="M5,18,0,13H10Z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

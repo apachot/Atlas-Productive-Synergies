@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="5 5 30 30">
+    <g transform="translate(-113.979 -2070.914)">
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M138,2079.051a3.269,3.269,0,0,0-3.41,3.123,3.235,3.235,0,0,0,.061.785l2.812,14.1a4.927,4.927,0,0,0,9.662-1.933,5.072,5.072,0,0,0-.345-1.069l-5.947-13.089A3.27,3.27,0,0,0,138,2079.051Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M135.922,2079.688l-10.487,11.28a3.079,3.079,0,0,0,4.39,4.319l5.939-5.892"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M121.31,2101.837h0a3.085,3.085,0,1,0-2.295-2.258"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor"
+              d="M142.214,2093.358a2.733,2.733,0,1,0,2.81,2.733h0a2.732,2.732,0,0,0-2.729-2.734Z"/>
+        <line stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" x2="19.057"
+              transform="translate(129.976 2102.779)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.228" cy="1.228"
+                r="1.228" transform="translate(136.91 2081.783)"/>
+        <circle stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="currentColor" cx="1.228" cy="1.228"
+                r="1.228" transform="translate(126.618 2091.622)"/>
+    </g>
+</svg>

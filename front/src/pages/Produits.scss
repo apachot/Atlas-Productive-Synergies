@@ -1,0 +1,182 @@
+@import '../css/util.scss' ;
+
+.Produits {
+    @extend %flex-row;
+    @extend %full;
+
+    &.Wait {
+        cursor: wait !important;
+    }
+
+    .LeftPart {
+        width: 75%;
+        height: 100%;
+        background-color: $gray-200;
+        text-align: center;
+        color: $gray-700;
+        @extend %flex-col;
+        position: relative;
+    }
+
+    .RightPart {
+        width: 25%;
+        height: 100%;
+        background-color: $white;
+        text-align: center;
+        color: $gray-700;
+        @extend %flex-col;
+    }
+}
+
+.Produits.MobileOnly.portrait {
+    @extend %flex-col;
+    height: 160vh;
+    overflow: visible;
+
+    .LeftPart {
+        width: 100%;
+        height: 60vh;
+        flex-shrink: 0;
+        .FiltresLink {
+            position: absolute;
+            right: 0rem;
+            margin-right: 0.5rem;
+            margin-top: 0.25rem;
+            .filtreButton{
+                position: initial;
+                border-radius: 0;
+                right: initial;
+                margin: initial;
+            }
+            .yearButton, .year {
+                display: none;
+            }
+        }
+        .OSSpace {
+            height: 50%;
+        }
+        .Filtres {
+            display:none;
+        }
+    }
+    .SideBar {
+        width: 100%;
+        height: 100vh;
+        .SideTopFiltres{
+            display: none;
+        }
+        .SideTopFiltresFull {
+            margin-top: 2.8rem;
+            .Title {
+                div:first-child{
+                    display: none;
+                }
+            }
+        }
+        .SideInfosProduit{
+            .LinkProximityLink {
+                position: absolute;
+                top:0;
+                width: 100%;
+            }
+        }
+    }
+}
+
+.Produits.MobileOnly.landscape {
+    height: calc(100vh - 70px);
+    .LeftPart {
+        width:60%;
+        .OSSpace {
+            height: 50%;
+        }
+        .FiltresLink {
+            position: absolute;
+            right: 0rem;
+            margin-right: 0.5rem;
+            margin-top: 0.25rem;
+            .filtreButton{
+                position: initial;
+                border-radius: 0;
+                right: initial;
+                margin: initial;
+            }
+            .yearButton, .year {
+                display: none;
+            }
+        }        
+        .Filtres {
+            display:none;
+        }
+    }
+    .SideBar {
+        width:40%;
+        .SideTopFiltresFull {
+            @include padding-y(0.20rem) ;
+            .Title div:first-child{
+                display: none;
+            }
+        }
+        .SideTopFiltres{
+            display: none;
+        }
+        .SideInfosRegion .TitreEtFiltre{ 
+            .Titre {
+                display: none;
+            }
+            .Indicateur {
+                margin-top: 0;
+                .IndicateurAdvantage .Value, .IndicateurNumber .Value {
+                    font-size: 0.8rem;
+                    @include padding-xy(0.5rem, 0.25rem) ;
+                }
+            }
+            .SideFiltres {
+                padding: 0;
+                .react-select-container {
+                    line-height: 0.8rem;
+                }
+            }
+        }
+
+        .SideInfosRegion .SideTopProduit{
+            position: absolute;
+            left:-60vw;
+            top:83vh;
+            width: 60vw;
+            height: 80vh;
+            overflow: hidden;
+        }
+
+        .SideInfosRegion .Button {
+            display: none;
+        }
+        
+        .SideInfosProduit {
+            .productHead {
+                .LibelleProduit{
+                    @include padding-y(0rem) ;
+                    position: relative;
+                    .Title{
+                        .Primary{
+                            text-overflow: ellipsis;
+                            height: 1.35rem;
+                            overflow: hidden;
+                            white-space: nowrap;
+                            font-size: 0.9rem;
+                        }
+                        .Secondary {
+                            text-align: start;
+                            margin-bottom: 0.2rem;
+                        }
+                        .Code {
+                            position: absolute;
+                            right: 0.5rem;
+                            bottom: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

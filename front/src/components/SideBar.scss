@@ -1,0 +1,48 @@
+@import '../css/util.scss' ;
+
+.SideBar {
+    width: 25%;
+    height: 100%;
+    @extend %flex-col ;
+    position: relative;
+    .SideOptions {
+        @extend %flex-row ;
+        justify-content: space-between;
+        margin-bottom: 0.25rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        .SideButton {
+            border-radius: 0.375rem ;
+            background-color: $gray-300;
+            padding-top: 0.25rem;
+            padding-bottom: 0.25rem;
+            @extend %text-xs;
+            text-align: left;
+            display: inline-flex;
+            align-items: center;
+            margin-right: 0.5rem;
+            .Image {
+                width: 30px;
+                height: 30px;
+            }
+        }
+        @media screen and (max-width: 1100px) {
+            .SideButton {
+                font-size: 0.6rem;
+                .Image {
+                    width: 25px;
+                    height: 25px;
+                }
+            }
+        }
+        @media screen and (max-width: 900px) {
+            .SideButton {
+                font-size: 0.5rem;
+                .Image {
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,135 @@
+
+$blue-300: #46B7E7;
+$blue-400: rgba(99, 179, 237, 1);
+$blue-500: rgba(66, 153, 225, 1);
+
+$red-600: rgba(229, 62, 62, 1);
+
+$green-600: rgba(56, 161, 105, 1);
+
+$indigo-400: rgba(127, 156, 245, 1);
+
+$yellow-400: rgba(246, 224, 94, 1);
+
+
+$white: rgba(255, 255, 255, 1); 
+$black: rgba(0, 0, 0, 1);
+$primary: rgba(47, 49, 53, 1) ;
+$primary-75: rgba(47, 49, 53, 0.75) ;
+$secondary: rgba(150, 152, 155, 1) ;
+
+$gray-100: rgba(247, 250, 252, 1);
+$gray-200: rgba(237, 242, 247, 1);
+$gray-300: rgba(226, 232, 240, 1);
+$gray-400: rgba(203, 213, 224, 1);
+$gray-500: rgba(160, 174, 192, 1);
+$gray-600: rgba(113, 128, 150, 1) ;
+$gray-700: rgba(74, 85, 104, 1);
+$gray-900: rgba(26, 32, 44, 1);
+
+@mixin debug($color: red) {
+    border: 1px solid $color;
+}
+
+@mixin padding-xy($x, $y) {
+    padding-left: $x;
+    padding-right: $x;
+    padding-top: $y;
+    padding-bottom: $y;
+}
+
+@mixin padding-x($x) {
+    padding-left: $x;
+    padding-right: $x;
+}
+
+@mixin padding-y($y) {
+    padding-top: $y;
+    padding-bottom: $y;
+}
+
+@mixin margin-xy($x, $y) {
+    margin-left: $x;
+    margin-right: $x;
+    margin-top: $y;
+    margin-bottom: $y;
+}
+
+@mixin margin-x($x) {
+    margin-left: $x;
+    margin-right: $x;
+}
+
+@mixin margin-y($y) {
+    margin-top: $y;
+    margin-bottom: $y;
+}
+
+%text-xxxs {
+    font-size: 0.5rem;
+    line-height: 0.55rem;
+}
+
+%text-xxs {
+    font-size: 0.6rem;
+    line-height: 0.8rem;
+}
+
+%text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+
+%text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
+
+%text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+%text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+%text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+%text-xxl {
+    font-size: 1.5rem;
+    line-height: 1.90rem;
+}
+%text-3xl {
+    font-size: 2.5rem;
+    line-height: 2rem;
+}
+
+%text-4xl {
+    font-size: 3rem;
+    line-height: 2rem;
+}
+
+%flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+%flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+%mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+%full {
+    height: 100%;
+    width: 100%;
+}

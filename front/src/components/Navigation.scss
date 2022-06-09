@@ -1,0 +1,146 @@
+@import '../css/util.scss' ;
+
+.Navigation {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    position: absolute;
+    z-index: 500;
+    width: 100%;
+    margin-top: 0.25rem;
+    @extend %flex-row;
+    .Link>.Button {
+        display: inline-flex;
+        width: 9rem;
+        background-color:$white;
+        border-radius: 0.25rem;
+        margin: 0.5rem;
+        padding: 0.25rem;
+        &.Select {
+            border-bottom-width: 4px;
+            border-style: solid;
+            border-color: $blue-400;
+        }
+        .Content {
+            padding: 0.25rem;
+            @extend %text-sm ;
+            @extend %mx-auto ;
+            @extend %flex-row ;
+            .Icon {
+                width: 25px;
+                height: 25px;
+                margin-right: 0.5rem;
+                margin-top: 0.25rem;
+            }
+            .Text {
+                @extend %flex-col ;
+                text-align: left;
+                .Title {
+                    @extend %text-xs;
+                    font-weight: 500;
+                    color: $black;
+                }
+                .Number {
+                    @extend %text-xs;
+                    font-weight: 600;
+                    color : $primary-75;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 1260px) {
+        .Link>.Button {
+            width: 7rem;
+            .Content>.Icon {
+                width: 20px;
+                height: 20px;
+            }
+            .Content>.Text>.Title, .Content>.Text>.Number {
+                font-size: 0.6rem;
+            }
+        }
+    }
+    @media screen and (max-width: 1260px) {
+        .Link>.Button {
+            width: 6rem;
+            .Content>.Text>.Title, .Content>.Text>.Number {
+                font-size: 0.5rem;
+            }
+        }
+    }
+}
+
+.Navigation.MobileOnly {
+    position: absolute;
+    left: 0.5rem;
+    top:0.5rem;
+    width: 10.5rem;
+    margin: 0;
+    @extend %flex-col;
+
+    .MenuButton, .ListItemMenu .MenuButton {
+        position: relative;
+        width: 100%;
+        border-radius: 0.35rem;
+        background-color: $blue-300;
+        color: $white;
+        .Content  {
+            @extend %flex-row;
+            align-items: center;
+            @include padding-xy(0.75rem, 0.125rem) ;
+            .Icon {
+                width: 25px;
+                height: 25px;
+                flex-shrink: 0;
+                flex-grow: 0;
+                filter: invert(99%) sepia(54%) saturate(96%) hue-rotate(60deg) brightness(118%) contrast(100%);
+            }
+            .Text {
+                text-align: left;
+                .Title {
+                    font-size: 0.80rem;
+                    line-height: 1rem;
+                }
+                .Number {
+                    font-size: 0.80rem;
+                    line-height: 1rem;
+                }
+                font-weight: 700;
+                padding-left: 1rem;
+            }
+            .DropDown {
+                position: absolute;
+                right: 0;
+                margin-left: 0.45rem;
+                height:18px;
+            }
+        }
+    }
+    .ListItemMenu{
+        background-color: transparent;
+        .MenuButton{
+            margin-top: 0.25rem;
+            background-color: $white;
+            color: $black;
+            .Content  {
+                .Icon {
+                    filter: none;
+                }
+                .DropDown{
+                    display: none;
+                }
+                .Text {
+                    font-weight: 400;
+                    .Number {
+                        color: $gray-700;
+                    }
+                }
+            }
+        }
+    }   
+    .FiltresLink{
+        position: absolute;
+        right: 0.5rem;
+    } 
+}
+

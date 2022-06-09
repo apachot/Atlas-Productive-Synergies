@@ -1,0 +1,28 @@
+@import '../css/util.scss';
+
+.Credits {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    z-index: 500;
+    @extend %flex-col;
+    margin: 0.5rem;
+
+    .Images {
+        width: 80px;
+        .Uca {
+            width: 60px;
+            height: 59px;
+        }
+
+        .Os {
+            width: 80px;
+            height: 63px;
+        }
+    }
+
+    .Text {
+        text-align: left;
+        color: $gray-500;
+    }
+}

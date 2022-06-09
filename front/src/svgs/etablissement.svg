@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 24">
+    <g id="Calque_2" data-name="Calque 2">
+        <g id="points">
+            <g id="Composant_38_34" data-name="Composant 38 34">
+                <line id="Ligne_2" data-name="Ligne 2" fill="none" stroke="#2f3134" stroke-miterlimit="10" stroke-linecap="round" x1="0.5" y1="23.5" x2="35.5" y2="23.5"/>
+                <g id="Groupe_558" data-name="Groupe 558">
+                    <rect id="Rectangle_1545" data-name="Rectangle 1545" fill="none" stroke="#2f3134" stroke-linecap="round" stroke-linejoin="round" x="24.69" y="0.5" width="6.68" height="23"/>
+                    <path id="Tracé_809" data-name="Tracé 809" fill="none" stroke="#2f3134"  stroke-linecap="round" stroke-linejoin="round" d="M18,6.1v5.59L11.32,7.4v4.29L4.63,7.4V23.5H24.68V6.1Z"/>
+                    <rect id="Rectangle_1546" data-name="Rectangle 1546" fill="none" stroke="#2f3134"  stroke-linecap="round" stroke-linejoin="round" x="13.5" y="16.56" width="5.13" height="6.94"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

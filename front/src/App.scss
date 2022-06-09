@@ -1,0 +1,12 @@
+@import './css/util.scss';
+
+.App {
+    @extend %flex-col;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.App.MobileOnly {
+    height: auto;
+}

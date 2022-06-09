@@ -1,0 +1,239 @@
+
+.leaflet-container {
+  width: 100%;
+  height: calc(100vh - 80px - 100px); /*Header 80px, filtres 100px*/
+}
+
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+  border: none;
+}
+
+.regionsLabel {
+  font-size: 10px;
+  margin-left: 50px;
+}
+
+.bottomFilters {
+  background-color: white;
+  height: 100px;
+  max-height: 100px;
+  display: flex;
+}
+.bottomFilters > div {
+  max-height: 100px;
+}
+
+.bottomFilters div.disabled,
+.bottomFilters svg.disabled {
+  opacity: 0.2;
+}
+
+.bottomFilters div.inactive,
+.bottomFilters svg.inactive {
+  border-bottom-width: 2px;
+  border-style: solid;
+}
+
+.filter_separator {
+  height: 50px;
+  margin: auto;
+}
+
+.leaflet-bottom {
+  z-index: 800;
+}
+
+.establishmentTooltip {
+  background: none;
+  border: none;
+  color: #242424; /*#575f6a;*/
+  box-shadow: none;
+  text-transform: capitalize;
+}
+.establishmentTooltip:before {
+  border-top: none;
+}
+
+.establishmentTooltip--current {
+  background: none;
+  border: none;
+}
+
+.establishmentTooltip {
+  font-size: 12px;
+  font-weight: 500;
+}
+.establishmentTooltip--s {
+  font-size: 13px;
+}
+.establishmentTooltip--m {
+  font-size: 14px;
+}
+.establishmentTooltip--xl {
+  font-size: 16px;
+}
+.establishmentTooltip--xl {
+  font-size: 17px;
+}
+.establishmentTooltip--xxl {
+  font-size: 18px;
+}
+
+.leaflet-tooltip-left.establishmentTooltip::before {
+  box-shadow: none;
+}
+.leaflet-tooltip-right.establishmentTooltip::before {
+  box-shadow: none;
+}
+
+.markerPopup {
+  opacity: 0.9 !important;
+}
+.markerPopup p {
+  text-align: center;
+}
+.markerPopup p.titre {
+  font-size: 14px;
+  margin: 12px 0 7px 0;
+  border-bottom: #a09c9c 1px solid;
+}
+.markerPopup p.description {
+  font-size: 12px;
+  margin: 0 0 12px 0;
+}
+.leaflet-popup-content {
+  margin: 13px;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  box-shadow: none;
+}
+
+.legend {
+  background: #fff;
+  width: 240px;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-content: center;
+  border-radius: 10px;
+  bottom: 20px;
+  left: 10px;
+  box-shadow: 0 0 2px -10px rgba(0, 0, 0, 0.028),
+    0 0 7px -10px rgba(0, 0, 0, 0.042), 0 0 33px -10px rgba(0, 0, 0, 0.07);
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+}
+
+.legend div:first-child {
+  margin-top: 0;
+}
+
+.legend div i {
+  width: 15px;
+  height: 3px;
+  border-bottom-width: 3px;
+}
+
+.legend div span {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.leaflet-control-zoom {
+  background-color: transparent;
+  box-shadow: none;
+  margin-bottom: 0;
+}
+
+.leaflet-control-zoom a {
+  padding: 25px;
+  margin-bottom: 10px;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px !important;
+  border: 0 !important;
+  box-shadow: 0 0.8px 10px rgba(0, 0, 0, 0.06), 0 6px 80px rgba(0, 0, 0, 0.12);
+}
+
+.nameControl,
+.lineControl {
+  width: 150px;
+  background-color: #fff;
+  border-radius: 6px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nameControl div,
+.lineControl div {
+  padding: 5px 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nameControl .toggleLabel label {
+  margin-left: 15px;
+}
+
+.custom-control-input-success:checked ~ .custom-control-label::before {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}
+
+.custom-control-input-danger:checked ~ .custom-control-label::before {
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+}
+
+.custom-control-input-warning:checked ~ .custom-control-label::before {
+  background-color: #ffc107 !important;
+  border-color: #ffc107 !important;
+}
+
+.custom-control-input-info:checked ~ .custom-control-label::before {
+  background-color: #17a2b8 !important;
+  border-color: #17a2b8 !important;
+}
+
+/* Large toggl switches */
+.custom-switch-lg .custom-control-label::before {
+  left: -2.25rem;
+  width: 3rem;
+  border-radius: 1.5rem;
+}
+
+.custom-switch-lg .custom-control-label::after {
+  top: calc(0.25rem + 3px);
+  left: calc(-2.25rem + 4px);
+  width: calc(1.5rem - 6px);
+  height: calc(1.5rem - 6px);
+  border-radius: 1.5rem;
+}
+
+.custom-switch-lg .custom-control-input:checked ~ .custom-control-label::after {
+  transform: translateX(1.4rem);
+}
+
+.custom-switch-lg .custom-control-label::before {
+  height: 1.5rem;
+}
+
+.custom-switch-lg .custom-control-label {
+  padding-left: 1.5rem;
+  line-height: 1.7rem;
+}

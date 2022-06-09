@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.99 74.49">
+    <g id="Calque_2" data-name="Calque 2">
+        <g id="Calque_1-2" data-name="Calque 1">
+            <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M50.72,1H9.6A8.6,8.6,0,0,0,1,9.6V64.89a8.6,8.6,0,0,0,8.6,8.6H56.39a8.6,8.6,0,0,0,8.6-8.6V15.27H50.72Z"/>
+            <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" points="50.72 1 50.72 15.27 64.99 15.27 50.72 1"/>
+            <rect fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" x="11.47" y="22.48" width="43.04" height="6.92"/>
+            <rect fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" x="11.47" y="33.82" width="43.04" height="6.92"/>
+            <path d="M10.18,56.77a7.93,7.93,0,0,1,7.82-8,7.5,7.5,0,0,1,5.79,2.62l-1.48,1.25a5.66,5.66,0,0,0-4.31-2,6.1,6.1,0,0,0,0,12.18,5.66,5.66,0,0,0,4.31-2l1.48,1.26A7.49,7.49,0,0,1,18,64.7,7.87,7.87,0,0,1,10.18,56.77Z"/>
+            <path d="M28.33,60.07h2a3.17,3.17,0,0,0,3.42,2.75,2.8,2.8,0,0,0,3.1-2.66c0-1.49-1.36-2.16-2.66-2.5l-2-.49c-3.26-.78-3.78-2.71-3.78-4,0-2.66,2.4-4.45,5.08-4.45s4.87,1.72,4.87,4.47h-2a2.68,2.68,0,0,0-2.93-2.59,2.77,2.77,0,0,0-3,2.55c0,.54.18,1.61,2.23,2.15l2,.53c2.61.69,4.18,2,4.18,4.23,0,2.39-1.95,4.6-5.14,4.6S28.35,62.47,28.33,60.07Z"/>
+            <path d="M52,49H54l-4.62,15.4h-2L42.82,49H44.9l3.53,12Z"/>
+        </g>
+    </g>
+</svg>
