@@ -148,6 +148,7 @@ export default function Navigation({ navigation }: NavigationType) {
         sel: navigation === "metiers",
         url: urlMetier,
       },
+      /*
       { 
         But: <MobileButton Icon={Formation} init={countInit} nb={nbFormation} title={"Formations"} />, 
         sel: false,
@@ -156,6 +157,7 @@ export default function Navigation({ navigation }: NavigationType) {
         But: <MobileButton Icon={Individu} init={countInit} nb={nbIndividu} title={"Individus"} />, 
         sel: false 
       },
+      */
     ]
     return (
       <div className={`Navigation MobileOnly ${orientation}`}>
@@ -188,8 +190,17 @@ export default function Navigation({ navigation }: NavigationType) {
       <NavGeneral url={urlEtablissement} selected={navigation === "etablissements"} init={countInit} nb={nbEtablissement} Icon={Etablissement} title="Etablissements" />
       <NavGeneral url={urlProduit} selected={navigation === "produits"} init={countInit} nb={nbProduit} Icon={Produit} title='Produits' />
       <NavGeneral url={urlMetier} selected={navigation === "metiers"} init={countInit} nb={nbMetier} Icon={Metier} title="Métiers" />
+    </div>
+  );
+  /*
+  return (
+    <div className="Navigation">
+      <NavGeneral url={urlEtablissement} selected={navigation === "etablissements"} init={countInit} nb={nbEtablissement} Icon={Etablissement} title="Etablissements" />
+      <NavGeneral url={urlProduit} selected={navigation === "produits"} init={countInit} nb={nbProduit} Icon={Produit} title='Produits' />
+      <NavGeneral url={urlMetier} selected={navigation === "metiers"} init={countInit} nb={nbMetier} Icon={Metier} title="Métiers" />
       <NavGeneral url={'#'} selected={false} init={false} nb={nbFormation} Icon={Formation} title="Formations" />
       <NavGeneral url={'#'} selected={false} init={false} nb={nbIndividu} Icon={Individu} title="Individus" />
     </div>
   );
+  */
 }

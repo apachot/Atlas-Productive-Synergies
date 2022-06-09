@@ -141,7 +141,7 @@ export default function SideFiltres(props: {
           isOptionSelected={(selOpt) => selOpt.value === metierId}
         />
       </div>
-      {/* TODO: SELECT FORMATION */}
+      {/* TODO: SELECT FORMATION 
       <div className={`relative ${filtresIndisponibles?.metier ? "disabled" : ""}`}>
         <Select
           className="react-select-container"
@@ -154,6 +154,7 @@ export default function SideFiltres(props: {
           isDisabled={filtresIndisponibles?.metier}
         />
       </div>
+      */}
     </div>
   );
 }

@@ -25,9 +25,6 @@ const TheLogo = () => {
       <Link className = "Link" to={`/`} onClick={() => { dispatch(reinitFilter()) }}>
         <Logo className = "LogoSVG"/>
       </Link>
-      <span className={"Version"}>
-        <Trans>Version bêta</Trans>
-      </span>
     </div>
   )
 }

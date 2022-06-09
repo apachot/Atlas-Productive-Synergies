@@ -27,12 +27,18 @@ const SideButton = ({Image, text}: SideButtonType) => {
 
 function SideOptions() {
   return (
+    <div className="SideOptions" style={{marginBottom:10}}>
+    </div>
+  );
+  /*
+  return (
     <div className="SideOptions">
       <SideButton Image={Csv} text={'Télécharger les données'} />
       <SideButton Image={Image} text={"Télécharger l'image"} />
       <SideButton Image={Partager} text={'Partager'} />
     </div>
   );
+  */
 }
 
 
