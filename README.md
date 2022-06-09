@@ -36,7 +36,7 @@ The research work was conducted by Arnault Pachot, President of OpenStudio in th
 *UCA Team:*
 * Phd student: [Arnault Pachot](https://github.com/apachot)
 * Thesis director: Professor Frédéric Chausse
-* Thesis supervisors: Dr Adélaïde Albouy-Kissi & Dr Benjamin Albouy.
+* Thesis supervisors: Dr Adélaïde Albouy-Kissi & Dr Benjamin Albouy-Kissi.
 
 ### Papers : #
 
